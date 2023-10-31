@@ -4,3 +4,5 @@ pandas
 dash>=2.0.0
 dash-ag-grid
 pandas
+gunicorn
+dash-tools
