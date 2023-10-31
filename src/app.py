@@ -98,7 +98,7 @@ table = dag.AgGrid(
 )
 
 external_stylesheets = [
-    '/assets/custom.css'  # your custom stylesheet
+    'custom.css'  # your custom stylesheet
 ]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
