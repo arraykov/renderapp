@@ -1,0 +1,10 @@
+services:
+- type: web
+  name: dashboard
+  env: python
+  plan: free
+  buildCommand: pip install -r requirements.txt
+  startCommand: "gunicorn  --chdir Dashboard setup:server"
+  envVars:
+  - key: FLASK_ENV
+    value: production

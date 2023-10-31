@@ -1,0 +1,6 @@
+dash>=2.0.0
+dash-ag-grid
+pandas
+dash>=2.0.0
+dash-ag-grid
+pandas
