@@ -29,50 +29,50 @@ columnDefs = [
     {"field": "Ticker", "sortable": True,"cellRenderer":"StockLink"},
     {"field": "Nav Ticker", "sortable": True},
     {"field": "Category" , "sortable": True, "suppressSizeToFit":True, "width":250 },
-    {"field": "3m Z", "sortable": True, "cellStyle": {
+    {"field": "3m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "6m Z", "sortable": True, "cellStyle": {
+    {"field": "6m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "1y Z", "sortable": True, "cellStyle": {
+    {"field": "1y Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "Price", "sortable": True},
-    {"field": "PriceΔ", "sortable": True, "cellStyle": {
+    {"field": "Price", "filter": "agNumberColumnFilter", "sortable": True},
+    {"field": "PriceΔ", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "NAV", "sortable": True},
-    {"field": "NAV%Δ", "sortable": True, "cellStyle": {
+    {"field": "NAV", "filter": "agNumberColumnFilter", "sortable": True},
+    {"field": "NAV%Δ", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "NAVΔ", "sortable": True, "cellStyle": {
+    {"field": "NAVΔ", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "Premium/Discount", "sortable": True, },
-    {"field": "52W NAV Avg", "sortable": True},
-    {"field": "52W NAV Low", "sortable": True},
-    {"field": "52W NAV High", "sortable": True},
-    {"field": "Current Yield", "sortable": True},
-    {"field": "Distribution Amount", "sortable": True},
+    {"field": "Premium/Discount", "filter": "agNumberColumnFilter", "sortable": True, },
+    {"field": "52W NAV Avg", "filter": "agNumberColumnFilter", "sortable": True},
+    {"field": "52W NAV Low", "filter": "agNumberColumnFilter", "sortable": True},
+    {"field": "52W NAV High", "filter": "agNumberColumnFilter","sortable": True},
+    {"field": "Current Yield", "filter": "agNumberColumnFilter", "sortable": True},
+    {"field": "Distribution Amount", "filter": "agNumberColumnFilter", "sortable": True},
     {"field": "Distribution Frequency", "sortable": True},
     {"field": "Fiscal Year End", "sortable": True, },
 ]
