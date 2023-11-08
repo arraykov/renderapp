@@ -16,3 +16,15 @@ dagcomponentfuncs.StockLink = function (props) {
         onClick: openPopup // set the onClick event to our openPopup function
     }, props.value)
 }
+
+// Add these functions to your code
+dagcomponentfuncs.saveGridState = function(params) {
+    localStorage.setItem('columnState', JSON.stringify(params.columnApi.getColumnState()));
+}
+
+dagcomponentfuncs.restoreGridState = function(params) {
+    var columnState = JSON.parse(localStorage.getItem('columnState'));
+    if (columnState) {
+        params.columnApi.setColumnState(columnState);
+    }
+}
