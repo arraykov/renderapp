@@ -140,7 +140,6 @@ sidebarDef = {
     "defaultToolPanel": None  # This will open the columns tool panel by default when the sidebar is shown
 }
 
-<<<<<<< HEAD
 def generate_dashboard():
     table = dag.AgGrid(
         id='table',
@@ -190,24 +189,6 @@ app.layout = html.Div([
      Input('btn-page2', 'n_clicks'),
      Input('btn-page3', 'n_clicks')],
     [State('last-clicked-button', 'data')]
-=======
-
-# Create the AGGrid component
-table = dag.AgGrid(
-    id='table',
-    columnDefs=columnDefs,
-    rowData=df.to_dict('records'),
-    style={"height": "1250px", "width": "100%"},
-    columnSize="responsiveSizeToFit",
-    defaultColDef=defaultColDef,
-    dashGridOptions={
-                    "autopaginationAutofPageSize": True,
-                    "sideBar": sidebarDef,
-                    "animateRows": True, 
-                    "skipHeaderOnAutoSize": True,                                          
-    },
-    enableEnterpriseModules= True,
->>>>>>> 71715bdae0ad9a1e0a7396cb24343f9161a1f9fc
 )
 
 def update_content(n_dashboard, n_pdf, n_page1, n_page2, n_page3, last_clicked):
@@ -265,4 +246,4 @@ def update_content(n_dashboard, n_pdf, n_page1, n_page2, n_page3, last_clicked):
     return last_clicked, html.Div([])  # Update with default content
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, host='0.0.0.0')
