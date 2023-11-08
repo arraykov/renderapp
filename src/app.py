@@ -117,7 +117,11 @@ sidebarDef = {
             "iconKey": "columns",
             "toolPanel": "agColumnsToolPanel",
             "toolPanelParams": {
-
+                    "suppressColumnSelectAll": True,
+                    "suppressColumnExpandAll": False,
+                    "suppressPivotMode": True,
+                    "suppressRowGroups": True,
+                    "suppressValues": True,
                     
         }},
         {
@@ -127,6 +131,7 @@ sidebarDef = {
             "iconKey": "filter",
             "toolPanel": "agFiltersToolPanel",
             "toolPanelParams": {
+                "suppressFilterSearch": True,
             }
         },
         # Add other panels as needed
