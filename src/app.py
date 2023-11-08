@@ -165,6 +165,7 @@ external_stylesheets = [
 ]
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
 
 app.layout = html.Div([
     dcc.Store(id='last-clicked-button', storage_type='session'),
@@ -246,4 +247,4 @@ def update_content(n_dashboard, n_pdf, n_page1, n_page2, n_page3, last_clicked):
     return last_clicked, html.Div([])  # Update with default content
 
 if __name__ == '__main__':
-    app.run_server(debug=True, host='0.0.0.0')
+    app.run_server(debug=False, host='0.0.0.0')
