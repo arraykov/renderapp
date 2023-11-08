@@ -5,7 +5,7 @@ import pandas as pd
 import dash_ag_grid as dag
 
 # Load your DataFrame from the CSV file
-df = pd.read_csv('/Watchlist.csv')
+df = pd.read_csv('Watchlist.csv')
 
 # Convert the "Premium/Discount" column to string, remove the percentage sign, and convert to numeric
 df['Current Yield'] = df['Current Yield'].astype(str).str.replace('%', '')
