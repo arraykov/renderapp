@@ -26,55 +26,77 @@ for column in dollar_columns:
 
 
 columnDefs = [
-    {"field": "Ticker", "sortable": True,"cellRenderer":"StockLink"},
-    {"field": "Nav Ticker", "sortable": True},
-    {"field": "Category" , "sortable": True, "suppressSizeToFit":True, "width":250 },
-    {"field": "3m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
+
+    {
+        "headerName": "",
+        "children": 
+        [{"field": "Ticker", "sortable": True,"cellRenderer":"StockLink"},
+        {"field": "Nav Ticker", "sortable": True},
+        {"field": "Premium/Discount", "sortable": True},  
+        ]    
+    },
+    {
+        "headerName": "Z-Scores",
+        "children": [
+            {"field": "3m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
+                "styleConditions": [
+                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
+                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
+                ]
+            }},
+            {"field": "6m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
+                "styleConditions": [
+                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
+                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
+                ]
+            }},
+            {"field": "1y Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
+                "styleConditions": [
+                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
+                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
+                ]
+            }},
+        ]
+    },
+    {"field": "Price", "sortable": True},
+    {"field": "PriceΔ", "sortable": True, "cellStyle": {
             "styleConditions": [
                 {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
                 {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
             ]
         }},
-    {"field": "6m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-            "styleConditions": [
-                {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-            ]
-        }},
-    {"field": "1y Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-            "styleConditions": [
-                {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-            ]
-        }},
-    {"field": "Price", "filter": "agNumberColumnFilter", "sortable": True},
-    {"field": "PriceΔ", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-            "styleConditions": [
-                {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-            ]
-        }},
-    {"field": "NAV", "filter": "agNumberColumnFilter", "sortable": True},
-    {"field": "NAV%Δ", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-            "styleConditions": [
-                {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-            ]
-        }},
-    {"field": "NAVΔ", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-            "styleConditions": [
-                {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-            ]
-        }},
-    {"field": "Premium/Discount", "filter": "agNumberColumnFilter", "sortable": True, },
-    {"field": "52W NAV Avg", "filter": "agNumberColumnFilter", "sortable": True},
-    {"field": "52W NAV Low", "filter": "agNumberColumnFilter", "sortable": True},
-    {"field": "52W NAV High", "filter": "agNumberColumnFilter","sortable": True},
-    {"field": "Current Yield", "filter": "agNumberColumnFilter", "sortable": True},
-    {"field": "Distribution Amount", "filter": "agNumberColumnFilter", "sortable": True},
-    {"field": "Distribution Frequency", "sortable": True},
-    {"field": "Fiscal Year End", "sortable": True, },
+    # NAV group
+    {
+        "headerName": "NAV",
+        "children": [
+            {"field": "NAV", "sortable": True},
+            {"field": "NAV%Δ", "sortable": True, "cellStyle": {
+                "styleConditions": [
+                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
+                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
+                ]
+            }},
+            {"field": "NAVΔ", "sortable": True, "cellStyle": {
+                "styleConditions": [
+                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
+                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
+                ]
+            }},
+            {"field": "52W NAV Avg", "sortable": True, "columnGroupShow": "open"},
+            {"field": "52W NAV Low", "sortable": True, "columnGroupShow": "open"},
+            {"field": "52W NAV High", "sortable": True, "columnGroupShow": "open"},
+        ]
+    },
+
+    {
+        "headerName": "Fundamentals",
+        "children": [{"field": "Category" , "sortable": True, "suppressSizeToFit":True, "width":250 },
+        {"field": "Current Yield", "sortable": True},
+        {"field": "Distribution Amount", "sortable": True},
+        {"field": "Distribution Frequency", "sortable": True, "columnGroupShow": "open"},
+        {"field": "Fiscal Year End", "sortable": True, "columnGroupShow": "open"},
+        ]
+    },
 ]
 
 defaultColDef = {
@@ -84,17 +106,59 @@ defaultColDef = {
     "autoHeaderHeight": True,
     "sortable": True,
     "filter": True,
+    "enableRowGroup": False,
+    "enableValue": False,
+    "enablePivot": False,
 }
+
+sidebarDef = {
+    "toolPanels": [
+        {
+            "id": "columns",
+            "labelDefault": "Columns",
+            "labelKey": "columns",
+            "iconKey": "columns",
+            "toolPanel": "agColumnsToolPanel",
+            "toolPanelParams": {
+                    "suppressColumnFilter": True,
+                    "suppressColumnSelectAll": True,
+                    "suppressColumnExpandAll": False,
+                    "suppressPivotMode": True,
+                    "suppressRowGroups": True,
+                    "suppressValues": True,
+                    
+        }},
+        {
+            "id": "filters",
+            "labelDefault": "Filters",
+            "labelKey": "filters",
+            "iconKey": "filter",
+            "toolPanel": "agFiltersToolPanel",
+            "toolPanelParams": {
+                "suppressFilterSearch": True,
+            }
+        },
+        # Add other panels as needed
+    ],
+    "defaultToolPanel": None  # This will open the columns tool panel by default when the sidebar is shown
+}
+
 
 # Create the AGGrid component
 table = dag.AgGrid(
     id='table',
     columnDefs=columnDefs,
     rowData=df.to_dict('records'),
-    style = {"height": "1250px", "width": "100%"},  # Set the height attribute here
-    columnSize="sizeToFit",
-    defaultColDef = defaultColDef,
-    dashGridOptions={"autopaginationAutofPageSize":True}
+    style={"height": "1250px", "width": "100%"},
+    columnSize="responsiveSizeToFit",
+    defaultColDef=defaultColDef,
+    dashGridOptions={
+                    "autopaginationAutofPageSize": True,
+                    "sideBar": sidebarDef,
+                    "animateRows": True, 
+                    "skipHeaderOnAutoSize": True,                                          
+    },
+    enableEnterpriseModules= True,
 )
 
 external_stylesheets = [
