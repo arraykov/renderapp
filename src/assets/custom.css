@@ -8,6 +8,9 @@
     --ag-checkbox-checked-color: #0a363e !important;
     --ag-set-filter: #041619 !important;
     --ag-filter-toolpanel: #041619 !important;
+    --ag-control-panel-background-color: #041619 !important;
+    --ag-foreground-color: #FBEAEB; /* Sets text color for the grid */
+    --ag-text-color: #FBEAEB; /* Sets text color for the grid - fallback */
 }
 
 body {
@@ -20,11 +23,46 @@ body {
     width: 100%;
     height: 100%;
 }
+/* Targeting buttons in the AG Grid filter panel */
+.ag-theme-alpine .ag-filter-apply-panel button {
+    background-color: #041619; /* Background color */
+    color: #FBEAEB; /* Text color */    
+    border: 1px solid #082c33; /* Border color */
+    border-radius: 4px; /* Rounded corners */
+}
+.ag-theme-alpine .ag-header-group-cell-label {
+    display: flex; /* Establishes a flex container */
+    justify-content: center; /* Centers children (text) horizontally */
+    align-items: center; /* Centers children (text) vertically */
+    text-align: center; /* Centers the text itself */
+    width: 100%; /* Ensures the label takes up the full width of its container */
+}
+.ag-theme-alpine .ag-header-group-cell {
+    transition: height 0.3s ease-out, opacity 0.3s ease-out;
+}
+.ag-cell {
+    transition: all 0.3s ease;
+}
 
+.ag-theme-alpine .ag-text-field-input {
+    background-color: #FBEAEB !important;
+}
+.ag-theme-alpine .ag-labeled.ag-label-align-right,
+.ag-theme-alpine .ag-radio-button,
+.ag-theme-alpine .ag-input-field,
+.ag-theme-alpine .ag-filter-condition-operator,
+.ag-theme-alpine .ag-filter-condition-operator-and {
+    color:#FBEAEB !important;
+}
 .ag-header-viewport{
     background-color: #041619;
 }
-
+/* Targeting the input field specifically within the search box */
+.ag-theme-alpine .ag-filter-apply-panel .ag-mini-filter {
+    background-color: #041619 !important; /* Change the background color */
+    color: #FBEAEB !important; /* Change the text color */
+    /* Add additional styles as needed */
+}
 .ag-input-field-input {
     background-color: #FBEAEB;
 }
@@ -34,14 +72,9 @@ body {
     border:#0a363e !important;
 }
 
-.ag-filter-select-header{
-    height: 0px !important;
-    border:#0a363e !important;
-}
-
-.ag-theme-alpine .ag-row {
+.ag-theme-alpine * .ag-row {
     font-size: 14px!important;
-    color: #FBEAEB;
+    color: #FBEAEB !important;
     text-align: center!important;
     border-color: #062025;
 }
@@ -106,91 +139,18 @@ body {
 #content{
     color: #FBEAEB;
 }
-#navbar {
-    width: 100%;
-    height: 50px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #041619;
-    overflow-x: hidden;
-    transition: 0.5s;
-    padding-left: 60px;
-}
-
-#navbar:hover {
-    height: 75px;
-}
-
-#navbar button {
-    text-align: center;
-    color: #FBEAEB;
-    border: none;
-    background: none;
-    width: 100%;
-    padding: 8px;
-    text-decoration: none;
-    font-size: 12px;
-    cursor: pointer;
-    transition: 0.3s;
-    display: block; /* Make buttons stack vertically */
-}
-
-#navbar button:hover {
-    background-color: #082c33;
-}
 
 .ag-header-group-cell{
     text-align: center !important;
     color: #FBEAEB;
 }
 
-/* Styling for the filter tool panel header to match column select header */
-.ag-filter-select-header, .ag-column-select-header {
-    height: 0px !important;
-    border: none !important;
-    background-color: #041619 !important;
-}
-
-/* If there are unique classes for filter labels, style them here */
-.ag-filter-label, .ag-header-cell-label {
-    display: block;
-    text-align: center !important;
-    justify-content: center !important;
-    color: #FBEAEB;
-}
-
-/* Styling for filter tool panel container to match the column tool panel */
-.ag-tool-panel-wrapper {
-    background-color: #041619 !important;
-    color: #FBEAEB;
-}
-
-/* Ensure buttons within the filter tool panel match those in the column tool panel */
-.ag-side-button, .ag-tool-panel-wrapper .ag-side-button {
-    color: #FBEAEB;
-}
-.ag-filter{
-    background-color: #041619;
-    color: #062025;
-}
-/* Ensure buttons within the filter tool panel match those in the column tool panel */
-.ag-side-button, .ag-tool-panel-wrapper .ag-side-button {
-    color: #FBEAEB;
-}
-
-.ag-set-filter{
-    background-color: #041619 !important;
-    color: #FBEAEB !important;
-}
-
-.ag-filter-list-panel{
-    background-color: #041619 !important;
-}
 
 .ag-group-title-bar{
     background-color: #041619 !important;
     color: #FBEAEB !important;
 }
 
+.ag-filter-body-wrapper{
+    background-color:#062025;    
+}

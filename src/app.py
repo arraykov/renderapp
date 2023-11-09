@@ -7,91 +7,69 @@ import dash_ag_grid as dag
 # Load your DataFrame from the CSV file
 df = pd.read_csv('Watchlist.csv')
 
-# Convert the "Premium/Discount" column to string, remove the percentage sign, and convert to numeric
 df['Current Yield'] = df['Current Yield'].astype(str).str.replace('%', '')
 df['Current Yield'] = pd.to_numeric(df['Current Yield'], errors='coerce')
 
-# List of columns to convert to numeric
-columns_to_convert = ["3m Z", "6m Z", "1y Z", "PriceΔ", "NAV%Δ", "NAVΔ","Premium/Discount"]  # Add more columns as needed
+columns_to_convert = ["3m Z", "6m Z", "1y Z", "PriceΔ", "NAV%Δ", "NAVΔ", "Premium/Discount"]
 
-# Convert the specified columns to numeric
 for column in columns_to_convert:
     df[column] = pd.to_numeric(df[column], errors='coerce')
-# Format specific columns as dollars
-dollar_columns = ["Price", "NAV"]  # Add more columns as needed
+
+dollar_columns = ["Price", "NAV"]
 for column in dollar_columns:
     df[column] = df[column].apply(lambda x: f'${x:.2f}' if pd.notnull(x) else x)
 
-columnDefs = [
 
-    {
-        "headerName": "",
-        "children": 
-        [{"field": "Ticker", "sortable": True,"cellRenderer":"StockLink"},
-        {"field": "Nav Ticker", "sortable": True},
-        {"field": "Premium/Discount", "sortable": True},  
-        ]    
-    },
+styleConditionsForZScores = {
+    "styleConditions": [
+        {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
+        {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
+    ]
+}
+
+filterParams = {
+    "buttons": ['apply', 'reset'],
+    "closeOnApply": True,
+}
+
+columnDefs = [
+    
+        
+        
+            {"field": "Ticker", "cellRenderer": "StockLink", "filter": "agTextColumnFilter", "filterParams": filterParams},
+            {"field": "Nav Ticker", "filter": "agTextColumnFilter", "filterParams": filterParams},
+            {"field": "Premium/Discount", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+        
+    
     {
         "headerName": "Z-Scores",
         "children": [
-            {"field": "3m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-                "styleConditions": [
-                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-                ]
-            }},
-            {"field": "6m Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-                "styleConditions": [
-                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-                ]
-            }},
-            {"field": "1y Z", "filter": "agNumberColumnFilter", "sortable": True, "cellStyle": {
-                "styleConditions": [
-                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-                ]
-            }},
+            {"field": "3m Z", "cellStyle": styleConditionsForZScores, "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "6m Z", "cellStyle": styleConditionsForZScores, "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "1y Z", "cellStyle": styleConditionsForZScores, "filter": "agNumberColumnFilter", "filterParams": filterParams},
         ]
     },
-    {"field": "Price", "sortable": True},
-    {"field": "PriceΔ", "sortable": True, "cellStyle": {
-            "styleConditions": [
-                {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-            ]
-        }},
-    # NAV group
+    {"field": "Price", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+    {"field": "PriceΔ", "cellStyle": styleConditionsForZScores, "filter": "agNumberColumnFilter", "filterParams": filterParams},
     {
         "headerName": "NAV",
         "children": [
-            {"field": "NAV", "sortable": True},
-            {"field": "NAV%Δ", "sortable": True, "cellStyle": {
-                "styleConditions": [
-                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-                ]
-            }},
-            {"field": "NAVΔ", "sortable": True, "cellStyle": {
-                "styleConditions": [
-                    {"condition": "params.value < 0", "style": {"color": "#FC766A"}},
-                    {"condition": "params.value > 0", "style": {"color": "#CCF381"}}
-                ]
-            }},
-            {"field": "52W NAV Avg", "sortable": True, "columnGroupShow": "open"},
-            {"field": "52W NAV Low", "sortable": True, "columnGroupShow": "open"},
-            {"field": "52W NAV High", "sortable": True, "columnGroupShow": "open"},
+            {"field": "NAV", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "NAV%Δ", "cellStyle": styleConditionsForZScores, "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "NAVΔ", "cellStyle": styleConditionsForZScores, "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "52W NAV Avg", "columnGroupShow": "open", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "52W NAV Low", "columnGroupShow": "open", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "52W NAV High", "columnGroupShow": "open", "filter": "agNumberColumnFilter", "filterParams": filterParams},
         ]
     },
-
     {
         "headerName": "Fundamentals",
-        "children": [{"field": "Category" , "sortable": True, "suppressSizeToFit":True, "width":250 },
-        {"field": "Current Yield", "sortable": True},
-        {"field": "Distribution Amount", "sortable": True},
-        {"field": "Distribution Frequency", "sortable": True, "columnGroupShow": "open"},
-        {"field": "Fiscal Year End", "sortable": True, "columnGroupShow": "open"},
+        "children": [
+            {"field": "Category", "suppressSizeToFit": True, "width": 250, "filter": "agTextColumnFilter", "filterParams": filterParams},
+            {"field": "Current Yield", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "Distribution Amount", "filter": "agNumberColumnFilter", "filterParams": filterParams},
+            {"field": "Distribution Frequency", "columnGroupShow": "open", "filter": "agTextColumnFilter", "filterParams": filterParams},
+            {"field": "Fiscal Year End", "columnGroupShow": "open", "filter": "agTextColumnFilter", "filterParams": filterParams},
         ]
     },
 ]
@@ -102,41 +80,11 @@ defaultColDef = {
     "wrapHeaderText": True,
     "autoHeaderHeight": True,
     "sortable": True,
-    "filter": True,
+    "filter": "agMultiColumnFilter",
+    "filterParams": filterParams,
     "enableRowGroup": False,
     "enableValue": False,
     "enablePivot": False,
-}
-
-sidebarDef = {
-    "toolPanels": [
-        {
-            "id": "columns",
-            "labelDefault": "Columns",
-            "labelKey": "columns",
-            "iconKey": "columns",
-            "toolPanel": "agColumnsToolPanel",
-            "toolPanelParams": {
-                    "suppressColumnSelectAll": True,
-                    "suppressColumnExpandAll": False,
-                    "suppressPivotMode": True,
-                    "suppressRowGroups": True,
-                    "suppressValues": True,
-                    
-        }},
-        {
-            "id": "filters",
-            "labelDefault": "Filters",
-            "labelKey": "filters",
-            "iconKey": "filter",
-            "toolPanel": "agFiltersToolPanel",
-            "toolPanelParams": {
-                "suppressFilterSearch": True,
-            }
-        },
-        # Add other panels as needed
-    ],
-    "defaultToolPanel": None  # This will open the columns tool panel by default when the sidebar is shown
 }
 
 def generate_dashboard():
@@ -148,20 +96,14 @@ def generate_dashboard():
         columnSize="responsiveSizeToFit",
         defaultColDef=defaultColDef,
         dashGridOptions={
-                        "autopaginationAutofPageSize": True,
-                        "sideBar": sidebarDef,
-                        "animateRows": True, 
-                        "skipHeaderOnAutoSize": True,                                          
+            "autopaginationAutofPageSize": True,
+            "animateRows": True, 
         },
-        enableEnterpriseModules= True,
     )
-
     return table
 
-# Initialize Dash app with external stylesheets if needed
-external_stylesheets = [
-    '/custom.css'  # your custom stylesheet
-]
+external_stylesheets = ['/custom.css']
+
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
