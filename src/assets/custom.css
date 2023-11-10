@@ -10,13 +10,16 @@
     --ag-filter-toolpanel: #041619 !important;
     --ag-control-panel-background-color: #041619 !important;
     --ag-foreground-color: #FBEAEB; /* Sets text color for the grid */
-    --ag-text-color: #FBEAEB; /* Sets text color for the grid - fallback */
+    --ag-card-shadow:0 1px 4px 1px rgba(186, 191, 199, 0.1);
 }
 
 body {
     margin: 0;
     padding: 0;
     background-color: #041619;
+}
+.ag-filter-apply-panel {    
+    border-top-color:#082c33;    
 }
 
 #app-container {
@@ -46,10 +49,10 @@ body {
 
 .ag-theme-alpine .ag-text-field-input {
     background-color: #FBEAEB !important;
+    color:#041619 !important;
 }
 .ag-theme-alpine .ag-labeled.ag-label-align-right,
 .ag-theme-alpine .ag-radio-button,
-.ag-theme-alpine .ag-input-field,
 .ag-theme-alpine .ag-filter-condition-operator,
 .ag-theme-alpine .ag-filter-condition-operator-and {
     color:#FBEAEB !important;

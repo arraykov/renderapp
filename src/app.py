@@ -36,7 +36,7 @@ columnDefs = [
     
         
         
-            {"field": "Ticker", "cellRenderer": "StockLink", "filter": "agTextColumnFilter", "filterParams": filterParams},
+            {"field": "Ticker", "cellRenderer": "StockLink", "filter": "agTextColumnFilter", "filterParams": filterParams, "floatingFilter": True},
             {"field": "Nav Ticker", "filter": "agTextColumnFilter", "filterParams": filterParams},
             {"field": "Premium/Discount", "filter": "agNumberColumnFilter", "filterParams": filterParams},
         
@@ -65,7 +65,7 @@ columnDefs = [
     {
         "headerName": "Fundamentals",
         "children": [
-            {"field": "Category", "suppressSizeToFit": True, "width": 250, "filter": "agTextColumnFilter", "filterParams": filterParams},
+            {"field": "Category", "suppressSizeToFit": True, "width": 250, "filter": "agTextColumnFilter", "filterParams": filterParams, "floatingFilter": True},
             {"field": "Current Yield", "filter": "agNumberColumnFilter", "filterParams": filterParams},
             {"field": "Distribution Amount", "filter": "agNumberColumnFilter", "filterParams": filterParams},
             {"field": "Distribution Frequency", "columnGroupShow": "open", "filter": "agTextColumnFilter", "filterParams": filterParams},
@@ -103,7 +103,6 @@ def generate_dashboard():
     return table
 
 external_stylesheets = ['/custom.css']
-
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
