@@ -10,7 +10,7 @@ df = pd.read_csv('Watchlist.csv')
 df['Current Yield'] = df['Current Yield'].astype(str).str.replace('%', '')
 df['Current Yield'] = pd.to_numeric(df['Current Yield'], errors='coerce')
 
-columns_to_convert = ["3m Z", "6m Z", "1y Z", "PriceΔ", "NAV%Δ", "NAVΔ", "Premium/Discount"]
+columns_to_convert = ["3m Z", "6m Z", "1y Z", "PriceΔ", "NAV%Δ", "NAVΔ", "Premium/Discount", "Current Yield"]
 
 for column in columns_to_convert:
     df[column] = pd.to_numeric(df[column], errors='coerce')
