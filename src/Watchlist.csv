@@ -1,421 +1,421 @@
 Ticker,Nav Ticker,Category,3m Z,6m Z,1y Z,Price,PriceΔ,NAV,NAV%Δ,NAVΔ,Premium/Discount,52W NAV Avg,52W NAV Low,52W NAV High,Current Yield,Distribution Amount,Distribution Frequency,Fiscal Year End
-ACP,XACPX,Fixed Income - Taxable-Senior Loans,-0.90,-1.58,-1.40,6.31,0.15,6.76,0.6,0.04,-8.88,-1.19,-13.14,16.28,19.48%,$0.1000,Monthly,October 31
-ACV,XACVX,Hybrid-U.S. Allocation,1.71,2.39,0.61,20.07,0.28,20.18,0.3,0.06,-1.64,-4.07,-9.07,10.50,10.91%,$0.1800,Monthly,January 31
-ADX,XADEX,Equity-U.S. Equity,0.73,1.01,1.51,17.06,0.1,19.72,0.46,0.09,-14.00,-15.26,-16.64,-13.28,27.12%,$1.1500,Quarterly,December 31
-AEF,XAEFX,Equity-Emerging Market Equity,0.53,-0.22,-0.75,4.92,-0.01,5.8,0.35,0.02,-14.91,-13.73,-17.55,-9.09,8.11%,$0.1000,Quarterly,December 31
-AFB,XAFBX,Fixed Income - Municipal-Municipal,-0.03,-0.69,-1.07,10.7,0.31,12.31,0.57,0.07,-15.60,-14.15,-17.35,-9.57,3.77%,$0.0327,Monthly,October 31
-AFT,XAFTX,Fixed Income - Taxable-Senior Loans,-0.73,-0.22,-0.15,13.02,0.09,14.95,0.0,0.0,-13.53,-12.83,-15.26,-7.84,12.53%,$0.1350,Monthly,December 31
-AGD,XAGDX,Equity-Global Equity,0.52,-0.43,-0.74,9.23,0.14,10.62,0.38,0.04,-14.41,-13.26,-16.50,-8.96,8.58%,$0.0650,Monthly,October 31
-AIF,XAIFX,Fixed Income - Taxable-High Yield,-0.96,-0.31,-0.04,12.88,0.05,14.63,-0.07,-0.01,-12.33,-12.08,-15.39,-7.90,11.69%,$0.1250,Monthly,December 31
-AIO,XAIOX,Equity-Sector Equity,-0.08,-0.72,-0.14,17.51,0.28,19.45,0.21,0.04,-11.23,-10.86,-15.56,-5.05,10.45%,$0.1500,Monthly,February 28
-AOD,XAODX,Equity-Global Equity,0.05,-0.74,-1.18,7.92,0.1,9.19,0.33,0.03,-14.91,-13.77,-17.12,-11.57,8.82%,$0.0575,Monthly,October 31
-ARDC,XADCX,Fixed Income - Taxable-Senior Loans,0.77,1.09,1.35,12.9,0.04,14.16,0.35,0.05,-8.86,-11.15,-14.78,-7.60,10.96%,$0.1175,Monthly,October 31
-ASG,XASGX,Equity-U.S. Equity,0.15,-0.73,-1.20,5.07,0.05,5.35,0.56,0.03,-6.17,-4.72,-8.35,-2.14,7.97%,$0.1000,Quarterly,December 31
-ASGI,XAGIX,Fixed Income - Taxable-Global Income,2.20,2.28,1.96,17.31,-0.15,20.17,0.15,0.03,-13.44,-15.30,-17.74,-13.44,8.25%,$0.1200,Monthly,September 30
-AVK,XAVKX,Fixed Income - Taxable-Convertibles,-0.44,-1.12,-1.47,10.65,0.25,11.75,0.26,0.03,-11.49,-7.51,-14.25,-1.51,13.52%,$0.1172,Monthly,October 31
-AWF,XAWFX,Fixed Income - Taxable-High Yield,-0.95,-1.36,-1.28,9.91,0.12,10.79,0.0,0.0,-9.27,-7.66,-11.19,-4.39,8.03%,$0.0655,Monthly,March 31
-AWP,XAWPX,Equity-Real Estate,-1.17,-1.13,-0.97,3.73,0.09,3.97,0.76,0.03,-8.31,-6.33,-10.29,-0.25,13.19%,$0.0400,Monthly,October 31
-BBN,XBBNX,Fixed Income - Taxable-Taxable Muni,0.01,-0.31,-0.98,15.85,0.19,17.03,-0.82,-0.14,-8.04,-5.18,-10.60,4.69,7.12%,$0.0929,Monthly,July 31
-BCAT,XCATX,Hybrid-U.S. Allocation,1.10,0.56,0.75,14.98,0.19,16.82,0.12,0.02,-11.96,-13.22,-18.44,-10.45,10.34%,$0.1275,Monthly,December 31
-BCV,XBCVX,Fixed Income - Taxable-Convertibles,-0.65,-0.97,-1.06,15.1499,0.19,17.74,0.34,0.06,-15.67,-14.15,-17.32,-9.77,8.56%,$0.3200,Quarterly,October 31
-BCX,XBCRX,Equity-Sector Equity,0.52,0.04,-0.34,9.01,0.1,10.32,0.29,0.03,-13.66,-13.21,-16.02,-10.10,6.98%,$0.0518,Monthly,December 31
-BDJ,XBDJX,Equity-Covered-Call Funds,1.75,-0.01,-0.85,7.91,0.11,8.62,0.7,0.06,-8.88,-4.89,-15.30,3.09,8.65%,$0.0562,Monthly,December 31
-BFK,XBFKX,Fixed Income - Municipal-Municipal,1.13,1.19,0.07,9.99,0.17,11.35,0.18,0.02,-13.48,-13.60,-17.40,-9.39,6.11%,$0.0500,Monthly,July 31
-BFZ,XBFZX,Fixed Income - Municipal-Municipal - CA,1.02,-0.42,-0.15,11.355,0.09,12.85,0.31,0.04,-12.30,-11.98,-16.02,-7.65,5.43%,$0.0510,Monthly,July 31
-BGB,XBGBX,Fixed Income - Taxable-Senior Loans,-0.03,-0.02,-0.02,11.05,0.11,12.47,0.08,0.01,-12.27,-12.25,-15.09,-9.79,11.19%,$0.1020,Monthly,December 31
-BGH,XBGHX,Fixed Income - Taxable-High Yield,0.01,-0.60,-0.83,13.09,0.17,14.69,0.27,0.04,-12.05,-10.77,-15.73,-8.18,9.81%,$0.1056,Monthly,December 31
-BGR,XBGRX,Equity-Sector Equity,1.54,1.47,1.15,12.73,0.03,14.28,0.49,0.07,-10.63,-11.82,-13.79,-8.66,6.28%,$0.0657,Monthly,December 31
-BGT,XBGTX,Fixed Income - Taxable-Senior Loans,0.16,0.73,1.31,12.0,0.04,12.76,0.0,0.0,-6.27,-9.06,-13.41,-4.23,11.42%,$0.1136,Monthly,October 31
-BGX,XXBGX,Fixed Income - Taxable-Senior Loans,-0.21,-0.08,0.32,11.48,0.12,12.99,0.08,0.01,-12.48,-12.92,-15.55,-10.06,11.83%,$0.1120,Monthly,December 31
-BGY,XBGYX,Equity-Covered-Call Funds,0.46,-0.35,-0.82,5.18,0.03,5.97,0.17,0.01,-13.59,-12.72,-15.66,-9.82,7.88%,$0.0338,Monthly,December 31
-BHK,XBHKX,Fixed Income - Taxable-Investment Grade,1.29,0.82,0.98,10.48,0.14,10.41,-0.57,-0.06,-1.24,-2.67,-5.93,0.61,8.66%,$0.0746,Monthly,August 31
-BHV,XBHVX,Fixed Income - Municipal-Municipal - Single-State,0.73,-0.18,-0.79,10.5293,0.13,12.25,0.41,0.05,-15.14,-12.61,-17.80,-5.42,4.56%,$0.0395,Monthly,July 31
-BIGZ,XBIGX,Equity-U.S. Equity,1.44,1.36,1.39,7.41,0.18,8.43,0.6,0.05,-14.13,-17.70,-24.12,-12.91,7.52%,$0.0453,Monthly,December 31
-BIT,XBITX,Fixed Income - Taxable-Multi-Sector,1.42,1.63,2.02,15.15,0.12,14.32,-0.14,-0.02,4.81,0.57,-3.73,5.17,9.88%,$0.1237,Monthly,October 31
-BKN,XBKNX,Fixed Income - Municipal-Municipal,0.70,0.18,-0.53,11.37,0.16,12.87,0.47,0.06,-12.90,-11.26,-16.88,-1.39,6.10%,$0.0570,Monthly,July 31
-BKT,XBKTX,Fixed Income - Taxable-Investment Grade,0.43,0.03,-0.02,11.715,0.08,12.15,-0.57,-0.07,-4.83,-4.81,-8.33,-2.16,9.10%,$0.0882,Monthly,December 31
-BLE,XBLEX,Fixed Income - Municipal-Municipal,0.60,0.27,-0.57,10.44,0.22,11.94,0.42,0.05,-14.41,-13.41,-17.20,-9.54,6.11%,$0.0520,Monthly,July 31
-BLW,XBLWX,Fixed Income - Taxable-Limited Duration,0.57,0.75,0.34,13.16,-0.02,13.71,-0.07,-0.01,-3.94,-4.45,-7.58,-0.51,9.82%,$0.1079,Monthly,December 31
-BME,XBMEX,Equity-Sector Equity,0.92,0.69,-0.60,38.61,0.13,40.93,1.04,0.42,-5.01,-3.24,-9.55,4.73,6.64%,$0.2130,Monthly,December 31
-BMEZ,XBMZX,Equity-Sector Equity,1.00,-0.12,-0.22,14.07,0.16,16.59,1.22,0.2,-15.13,-14.80,-19.06,-10.28,8.00%,$0.0927,Monthly,December 31
-BMN,XBMNX,Fixed Income - Municipal-Municipal,-0.75,-1.34,-1.97,24.0,0.3,25.71,0.27,0.07,-7.82,-3.67,-9.98,0.07,4.75%,$0.0938,Monthly,December 31
-BNY,XBNYX,Fixed Income - Municipal-Municipal - NY,0.47,-0.03,-0.60,10.25,0.17,11.91,0.59,0.07,-15.37,-14.15,-17.44,-8.17,5.12%,$0.0430,Monthly,July 31
-BOE,XBOEX,Equity-Covered-Call Funds,1.41,0.93,-0.15,9.94,0.04,11.46,0.44,0.05,-13.23,-13.04,-16.67,-9.56,7.64%,$0.0630,Monthly,December 31
-BRW,XPPRX,Fixed Income - Taxable-Senior Loans,0.50,0.13,-0.02,7.85,0.03,8.46,-0.59,-0.05,-8.81,-8.79,-12.72,-5.96,13.04%,$0.0850,Monthly,October 31
-BSL,XBSLX,Fixed Income - Taxable-Senior Loans,-0.15,-0.01,-0.03,13.1,0.11,14.51,0.14,0.02,-10.35,-10.74,-14.00,-8.48,10.99%,$0.1190,Monthly,December 31
-BST,XBSTX,Equity-Sector Equity,0.58,0.44,-0.03,34.08,0.07,33.69,-0.41,-0.14,0.71,0.76,-4.19,6.81,8.82%,$0.2500,Monthly,December 31
-BSTZ,XBSZX,Equity-Sector Equity,0.71,-0.22,-0.66,17.18,0.22,20.71,0.0,0.0,-18.50,-16.56,-25.47,-9.10,7.28%,$0.1029,Monthly,December 31
-BTA,XBTAX,Fixed Income - Municipal-Municipal,-1.60,-0.67,-0.52,9.83,0.23,10.21,0.29,0.03,-5.97,-5.20,-9.16,-1.30,5.44%,$0.0435,Monthly,July 31
-BTO,XBTOX,Equity-Sector Equity,-1.50,-1.47,-1.33,28.09,1.2,26.67,0.15,0.04,0.82,6.58,-1.95,21.40,9.67%,$0.6500,Quarterly,December 31
-BTT,XBTTX,Fixed Income - Municipal-Municipal,0.52,-0.16,-0.86,20.93,0.2,23.57,0.26,0.06,-12.05,-10.49,-14.48,-6.20,2.69%,$0.0464,Monthly,July 31
-BUI,XBUIX,Equity-Sector Equity,-1.10,-1.69,-1.62,20.7,0.44,21.71,0.28,0.06,-6.42,-2.13,-8.26,4.40,7.17%,$0.1210,Monthly,December 31
-BWG,XBWGX,Fixed Income - Taxable-Global Income,0.36,0.22,-0.21,8.07,0.2,9.08,-0.55,-0.05,-13.75,-13.34,-17.75,-7.73,12.19%,$0.0800,Monthly,October 31
-BXMX,XBXMX,Equity-Covered-Call Funds,-0.14,-0.94,-1.48,12.86,0.09,13.89,0.29,0.04,-8.06,-2.60,-10.34,3.18,7.42%,$0.2365,Quarterly,December 31
-BYM,XBYMX,Fixed Income - Municipal-Municipal,0.73,-0.12,-0.70,10.97,0.16,12.5,0.48,0.06,-13.52,-12.17,-16.53,-5.39,5.83%,$0.0525,Monthly,July 31
-CAF,XCAFX,Equity-Asia Equity,0.60,0.22,-0.46,12.11,-0.01,14.98,0.07,0.01,-19.09,-18.05,-20.93,-9.66,0.02%,$0.0027,Annually,December 31
-CBH,XCBHX,Fixed Income - Taxable-Multi-Sector,0.17,0.19,-0.11,8.67,0.05,9.08,0.0,0.0,-5.07,-4.73,-7.09,-1.94,6.40%,$0.0460,Monthly,January 31
-CCD,XCCDX,Fixed Income - Taxable-Convertibles,0.02,-0.55,-1.04,18.97,0.09,18.5,0.16,0.03,2.05,8.01,-0.99,22.57,12.39%,$0.1950,Monthly,October 31
-CEE,XCEEX,Equity-Emerging Market Equity,-0.97,-1.47,-1.46,9.19,0.21,9.37,-0.85,-0.08,-4.16,10.32,-7.49,31.76,2.66%,$0.2387,Annually,October 31
-CEF,XCEFX,Equity-Commodities,-0.55,-0.59,-0.98,19.58,0.28,20.28,0.1,0.02,-4.74,-4.13,-5.63,1.24,N/A,,Data Not Available,December 31
-CEM,XCEMX,Equity-MLP,3.46,3.12,2.86,38.89,0.55,44.33,2.21,0.96,-11.60,-15.06,-18.28,-11.60,8.03%,$0.7700,Quarterly,November 30
-CEV,XCEVX,Fixed Income - Municipal-Municipal - CA,0.99,0.47,0.26,10.04,0.11,11.58,0.17,0.02,-14.25,-14.48,-16.62,-11.71,4.13%,$0.0342,Monthly,November 30
-CGO,XCGOX,Hybrid-Global Allocation,-0.17,-0.70,-0.84,9.08,0.12,9.9,0.1,0.01,-9.49,-7.26,-12.00,0.39,10.71%,$0.0800,Monthly,October 31
-CHI,XCHIX,Fixed Income - Taxable-Convertibles,-2.63,-1.83,-1.36,9.975,-0.04,9.61,0.1,0.01,4.16,8.94,1.49,16.91,11.38%,$0.0949,Monthly,October 31
-CHN,XXCHNXX,Equity-Asia Equity,0.01,-0.72,-0.73,10.2,-0.03,12.12,0.0,0.0,-16.25,-13.79,-18.53,27.21,6.60%,$0.6748,Annually,October 31
-CHW,XCHWX,Hybrid-Global Allocation,-0.85,-1.44,-1.46,5.67,0.03,6.49,0.0,0.0,-13.17,-9.93,-14.14,-2.85,10.65%,$0.0500,Monthly,October 31
-CHY,XCHYX,Fixed Income - Taxable-Convertibles,-0.33,0.66,0.92,11.43,0.1,10.15,0.0,0.0,11.92,7.01,-3.00,19.56,10.56%,$0.1000,Monthly,October 31
-CIF,XCIFX,Fixed Income - Taxable-High Yield,-0.03,-0.44,-0.73,1.66,0.02,1.82,0.0,0.0,-9.89,-7.37,-12.57,0.54,9.99%,$0.0137,Monthly,November 30
-CII,XCIIX,Equity-Covered-Call Funds,-0.52,-0.54,-0.49,18.65,0.26,19.13,0.37,0.07,-3.52,-2.70,-6.18,1.10,6.52%,$0.0995,Monthly,December 31
-CIK,XCIKX,Fixed Income - Taxable-High Yield,1.26,-0.46,-0.14,2.78,0.03,2.86,0.0,0.0,-4.02,-3.25,-10.55,7.98,9.84%,$0.0225,Monthly,December 31
-CLM,XCLMX,Equity-U.S. Equity,-0.81,-1.44,-1.75,7.4,0.11,6.64,0.15,0.01,9.79,17.53,0.64,26.11,20.21%,$0.1086,Monthly,December 31
-CMU,XCMUX,Fixed Income - Municipal-Municipal,-1.13,-0.83,-0.10,3.22,0.06,3.65,0.83,0.03,-13.29,-13.04,-16.62,-6.51,4.17%,$0.0110,Monthly,November 30
-CPZ,XCPZX,Equity-Global Equity,0.33,0.08,-0.57,14.63,0.05,17.06,0.12,0.02,-14.54,-13.76,-17.90,-10.57,11.52%,$0.1400,Monthly,October 31
-CRF,XCRFX,Equity-U.S. Equity,-0.75,-1.17,-1.11,7.33,0.13,6.36,0.32,0.02,13.21,18.28,2.01,29.08,19.55%,$0.1037,Monthly,December 31
-CSQ,XCSQX,Hybrid-U.S. Allocation,-0.11,-0.41,-0.74,14.52,0.08,14.69,0.41,0.06,-1.70,-0.21,-4.93,3.77,8.55%,$0.1025,Monthly,October 31
-CTR,XCTRX,Equity-MLP,1.13,0.48,1.09,35.1,0.73,40.12,2.06,0.81,-12.57,-16.32,-19.69,-11.39,8.15%,$0.7000,Quarterly,November 30
-CUBA,XCUBAX,Equity-U.S. Equity,-1.55,-2.31,-3.24,2.56,0.06,4.76,1.06,0.05,-46.82,-22.64,-52.33,-9.29,27.72%,$0.1736,Quarterly,June 30
-CXE,XCXEX,Fixed Income - Municipal-Municipal,0.27,-0.30,-0.59,3.52,0.13,4.0,0.5,0.02,-15.25,-14.44,-17.20,-10.19,4.42%,$0.0125,Monthly,November 30
-CXH,XCXHX,Fixed Income - Municipal-Municipal,-1.53,-0.78,-0.05,7.345,0.08,8.39,0.48,0.04,-13.35,-13.24,-16.28,-7.84,3.63%,$0.0220,Monthly,November 30
-DBL,XDBLX,Fixed Income - Taxable-Multi-Sector,1.04,0.81,0.65,14.81,0.05,14.52,-0.14,-0.02,1.65,0.47,-3.76,4.79,8.94%,$0.1100,Monthly,September 30
-DCF,XDCFX,Fixed Income - Taxable-Multi-Sector,-0.27,-0.38,-0.64,7.96,0.03,8.39,0.24,0.02,-5.48,-4.45,-7.55,0.76,5.30%,$0.0350,Monthly,August 31
-DFP,XDFPX,Fixed Income - Taxable-Preferreds,1.97,0.32,-0.40,18.04,0.35,19.7,0.36,0.07,-10.20,-8.82,-16.09,-2.15,7.05%,$0.1040,Monthly,November 30
-DHF,XDHFX,Fixed Income - Taxable-High Yield,0.39,-0.11,-0.50,2.26,0.02,2.6,-0.38,-0.01,-13.85,-13.13,-16.60,-8.66,8.04%,$0.0150,Monthly,March 31
-DHY,XDHYX,Fixed Income - Taxable-High Yield,-0.05,-0.20,-0.26,1.91,0.01,2.1,-0.47,-0.01,-9.95,-9.53,-15.35,-2.94,9.79%,$0.0155,Monthly,October 31
-DIAX,XDIAX,Equity-Covered-Call Funds,-1.17,-1.83,-1.49,13.98,0.1,15.96,1.4,0.22,-13.03,-8.76,-14.08,-3.25,8.26%,$0.2867,Quarterly,December 31
-DLY,XDLYX,Fixed Income - Taxable-Multi-Sector,-0.75,-0.49,0.50,14.56,0.09,15.28,-0.07,-0.01,-5.30,-6.52,-12.82,-1.17,9.68%,$0.1167,Monthly,September 30
-DMB,XDMBX,Fixed Income - Municipal-Municipal,-1.50,-1.84,-2.45,10.1,0.13,11.64,0.34,0.04,-14.35,-8.41,-15.11,-1.36,3.61%,$0.0300,Monthly,February 28
-DMF,XDMFX,Fixed Income - Municipal-Municipal,1.09,0.68,-0.13,6.29,0.0,7.4,0.54,0.04,-15.00,-14.83,-17.43,-10.38,2.86%,$0.0150,Monthly,September 30
-DMO,XDMOX,Fixed Income - Taxable-High Yield,0.40,0.31,0.58,10.74,0.11,11.82,-0.17,-0.02,-10.22,-11.49,-16.53,-7.48,12.98%,$0.1200,Monthly,December 31
-DNP,XDNPX,Equity-Sector Equity,-1.86,-2.24,-2.34,9.03,-0.02,7.95,0.76,0.06,13.85,23.91,13.85,34.76,8.62%,$0.0650,Monthly,October 31
-DPG,XDPGX,Equity-Sector Equity,2.02,-0.06,-0.88,9.64,0.11,10.75,1.03,0.11,-10.43,-0.67,-16.94,18.70,8.81%,$0.2100,Quarterly,October 31
-DSL,XDSLX,Fixed Income - Taxable-Global Income,0.78,0.47,0.89,11.98,0.03,11.81,0.0,0.0,1.19,-0.96,-7.79,3.00,11.05%,$0.1100,Monthly,September 30
-DSM,XDSMX,Fixed Income - Municipal-Municipal,-0.49,-1.09,-1.40,5.56,0.15,6.47,0.62,0.04,-16.38,-13.83,-17.48,-9.60,3.99%,$0.0180,Monthly,November 30
-DSU,XDSUX,Fixed Income - Taxable-Senior Loans,2.20,1.83,2.25,10.45,0.05,10.74,0.0,0.0,-3.17,-8.25,-11.99,-3.17,10.51%,$0.0911,Monthly,December 31
-DTF,XDTFX,Fixed Income - Municipal-Municipal,-0.81,-0.25,0.09,10.8397,0.02,12.31,0.08,0.01,-12.10,-12.18,-14.13,-9.95,3.60%,$0.0325,Monthly,October 31
-EAD,XEADX,Fixed Income - Taxable-High Yield,0.85,0.06,-0.55,6.41,0.08,7.1,0.0,0.0,-11.41,-10.23,-15.28,-1.10,9.87%,$0.0517,Monthly,April 30
-ECAT,ECAT,Hybrid-Global Allocation,1.91,2.12,1.34,15.81,-1.7,15.81,-9.71,-1.7,-10.60,-13.57,-19.61,-10.43,9.61%,$0.1250,Monthly,December 31
-ECC,XECCX,Fixed Income - Taxable-Senior Loans,-0.27,-1.01,-1.34,9.51,0.09,9.32,0.65,0.06,6.20,15.77,-5.02,31.53,17.83%,$0.1400,Monthly,December 31
-ECF,XECFX,Fixed Income - Taxable-Convertibles,-1.51,-1.74,-1.44,7.71,0.11,9.05,0.33,0.03,-16.02,-13.09,-17.62,-7.77,6.84%,$0.1300,Quarterly,September 30
-EDD,XEDDX,Fixed Income - Taxable-Emerging Market Income,0.58,0.66,0.86,4.79,0.12,5.39,-0.55,-0.03,-13.36,-14.25,-17.28,-11.40,7.71%,$0.0900,Quarterly,October 31
-EDF,XEDFX,Fixed Income - Taxable-Emerging Market Income,0.19,-0.22,-0.50,4.35,-0.03,4.26,-0.23,-0.01,2.58,5.56,-10.22,20.84,16.44%,$0.0600,Monthly,November 30
-EDI,XEDIX,Fixed Income - Taxable-Emerging Market Income,0.32,0.10,-0.08,5.23,0.12,5.0,-0.2,-0.01,2.00,3.93,-12.47,18.23,16.44%,$0.0700,Monthly,November 30
-EEA,XEEAX,Equity-Global Equity,1.65,0.34,-0.52,8.51,0.05,10.01,-0.1,-0.01,-15.48,-14.64,-17.77,-10.83,0.77%,$0.0325,Semi-Annually,December 31
-EFR,XEFRX,Fixed Income - Taxable-Senior Loans,1.64,1.98,2.22,12.52,0.16,12.92,0.16,0.02,-4.33,-8.56,-12.11,-4.33,11.57%,$0.1180,Monthly,October 31
-EFT,XEFTX,Fixed Income - Taxable-Senior Loans,1.31,1.54,1.93,12.3,-0.04,13.17,0.08,0.01,-6.30,-9.60,-13.54,-6.02,11.28%,$0.1160,Monthly,May 31
-EGF,XEGFX,Fixed Income - Taxable-Investment Grade,-0.32,0.17,0.54,9.7537,-0.0,10.05,-0.2,-0.02,-3.70,-4.77,-8.98,0.00,5.04%,$0.0410,Monthly,December 31
-EHI,XEHIX,Fixed Income - Taxable-High Yield,0.43,-0.10,0.01,6.94,0.07,7.16,-0.14,-0.01,-4.32,-4.35,-11.83,3.76,11.70%,$0.0670,Monthly,May 31
-EIC,XEICX,Fixed Income - Taxable-High Yield,1.01,0.58,-0.26,14.61,0.37,14.08,1.96,0.27,5.72,6.75,-1.87,20.09,15.17%,$0.2000,Monthly,December 31
-EIM,XEIMX,Fixed Income - Municipal-Municipal,0.50,-0.22,-0.88,9.88,0.15,11.28,0.36,0.04,-13.74,-12.43,-15.54,-7.64,4.11%,$0.0333,Monthly,September 30
-EMD,XEMDX,Fixed Income - Taxable-Emerging Market Income,0.70,0.51,0.10,8.93,0.17,10.04,0.2,0.02,-12.48,-12.67,-16.28,-7.88,11.56%,$0.0845,Monthly,December 31
-EMF,XEMFX,Equity-Emerging Market Equity,1.84,0.58,-0.31,11.74,-0.1,13.71,-0.15,-0.02,-13.64,-13.16,-16.45,-8.56,9.54%,$1.1293,Annually,August 31
-EMO,XEMOX,Equity-MLP,2.41,2.66,2.17,34.94,0.44,38.75,2.16,0.82,-10.78,-13.75,-17.56,-9.04,7.54%,$0.6500,Quarterly,November 30
-ENX,XENWX,Fixed Income - Municipal-Municipal - NY,0.84,0.24,0.14,9.21,-0.06,10.56,0.48,0.05,-12.22,-12.41,-15.67,-8.62,3.84%,$0.0297,Monthly,September 30
-EOD,XEODX,Equity-Global Equity,-0.23,-0.81,-1.10,4.24,0.04,4.9,0.2,0.01,-13.70,-8.18,-16.14,3.67,10.17%,$0.1068,Quarterly,October 31
-EOI,XEOIX,Equity-Covered-Call Funds,-0.43,-1.00,-1.25,16.06,0.09,16.63,0.12,0.02,-3.97,-0.53,-5.70,8.79,8.26%,$0.1095,Monthly,September 30
-EOS,XEOSX,Equity-Covered-Call Funds,1.85,1.31,-0.11,18.51,0.02,19.07,0.0,0.0,-3.04,-2.63,-7.55,7.22,7.47%,$0.1152,Monthly,December 31
-EOT,XEOTX,Fixed Income - Municipal-Municipal,0.13,-0.56,-0.92,16.67,0.22,17.92,0.34,0.06,-8.20,-5.87,-11.87,-0.56,4.56%,$0.0625,Monthly,March 31
-ERC,XERCX,Fixed Income - Taxable-Limited Duration,-0.82,-0.38,-0.60,9.32,0.11,9.82,-0.2,-0.02,-6.30,-4.12,-9.94,3.11,8.47%,$0.0650,Monthly,October 31
-ERH,XERHX,Hybrid-U.S. Allocation,0.22,-0.69,-1.32,9.29,0.14,10.42,0.39,0.04,-12.86,-9.01,-16.82,-4.98,8.73%,$0.0658,Monthly,August 31
-ETB,XETBX,Equity-Covered-Call Funds,1.13,-0.23,-0.80,13.0,-0.01,13.98,0.22,0.03,-6.94,-4.03,-11.91,4.86,8.60%,$0.0932,Monthly,December 31
-ETG,XETGX,Equity-Global Equity,0.72,-0.29,-0.96,16.67,0.14,18.62,0.11,0.02,-11.22,-9.46,-14.48,-5.21,7.31%,$0.1001,Monthly,October 31
-ETJ,XETJX,Equity-Covered-Call Funds,1.96,0.23,0.09,7.945,-0.02,8.38,-0.12,-0.01,-4.89,-5.04,-9.19,0.24,8.72%,$0.0579,Monthly,December 31
-ETO,XETOX,Hybrid-Global Allocation,0.60,-0.30,-0.97,22.88,0.18,25.06,0.12,0.03,-9.42,-8.32,-11.39,-5.80,7.27%,$0.1374,Monthly,October 31
-ETV,XETVX,Equity-Covered-Call Funds,0.92,-0.10,-0.68,12.44,-0.04,13.03,0.15,0.02,-4.22,-1.57,-9.33,7.03,9.13%,$0.0949,Monthly,December 31
-ETW,XETWX,Equity-Covered-Call Funds,0.33,-0.61,-1.26,7.86,0.08,8.84,0.0,0.0,-11.99,-9.01,-15.04,-4.01,8.98%,$0.0582,Monthly,December 31
-ETX,XETTX,Fixed Income - Municipal-Municipal,1.43,0.86,-0.05,17.77,0.22,18.77,0.05,0.01,-6.50,-6.41,-10.25,-2.05,3.99%,$0.0583,Monthly,January 31
-ETY,XETYX,Equity-Covered-Call Funds,0.20,-0.68,-1.16,11.86,0.0,12.44,0.08,0.01,-4.66,-1.73,-8.38,3.35,8.15%,$0.0805,Monthly,October 31
-EVF,XEVFX,Fixed Income - Taxable-Senior Loans,0.56,1.18,1.79,6.08,0.09,6.16,0.0,0.0,-2.76,-8.88,-13.17,1.48,11.22%,$0.0560,Monthly,June 30
-EVG,XEVGX,Fixed Income - Taxable-Limited Duration,-1.12,-0.11,-0.55,10.18,0.1,10.84,0.28,0.03,-7.01,-5.52,-10.26,1.85,8.89%,$0.0744,Monthly,October 31
-EVM,XEVMX,Fixed Income - Municipal-Municipal - CA,1.06,0.29,0.29,8.89,0.08,10.23,0.2,0.02,-13.88,-14.18,-16.99,-11.65,3.98%,$0.0292,Monthly,September 30
-EVN,XEVNX,Fixed Income - Municipal-Municipal,-0.11,-0.80,-1.19,9.72,0.18,11.11,0.36,0.04,-14.13,-11.79,-15.94,-6.56,4.72%,$0.0375,Monthly,November 30
-EVT,XEVTX,Hybrid-U.S. Allocation,-1.00,-1.60,-2.19,21.11,0.41,23.14,1.0,0.23,-10.54,-5.32,-11.98,-1.63,8.72%,$0.1488,Monthly,October 31
-EVV,XEVVX,Fixed Income - Taxable-Limited Duration,0.60,0.00,-0.64,9.32,0.08,10.38,0.0,0.0,-10.98,-9.09,-14.24,-1.43,9.73%,$0.0749,Monthly,March 31
-EXG,XEXGX,Equity-Covered-Call Funds,0.92,-0.12,-0.74,7.74,0.05,8.58,-0.12,-0.01,-10.37,-8.88,-13.91,-3.59,8.63%,$0.0553,Monthly,October 31
-FAM,XFAMX,Fixed Income - Taxable-Global Income,1.11,0.29,0.85,6.07,0.05,6.65,-0.3,-0.02,-9.90,-11.38,-14.50,-5.47,11.98%,$0.0600,Monthly,December 31
-FAX,XFAPX,Fixed Income - Taxable-Global Income,1.51,1.86,2.01,2.76,0.09,3.0,-0.33,-0.01,-11.00,-13.85,-17.25,-9.76,12.36%,$0.0275,Monthly,October 31
-FCO,XFCOX,Fixed Income - Taxable-Global Income,0.43,0.92,1.37,6.1,0.0,3.88,0.0,0.0,57.22,36.36,7.06,63.73,13.77%,$0.0700,Monthly,October 31
-FCT,XFCTX,Fixed Income - Taxable-Senior Loans,-1.22,-0.88,-0.29,9.82,0.04,11.11,0.0,0.0,-11.61,-11.21,-15.27,-8.00,11.85%,$0.0970,Monthly,May 31
+ACP,XACPX,Fixed Income - Taxable-Senior Loans,-0.47,-1.08,-1.04,6.31,0.15,6.78,0.3,0.02,-6.93,-1.21,-13.14,16.28,19.02%,$0.1000,Monthly,October 31
+ACV,XACVX,Hybrid-U.S. Allocation,1.59,2.24,0.54,20.07,0.28,20.41,1.14,0.23,-1.93,-4.07,-9.07,10.50,10.76%,$0.1800,Monthly,January 31
+ADX,XADEX,Equity-U.S. Equity,0.96,1.14,1.63,17.06,0.1,19.81,0.46,0.09,-13.88,-15.25,-16.64,-13.28,26.96%,$1.1500,Quarterly,December 31
+AEF,XAEFX,Equity-Emerging Market Equity,0.20,-0.55,-1.00,4.92,-0.01,5.81,0.17,0.01,-15.32,-13.74,-17.55,-9.09,8.13%,$0.1000,Quarterly,December 31
+AFB,XAFBX,Fixed Income - Municipal-Municipal,2.04,0.97,0.49,10.7,0.31,12.37,0.49,0.06,-13.50,-14.16,-17.35,-9.57,3.66%,$0.0327,Monthly,October 31
+AFT,XAFTX,Fixed Income - Taxable-Senior Loans,-1.08,-0.61,-0.42,13.02,0.09,14.97,0.13,0.02,-12.90,-12.83,-15.26,-7.84,12.44%,$0.1350,Monthly,December 31
+AGD,XAGDX,Equity-Global Equity,1.39,0.18,-0.35,9.23,0.14,10.71,0.85,0.09,-13.82,-13.27,-16.50,-8.96,8.45%,$0.0650,Monthly,October 31
+AIF,XAIFX,Fixed Income - Taxable-High Yield,-1.04,-0.46,-0.14,12.88,0.05,14.66,0.21,0.03,-12.30,-12.08,-15.39,-7.90,11.65%,$0.1250,Monthly,December 31
+AIO,XAIOX,Equity-Sector Equity,-0.15,-0.78,-0.20,17.51,0.28,19.53,0.41,0.08,-11.41,-10.86,-15.56,-5.05,10.28%,$0.1500,Monthly,February 28
+AOD,XAODX,Equity-Global Equity,0.58,-0.35,-0.82,7.92,0.1,9.27,0.87,0.08,-14.56,-13.79,-17.12,-11.75,8.71%,$0.0575,Monthly,October 31
+ARDC,XADCX,Fixed Income - Taxable-Senior Loans,0.53,0.86,1.16,12.9,0.04,14.19,0.21,0.03,-9.18,-11.15,-14.78,-7.60,10.93%,$0.1175,Monthly,October 31
+ASG,XASGX,Equity-U.S. Equity,-0.65,-1.20,-1.72,5.07,0.05,5.44,1.68,0.09,-6.80,-4.74,-8.35,-2.32,7.89%,$0.1000,Quarterly,December 31
+ASGI,XAGIX,Fixed Income - Taxable-Global Income,0.55,0.37,0.24,17.31,-0.15,20.38,1.04,0.21,-15.06,-15.29,-17.74,-13.44,8.32%,$0.1200,Monthly,September 30
+AVK,XAVKX,Fixed Income - Taxable-Convertibles,0.06,-0.76,-1.18,10.65,0.25,11.93,1.53,0.18,-10.73,-7.53,-14.25,-1.51,13.21%,$0.1172,Monthly,October 31
+AWF,XAWFX,Fixed Income - Taxable-High Yield,-0.10,-0.68,-0.72,9.91,0.12,10.84,0.46,0.05,-8.58,-7.67,-11.19,-4.39,7.93%,$0.0655,Monthly,March 31
+AWP,XAWPX,Equity-Real Estate,-1.04,-1.05,-0.88,3.73,0.09,4.06,2.27,0.09,-8.13,-6.35,-10.29,-0.25,12.87%,$0.0400,Monthly,October 31
+BBN,XBBNX,Fixed Income - Taxable-Taxable Muni,-0.37,-0.75,-1.12,15.85,0.19,17.31,1.64,0.28,-8.43,-5.23,-10.60,3.72,7.03%,$0.0929,Monthly,July 31
+BCAT,XCATX,Hybrid-U.S. Allocation,1.95,1.47,1.29,14.98,0.19,16.91,0.54,0.09,-11.05,-13.20,-18.44,-10.45,10.21%,$0.1275,Monthly,December 31
+BCV,XBCVX,Fixed Income - Taxable-Convertibles,-0.80,-1.12,-1.17,15.1499,0.19,18.0,1.47,0.26,-15.83,-14.15,-17.32,-9.77,8.45%,$0.3200,Quarterly,October 31
+BCX,XBCRX,Equity-Sector Equity,0.43,-0.06,-0.43,9.01,0.1,10.45,1.26,0.13,-13.78,-13.21,-16.02,-10.10,6.90%,$0.0518,Monthly,December 31
+BDJ,XBDJX,Equity-Covered-Call Funds,2.19,0.26,-0.71,7.91,0.11,8.68,0.7,0.06,-8.24,-4.92,-15.30,3.09,8.53%,$0.0562,Monthly,December 31
+BFK,XBFKX,Fixed Income - Municipal-Municipal,2.01,2.36,0.86,9.99,0.17,11.37,0.18,0.02,-12.14,-13.61,-17.40,-9.73,6.01%,$0.0500,Monthly,July 31
+BFZ,XBFZX,Fixed Income - Municipal-Municipal - CA,1.72,-0.12,0.09,11.355,0.09,12.87,0.16,0.02,-11.77,-11.97,-16.02,-7.65,5.39%,$0.0510,Monthly,July 31
+BGB,XBGBX,Fixed Income - Taxable-Senior Loans,0.75,0.68,0.70,11.05,0.11,12.49,0.16,0.02,-11.53,-12.25,-15.09,-9.79,11.08%,$0.1020,Monthly,December 31
+BGH,XBGHX,Fixed Income - Taxable-High Yield,0.55,-0.05,-0.27,13.09,0.17,14.74,0.34,0.05,-11.19,-10.78,-15.73,-8.18,9.68%,$0.1056,Monthly,December 31
+BGR,XBGRX,Equity-Sector Equity,1.27,1.23,0.94,12.73,0.03,14.31,0.21,0.03,-10.85,-11.82,-13.79,-8.66,6.19%,$0.0657,Monthly,December 31
+BGT,XBGTX,Fixed Income - Taxable-Senior Loans,0.33,0.86,1.42,12.0,0.04,12.77,0.08,0.01,-6.03,-9.05,-13.41,-4.23,11.36%,$0.1136,Monthly,October 31
+BGX,XXBGX,Fixed Income - Taxable-Senior Loans,-0.27,-0.14,0.27,11.48,0.12,13.0,0.08,0.01,-12.55,-12.92,-15.55,-10.06,11.71%,$0.1120,Monthly,December 31
+BGY,XBGYX,Equity-Covered-Call Funds,0.94,0.03,-0.48,5.18,0.03,6.0,0.5,0.03,-13.23,-12.73,-15.66,-9.82,7.83%,$0.0338,Monthly,December 31
+BHK,XBHKX,Fixed Income - Taxable-Investment Grade,2.44,2.11,2.26,10.48,0.14,10.54,1.25,0.13,0.67,-2.65,-5.93,0.67,8.54%,$0.0746,Monthly,August 31
+BHV,XBHVX,Fixed Income - Municipal-Municipal - Single-State,1.53,0.43,-0.55,10.5293,0.13,12.3,0.41,0.05,-14.40,-12.64,-17.80,-5.42,4.50%,$0.0395,Monthly,July 31
+BIGZ,XBIGX,Equity-U.S. Equity,2.40,2.55,2.15,7.41,0.18,8.58,1.78,0.15,-12.10,-17.67,-24.12,-12.10,7.34%,$0.0453,Monthly,December 31
+BIT,XBITX,Fixed Income - Taxable-Multi-Sector,2.04,2.12,2.45,15.15,0.12,14.41,0.63,0.09,5.80,0.59,-3.73,5.80,9.80%,$0.1237,Monthly,October 31
+BKN,XBKNX,Fixed Income - Municipal-Municipal,1.27,0.79,-0.19,11.37,0.16,12.9,0.23,0.03,-11.86,-11.30,-16.88,-2.08,6.02%,$0.0570,Monthly,July 31
+BKT,XBKTX,Fixed Income - Taxable-Investment Grade,1.48,1.20,1.07,11.715,0.08,12.34,1.56,0.19,-3.58,-4.80,-8.33,-2.16,9.03%,$0.0882,Monthly,December 31
+BLE,XBLEX,Fixed Income - Municipal-Municipal,1.85,1.77,0.32,10.44,0.22,11.98,0.34,0.04,-12.85,-13.42,-17.20,-9.54,5.98%,$0.0520,Monthly,July 31
+BLW,XBLWX,Fixed Income - Taxable-Limited Duration,0.48,0.66,0.29,13.16,-0.02,13.76,0.36,0.05,-4.01,-4.45,-7.58,-0.51,9.84%,$0.1079,Monthly,December 31
+BME,XBMEX,Equity-Sector Equity,0.43,0.07,-0.82,38.61,0.13,41.09,0.39,0.16,-5.67,-3.28,-9.55,4.73,6.62%,$0.2130,Monthly,December 31
+BMEZ,XBMZX,Equity-Sector Equity,1.00,-0.15,-0.25,14.07,0.16,16.78,1.15,0.19,-15.19,-14.81,-19.06,-10.28,7.91%,$0.0927,Monthly,December 31
+BMN,XBMNX,Fixed Income - Municipal-Municipal,-0.12,-0.87,-1.49,24.0,0.3,25.76,0.19,0.05,-6.83,-3.69,-9.98,0.07,4.69%,$0.0938,Monthly,December 31
+BNY,XBNYX,Fixed Income - Municipal-Municipal - NY,1.58,1.15,-0.03,10.25,0.17,11.95,0.34,0.04,-14.23,-14.17,-17.44,-8.17,5.03%,$0.0430,Monthly,July 31
+BOE,XBOEX,Equity-Covered-Call Funds,1.40,0.89,-0.17,9.94,0.04,11.53,0.61,0.07,-13.26,-13.05,-16.67,-9.56,7.61%,$0.0630,Monthly,December 31
+BRW,XPPRX,Fixed Income - Taxable-Senior Loans,1.45,1.20,0.89,7.85,0.03,8.47,0.12,0.01,-7.57,-8.78,-12.72,-5.96,12.99%,$0.0850,Monthly,October 31
+BSL,XBSLX,Fixed Income - Taxable-Senior Loans,0.98,0.84,0.86,13.1,0.11,14.52,0.07,0.01,-9.78,-10.74,-14.00,-8.48,10.90%,$0.1190,Monthly,December 31
+BST,XBSTX,Equity-Sector Equity,0.82,0.76,0.23,34.08,0.07,33.8,0.33,0.11,1.16,0.76,-4.19,6.81,8.80%,$0.2500,Monthly,December 31
+BSTZ,XBSZX,Equity-Sector Equity,1.33,0.26,-0.16,17.18,0.22,20.87,0.77,0.16,-17.04,-16.56,-25.47,-9.10,7.18%,$0.1029,Monthly,December 31
+BTA,XBTAX,Fixed Income - Municipal-Municipal,0.03,0.66,0.75,9.83,0.23,10.25,0.39,0.04,-4.10,-5.20,-9.16,-1.30,5.31%,$0.0435,Monthly,July 31
+BTO,XBTOX,Equity-Sector Equity,-1.50,-1.47,-1.33,28.09,1.2,27.84,4.39,1.17,0.82,6.58,-1.95,21.40,9.26%,$0.6500,Quarterly,December 31
+BTT,XBTTX,Fixed Income - Municipal-Municipal,1.15,0.48,-0.49,20.93,0.2,23.62,0.21,0.05,-11.39,-10.50,-14.48,-6.20,2.66%,$0.0464,Monthly,July 31
+BUI,XBUIX,Equity-Sector Equity,-0.41,-0.98,-0.95,20.7,0.44,21.89,0.83,0.18,-4.65,-2.13,-8.26,4.40,7.01%,$0.1210,Monthly,December 31
+BWG,XBWGX,Fixed Income - Taxable-Global Income,0.72,0.59,0.04,8.07,0.2,9.2,1.32,0.12,-13.27,-13.34,-17.75,-7.73,11.90%,$0.0800,Monthly,October 31
+BXMX,XBXMX,Equity-Covered-Call Funds,0.18,-0.76,-1.35,12.86,0.09,13.92,0.22,0.03,-7.61,-2.64,-10.34,3.18,7.36%,$0.2365,Quarterly,December 31
+BYM,XBYMX,Fixed Income - Municipal-Municipal,1.60,0.62,-0.17,10.97,0.16,12.54,0.32,0.04,-12.52,-12.20,-16.53,-6.40,5.74%,$0.0525,Monthly,July 31
+CAF,XCAFX,Equity-Asia Equity,1.70,1.27,-0.15,12.11,-0.01,14.84,-0.93,-0.14,-18.40,-18.06,-20.93,-9.66,0.02%,$0.0027,Annually,December 31
+CBH,XCBHX,Fixed Income - Taxable-Multi-Sector,-0.12,-0.15,-0.30,8.67,0.05,9.1,0.22,0.02,-5.07,-4.73,-7.09,-1.94,6.37%,$0.0460,Monthly,January 31
+CCD,XCCDX,Fixed Income - Taxable-Convertibles,-0.53,-0.71,-1.19,18.97,0.09,18.76,1.41,0.26,1.12,7.99,-0.99,22.57,12.34%,$0.1950,Monthly,October 31
+CEE,XCEEX,Equity-Emerging Market Equity,-0.88,-1.37,-1.41,9.19,0.21,9.55,1.92,0.18,-3.77,10.26,-7.49,31.76,2.60%,$0.2387,Annually,October 31
+CEF,XCEFX,Equity-Commodities,-0.23,-0.32,-0.85,19.58,0.28,20.57,1.43,0.29,-4.83,-4.13,-5.63,1.24,N/A,,Data Not Available,December 31
+CEM,XCEMX,Equity-MLP,1.66,1.27,1.30,38.89,0.55,44.33,0.0,0.0,-12.27,-15.07,-18.28,-12.21,7.92%,$0.7700,Quarterly,November 30
+CEV,XCEVX,Fixed Income - Municipal-Municipal - CA,1.60,1.14,0.98,10.04,0.11,11.62,0.35,0.04,-13.60,-14.48,-16.62,-11.71,4.09%,$0.0342,Monthly,November 30
+CGO,XCGOX,Hybrid-Global Allocation,0.32,-0.32,-0.63,9.08,0.12,9.97,0.71,0.07,-8.93,-7.26,-12.00,0.39,10.57%,$0.0800,Monthly,October 31
+CHI,XCHIX,Fixed Income - Taxable-Convertibles,-3.09,-2.45,-1.82,9.975,-0.04,9.73,1.25,0.12,2.52,8.93,1.49,16.91,11.42%,$0.0949,Monthly,October 31
+CHN,XXCHNXX,Equity-Asia Equity,0.64,-0.27,-0.53,10.2,-0.03,12.09,-0.25,-0.03,-15.59,-13.79,-18.53,27.21,6.62%,$0.6748,Annually,October 31
+CHW,XCHWX,Hybrid-Global Allocation,-0.95,-1.51,-1.52,5.67,0.03,6.54,0.77,0.05,-13.30,-9.97,-14.14,-2.85,10.58%,$0.0500,Monthly,October 31
+CHY,XCHYX,Fixed Income - Taxable-Convertibles,-0.64,0.49,0.74,11.43,0.1,10.28,1.28,0.13,10.99,7.04,-3.00,19.56,10.52%,$0.1000,Monthly,October 31
+CIF,XCIFX,Fixed Income - Taxable-High Yield,0.46,0.06,-0.55,1.66,0.02,1.83,0.55,0.01,-9.29,-7.41,-12.57,0.54,9.87%,$0.0137,Monthly,November 30
+CII,XCIIX,Equity-Covered-Call Funds,-0.03,0.06,0.11,18.65,0.26,19.18,0.26,0.05,-2.51,-2.70,-6.18,1.10,6.40%,$0.0995,Monthly,December 31
+CIK,XCIKX,Fixed Income - Taxable-High Yield,1.15,-0.50,-0.18,2.78,0.03,2.87,0.35,0.01,-2.80,-3.25,-10.55,7.98,9.71%,$0.0225,Monthly,December 31
+CLM,XCLMX,Equity-U.S. Equity,-0.62,-1.21,-1.48,7.4,0.11,6.67,0.45,0.03,10.94,17.50,0.64,26.11,19.91%,$0.1086,Monthly,December 31
+CMU,XCMUX,Fixed Income - Municipal-Municipal,-0.55,-0.29,0.42,3.22,0.06,3.66,0.27,0.01,-12.02,-13.03,-16.62,-6.51,4.10%,$0.0110,Monthly,November 30
+CPZ,XCPZX,Equity-Global Equity,-0.02,-0.32,-0.86,14.63,0.05,17.2,0.82,0.14,-14.94,-13.78,-17.90,-10.57,11.48%,$0.1400,Monthly,October 31
+CRF,XCRFX,Equity-U.S. Equity,-0.52,-0.89,-0.78,7.33,0.13,6.39,0.47,0.03,14.71,18.27,2.01,29.08,19.20%,$0.1037,Monthly,December 31
+CSQ,XCSQX,Hybrid-U.S. Allocation,-0.12,-0.44,-0.76,14.52,0.08,14.79,0.68,0.1,-1.76,-0.22,-4.93,3.77,8.47%,$0.1025,Monthly,October 31
+CTR,XCTRX,Equity-MLP,1.07,0.35,0.99,35.1,0.73,40.54,1.05,0.42,-14.33,-16.32,-19.69,-11.39,7.98%,$0.7000,Quarterly,November 30
+CUBA,XCUBAX,Equity-U.S. Equity,-1.43,-2.18,-3.09,2.56,0.06,4.88,2.52,0.12,-47.37,-22.64,-52.33,-9.29,27.13%,$0.1736,Quarterly,June 30
+CXE,XCXEX,Fixed Income - Municipal-Municipal,2.67,1.96,1.50,3.52,0.13,4.02,0.5,0.02,-12.44,-14.45,-17.20,-10.90,4.26%,$0.0125,Monthly,November 30
+CXH,XCXHX,Fixed Income - Municipal-Municipal,-1.23,-0.56,0.16,7.345,0.08,8.43,0.48,0.04,-12.87,-13.23,-16.28,-7.84,3.59%,$0.0220,Monthly,November 30
+DBL,XDBLX,Fixed Income - Taxable-Multi-Sector,0.72,0.59,0.46,14.81,0.05,14.62,0.69,0.1,1.30,0.47,-3.76,4.79,8.91%,$0.1100,Monthly,September 30
+DCF,XDCFX,Fixed Income - Taxable-Multi-Sector,-0.27,-0.38,-0.64,7.96,0.03,8.41,0.24,0.02,-5.13,-4.45,-7.55,0.76,5.28%,$0.0350,Monthly,August 31
+DFP,XDFPX,Fixed Income - Taxable-Preferreds,2.57,0.73,-0.07,18.04,0.35,19.84,0.71,0.14,-9.07,-8.84,-16.09,-2.15,6.92%,$0.1040,Monthly,November 30
+DHF,XDHFX,Fixed Income - Taxable-High Yield,0.39,-0.11,-0.50,2.26,0.02,2.62,0.77,0.02,-13.85,-13.13,-16.60,-8.66,7.96%,$0.0150,Monthly,March 31
+DHY,XDHYX,Fixed Income - Taxable-High Yield,0.26,0.19,0.00,1.91,0.01,2.11,0.48,0.01,-9.05,-9.53,-15.35,-2.94,9.74%,$0.0155,Monthly,October 31
+DIAX,XDIAX,Equity-Covered-Call Funds,-1.17,-1.83,-1.49,13.98,0.1,16.06,0.63,0.1,-13.03,-8.76,-14.08,-3.25,8.20%,$0.2867,Quarterly,December 31
+DLY,XDLYX,Fixed Income - Taxable-Multi-Sector,-0.63,-0.39,0.56,14.56,0.09,15.35,0.46,0.07,-5.15,-6.52,-12.82,-1.17,9.62%,$0.1167,Monthly,September 30
+DMB,XDMBX,Fixed Income - Municipal-Municipal,-1.50,-1.84,-2.45,10.1,0.13,11.69,0.43,0.05,-14.35,-8.41,-15.11,-1.36,3.56%,$0.0300,Monthly,February 28
+DMF,XDMFX,Fixed Income - Municipal-Municipal,1.09,0.68,-0.13,6.29,0.0,7.43,0.41,0.03,-15.00,-14.83,-17.43,-10.38,2.86%,$0.0150,Monthly,September 30
+DMO,XDMOX,Fixed Income - Taxable-High Yield,0.51,0.40,0.65,10.74,0.11,11.86,0.34,0.04,-10.07,-11.49,-16.53,-7.48,12.85%,$0.1200,Monthly,December 31
+DNP,XDNPX,Equity-Sector Equity,-2.11,-2.62,-2.74,9.03,-0.02,8.07,1.51,0.12,11.95,23.87,11.95,34.76,8.64%,$0.0650,Monthly,October 31
+DPG,XDPGX,Equity-Sector Equity,1.79,-0.07,-0.90,9.64,0.11,10.91,1.49,0.16,-10.33,-0.67,-16.94,18.70,8.71%,$0.2100,Quarterly,October 31
+DSL,XDSLX,Fixed Income - Taxable-Global Income,0.75,0.43,0.85,11.98,0.03,11.85,0.34,0.04,1.10,-0.95,-7.79,3.00,11.02%,$0.1100,Monthly,September 30
+DSM,XDSMX,Fixed Income - Municipal-Municipal,-0.49,-1.09,-1.40,5.56,0.15,6.49,0.31,0.02,-14.06,-13.83,-17.48,-9.60,3.88%,$0.0180,Monthly,November 30
+DSU,XDSUX,Fixed Income - Taxable-Senior Loans,2.51,2.04,2.42,10.45,0.05,10.76,0.19,0.02,-2.70,-8.23,-11.99,-2.70,10.46%,$0.0911,Monthly,December 31
+DTF,XDTFX,Fixed Income - Municipal-Municipal,-0.68,-0.15,0.20,10.8397,0.02,12.32,0.08,0.01,-12.02,-12.19,-14.13,-9.95,3.60%,$0.0325,Monthly,October 31
+EAD,XEADX,Fixed Income - Taxable-High Yield,1.32,0.48,-0.29,6.41,0.08,7.13,0.42,0.03,-10.85,-10.23,-15.28,-1.10,9.68%,$0.0517,Monthly,April 30
+ECAT,ECAT,Hybrid-Global Allocation,2.63,3.08,1.73,17.61,0.1,17.61,0.57,0.1,-9.71,-13.54,-19.61,-9.71,9.49%,$0.1250,Monthly,December 31
+ECC,XECCX,Fixed Income - Taxable-Senior Loans,-0.27,-1.01,-1.34,9.51,0.09,9.32,0.65,0.06,7.22,15.77,-5.02,31.53,17.67%,$0.1400,Monthly,December 31
+ECF,XECFX,Fixed Income - Taxable-Convertibles,-1.38,-1.65,-1.34,7.71,0.11,9.16,1.22,0.11,-15.83,-13.09,-17.62,-7.77,6.74%,$0.1300,Quarterly,September 30
+EDD,XEDDX,Fixed Income - Taxable-Emerging Market Income,1.83,2.27,2.51,4.79,0.12,5.42,0.56,0.03,-11.62,-14.24,-17.28,-11.40,7.52%,$0.0900,Quarterly,October 31
+EDF,XEDFX,Fixed Income - Taxable-Emerging Market Income,0.13,-0.31,-0.57,4.35,-0.03,4.28,0.47,0.02,2.11,5.56,-10.22,20.84,16.55%,$0.0600,Monthly,November 30
+EDI,XEDIX,Fixed Income - Taxable-Emerging Market Income,0.17,-0.12,-0.28,5.23,0.12,5.02,0.4,0.02,2.20,3.93,-12.47,18.23,16.06%,$0.0700,Monthly,November 30
+EEA,XEEAX,Equity-Global Equity,2.06,0.67,-0.32,8.51,0.05,10.03,0.2,0.02,-15.15,-14.64,-17.77,-10.83,0.76%,$0.0325,Semi-Annually,December 31
+EFR,XEFRX,Fixed Income - Taxable-Senior Loans,2.19,2.59,2.74,12.52,0.16,12.94,0.15,0.02,-3.25,-8.55,-12.11,-3.25,11.31%,$0.1180,Monthly,October 31
+EFT,XEFTX,Fixed Income - Taxable-Senior Loans,0.89,1.23,1.65,12.3,-0.04,13.19,0.15,0.02,-6.75,-9.59,-13.54,-6.02,11.32%,$0.1160,Monthly,May 31
+EGF,XEGFX,Fixed Income - Taxable-Investment Grade,0.17,0.59,0.92,9.7537,-0.0,10.14,0.9,0.09,-2.95,-4.76,-8.98,0.00,5.04%,$0.0410,Monthly,December 31
+EHI,XEHIX,Fixed Income - Taxable-High Yield,0.57,-0.04,0.09,6.94,0.07,7.2,0.56,0.04,-4.05,-4.35,-11.83,3.76,11.59%,$0.0670,Monthly,May 31
+EIC,XEICX,Fixed Income - Taxable-High Yield,1.04,0.58,-0.26,14.61,0.37,14.08,1.96,0.27,5.72,6.75,-1.87,20.09,14.78%,$0.2000,Monthly,December 31
+EIM,XEIMX,Fixed Income - Municipal-Municipal,1.83,1.05,-0.19,9.88,0.15,11.32,0.35,0.04,-12.72,-12.44,-15.54,-7.64,4.04%,$0.0333,Monthly,September 30
+EMD,XEMDX,Fixed Income - Taxable-Emerging Market Income,0.57,0.31,-0.04,8.93,0.17,10.07,0.3,0.03,-12.75,-12.67,-16.28,-7.88,11.35%,$0.0845,Monthly,December 31
+EMF,XEMFX,Equity-Emerging Market Equity,0.04,-0.74,-1.05,11.74,-0.1,13.78,0.51,0.07,-14.80,-13.17,-16.45,-8.56,9.62%,$1.1293,Annually,August 31
+EMO,XEMOX,Equity-MLP,2.07,2.42,2.01,34.94,0.44,39.13,0.98,0.38,-10.97,-13.76,-17.56,-10.39,7.44%,$0.6500,Quarterly,November 30
+ENX,XENWX,Fixed Income - Municipal-Municipal - NY,0.21,-0.41,-0.61,9.21,-0.06,10.62,0.57,0.06,-13.28,-12.41,-15.67,-8.62,3.87%,$0.0297,Monthly,September 30
+EOD,XEODX,Equity-Global Equity,-0.51,-1.09,-1.21,4.24,0.04,4.93,0.61,0.03,-14.29,-8.18,-16.14,3.67,10.07%,$0.1068,Quarterly,October 31
+EOI,XEOIX,Equity-Covered-Call Funds,-0.32,-0.89,-1.18,16.06,0.09,16.69,0.36,0.06,-3.77,-0.57,-5.70,8.79,8.18%,$0.1095,Monthly,September 30
+EOS,XEOSX,Equity-Covered-Call Funds,1.66,1.17,-0.15,18.51,0.02,19.12,0.26,0.05,-3.19,-2.65,-7.55,7.22,7.47%,$0.1152,Monthly,December 31
+EOT,XEOTX,Fixed Income - Municipal-Municipal,0.60,-0.14,-0.56,16.67,0.22,17.98,0.33,0.06,-7.29,-5.87,-11.87,-0.56,4.50%,$0.0625,Monthly,March 31
+ERC,XERCX,Fixed Income - Taxable-Limited Duration,-0.72,-0.37,-0.57,9.32,0.11,9.87,0.51,0.05,-6.21,-4.12,-9.94,3.11,8.37%,$0.0650,Monthly,October 31
+ERH,XERHX,Hybrid-U.S. Allocation,0.62,-0.45,-1.08,9.29,0.14,10.54,1.15,0.12,-12.19,-9.01,-16.82,-4.98,8.50%,$0.0658,Monthly,August 31
+ETB,XETBX,Equity-Covered-Call Funds,0.93,-0.37,-0.88,13.0,-0.01,14.02,0.29,0.04,-7.28,-4.08,-11.91,3.23,8.60%,$0.0932,Monthly,December 31
+ETG,XETGX,Equity-Global Equity,0.80,-0.26,-0.93,16.67,0.14,18.77,0.81,0.15,-11.19,-9.47,-14.48,-5.21,7.21%,$0.1001,Monthly,October 31
+ETJ,XETJX,Equity-Covered-Call Funds,1.56,0.03,-0.14,7.945,-0.02,8.39,0.12,0.01,-5.30,-5.07,-9.19,-0.35,8.75%,$0.0579,Monthly,December 31
+ETO,XETOX,Hybrid-Global Allocation,0.67,-0.26,-0.93,22.88,0.18,25.25,0.76,0.19,-9.39,-8.33,-11.39,-5.80,7.21%,$0.1374,Monthly,October 31
+ETV,XETVX,Equity-Covered-Call Funds,0.63,-0.33,-0.81,12.44,-0.04,13.06,0.23,0.03,-4.75,-1.61,-9.33,7.03,9.15%,$0.0949,Monthly,December 31
+ETW,XETWX,Equity-Covered-Call Funds,0.80,-0.30,-1.00,7.86,0.08,8.87,0.34,0.03,-11.39,-9.04,-15.04,-5.04,8.89%,$0.0582,Monthly,December 31
+ETX,XETTX,Fixed Income - Municipal-Municipal,2.09,1.61,0.51,17.77,0.22,18.8,0.16,0.03,-5.48,-6.42,-10.25,-2.05,3.94%,$0.0583,Monthly,January 31
+ETY,XETYX,Equity-Covered-Call Funds,0.12,-0.73,-1.22,11.86,0.0,12.46,0.16,0.02,-4.82,-1.75,-8.38,3.35,8.15%,$0.0805,Monthly,October 31
+EVF,XEVFX,Fixed Income - Taxable-Senior Loans,1.08,1.49,2.14,6.08,0.09,6.17,0.16,0.01,-1.46,-8.85,-13.17,1.48,11.05%,$0.0560,Monthly,June 30
+EVG,XEVGX,Fixed Income - Taxable-Limited Duration,-0.77,0.13,-0.37,10.18,0.1,10.89,0.46,0.05,-6.52,-5.55,-10.26,1.85,8.77%,$0.0744,Monthly,October 31
+EVM,XEVMX,Fixed Income - Municipal-Municipal - CA,1.45,0.66,0.71,8.89,0.08,10.27,0.39,0.04,-13.44,-14.18,-16.99,-11.65,3.94%,$0.0292,Monthly,September 30
+EVN,XEVNX,Fixed Income - Municipal-Municipal,0.94,0.07,-0.52,9.72,0.18,11.15,0.36,0.04,-12.83,-11.80,-15.94,-6.56,4.63%,$0.0375,Monthly,November 30
+EVT,XEVTX,Hybrid-U.S. Allocation,-0.61,-1.29,-1.90,21.11,0.41,23.43,1.25,0.29,-9.90,-5.35,-11.98,-1.64,8.46%,$0.1488,Monthly,October 31
+EVV,XEVVX,Fixed Income - Taxable-Limited Duration,0.78,0.14,-0.57,9.32,0.08,10.45,0.67,0.07,-10.81,-9.12,-14.24,-1.43,9.64%,$0.0749,Monthly,March 31
+EXG,XEXGX,Equity-Covered-Call Funds,1.00,-0.08,-0.71,7.74,0.05,8.63,0.58,0.05,-10.31,-8.90,-13.91,-4.30,8.57%,$0.0553,Monthly,October 31
+FAM,XFAMX,Fixed Income - Taxable-Global Income,1.47,0.51,1.08,6.07,0.05,6.63,-0.3,-0.02,-9.47,-11.38,-14.50,-5.47,11.86%,$0.0600,Monthly,December 31
+FAX,XFAPX,Fixed Income - Taxable-Global Income,3.14,3.99,3.98,2.76,0.09,3.0,0.0,0.0,-8.00,-13.82,-17.25,-8.00,11.96%,$0.0275,Monthly,October 31
+FCO,XFCOX,Fixed Income - Taxable-Global Income,0.30,0.86,1.34,6.1,0.0,3.89,0.26,0.01,56.81,36.55,7.98,63.73,13.77%,$0.0700,Monthly,October 31
+FCT,XFCTX,Fixed Income - Taxable-Senior Loans,-1.46,-1.20,-0.54,9.82,0.04,11.03,-0.72,-0.08,-11.97,-11.21,-15.27,-8.00,11.85%,$0.0970,Monthly,May 31
 FDEU,XFDEX,Equity-Global Equity,1.32,1.98,1.50,12.59,0.04,12.78,0.63,0.08,-1.49,-6.76,-14.59,0.00,6.67%,$0.0700,Monthly,December 31
-FEI,XFEIX,Equity-MLP,1.33,2.05,2.77,8.69,-0.12,9.54,0.95,0.09,-7.83,-13.82,-17.50,-6.77,6.81%,$0.0500,Monthly,October 31
-FEN,XFENX,Equity-MLP,0.72,0.92,0.81,14.67,-0.06,16.04,1.07,0.17,-8.85,-11.34,-15.99,-5.84,8.30%,$0.3000,Quarterly,November 30
-FFA,XFFAX,Equity-Covered-Call Funds,-0.61,-0.81,0.03,17.65,0.12,18.45,0.54,0.1,-4.36,-4.40,-7.44,-0.60,7.18%,$0.3150,Quarterly,December 31
-FFC,XFFCX,Fixed Income - Taxable-Preferreds,1.51,0.73,-0.33,14.06,0.22,15.18,0.26,0.04,-8.83,-7.46,-15.69,2.04,7.07%,$0.0815,Monthly,November 30
-FGB,XFGBX,Equity-Sector Equity,1.69,0.47,-0.01,3.4,0.05,3.94,0.51,0.02,-14.54,-14.51,-19.14,-7.16,9.85%,$0.0825,Quarterly,November 30
-FIF,XFIFX,Equity-MLP,1.53,2.18,3.03,16.45,-0.02,17.57,1.09,0.19,-5.24,-12.68,-15.74,-4.89,7.29%,$0.1000,Monthly,November 30
-FINS,XFINX,Hybrid-U.S. Allocation,0.80,1.36,1.18,12.2,0.1,13.56,-0.07,-0.01,-10.77,-12.85,-15.62,-8.83,10.81%,$0.1090,Monthly,January 31
-FLC,XFLCX,Fixed Income - Taxable-Preferreds,0.79,-0.08,-0.84,14.45,0.23,16.32,0.25,0.04,-12.87,-9.94,-16.92,-2.60,7.05%,$0.0835,Monthly,November 30
-FMN,XFMNX,Fixed Income - Municipal-Municipal,0.74,0.12,-0.37,10.57,0.17,12.2,0.41,0.05,-14.75,-14.35,-16.62,-10.23,4.04%,$0.0350,Monthly,November 30
-FMY,XFMYX,Fixed Income - Taxable-Investment Grade,-0.93,-0.16,-0.21,11.23,-0.04,12.24,-0.33,-0.04,-8.22,-7.37,-10.92,-1.87,8.78%,$0.0825,Monthly,October 31
-FOF,XFOFX,Hybrid-U.S. Allocation,1.24,1.92,1.81,11.25,0.08,10.58,0.28,0.03,5.58,1.96,-1.60,7.76,9.35%,$0.0870,Monthly,December 31
-FPF,XFPFX,Fixed Income - Taxable-Preferreds,2.16,0.90,0.04,15.98,0.15,17.9,0.45,0.08,-11.17,-11.33,-16.56,-5.90,10.42%,$0.1375,Monthly,October 31
-FPL,XFPLX,Equity-MLP,1.04,1.71,2.45,7.05,0.04,7.63,1.19,0.09,-6.96,-13.57,-17.09,-5.40,6.41%,$0.0375,Monthly,October 31
-FRA,XFRAX,Fixed Income - Taxable-Senior Loans,-0.79,-0.98,-0.02,12.01,0.0,13.14,0.08,0.01,-8.60,-8.56,-12.86,-4.10,11.71%,$0.1170,Monthly,August 31
-FSD,XFSDX,Fixed Income - Taxable-High Yield,1.30,0.67,0.54,11.29,-0.08,12.47,0.0,0.0,-8.82,-10.24,-14.13,-6.70,11.08%,$0.1050,Monthly,October 31
-FT,XFUTX,Hybrid-U.S. Allocation,-0.71,-1.13,-0.92,6.6,0.1,7.31,0.27,0.02,-11.08,-9.44,-12.92,-3.64,7.85%,$0.0425,Monthly,August 31
-FTF,XFTFX,Fixed Income - Taxable-Limited Duration,0.78,0.52,-0.02,6.35,0.19,7.03,0.0,0.0,-12.38,-12.36,-15.89,-9.18,11.20%,$0.0576,Monthly,December 31
-FTHY,XFTHYX,Fixed Income - Taxable-High Yield,0.20,-0.35,-0.64,13.58,0.0,15.59,-0.06,-0.01,-12.95,-11.50,-14.38,-8.02,11.49%,$0.1300,Monthly,May 31
-FUND,XFUNX,Equity-U.S. Equity,0.09,-0.81,-1.37,7.7,0.1,8.34,0.48,0.04,-8.87,-6.92,-11.18,-2.59,6.52%,$0.1238,Quarterly,December 31
-FXBY,XFXBX,Equity-U.S. Equity,-1.16,-0.64,-1.14,12.33,0.05,21.57,1.27,0.27,-43.06,-36.19,-47.22,-22.25,1.57%,$0.1925,Annually,December 31
-GAB,XGABX,Equity-U.S. Equity,-0.92,-1.03,-1.47,5.13,0.03,4.96,0.81,0.04,2.82,7.10,0.42,14.23,11.76%,$0.1500,Quarterly,December 31
-GAM,XGAMX,Equity-U.S. Equity,0.68,1.07,0.26,42.14,0.26,50.51,0.66,0.33,-17.09,-17.29,-19.06,-14.96,6.33%,$2.6500,Annually,December 31
-GBAB,XGBAX,Fixed Income - Taxable-Taxable Muni,0.29,0.39,0.13,15.88,0.23,15.23,-0.65,-0.1,2.76,2.49,-2.80,7.88,9.64%,$0.1257,Monthly,May 31
-GCV,XGCVX,Hybrid-U.S. Allocation,-1.43,-1.71,-1.73,3.47,0.05,3.78,0.27,0.01,-9.52,4.96,-11.36,25.54,14.04%,$0.1200,Quarterly,December 31
-GDL,XGDLX,Hybrid-U.S. Allocation,0.83,0.20,-0.55,7.8701,0.01,10.14,-0.1,-0.01,-22.49,-22.00,-23.41,-19.58,6.11%,$0.1200,Quarterly,December 31
-GDO,XGDOX,Fixed Income - Taxable-Global Income,-0.28,-0.68,-0.85,12.15,0.12,12.62,-0.24,-0.03,-4.90,-4.13,-6.48,0.51,10.17%,$0.1020,Monthly,October 31
-GDV,XGDVX,Equity-U.S. Equity,1.64,0.30,-0.45,20.51,0.2,24.13,0.63,0.15,-15.83,-15.22,-18.55,-12.63,6.53%,$0.1100,Monthly,December 31
-GF,XGFNX,Equity-Single-Country Equity,-0.06,-0.69,-1.08,8.53,0.11,10.17,-0.88,-0.09,-17.21,-15.34,-18.97,-10.99,0.32%,$0.0136,Semi-Annually,December 31
-GGN,XGGNX,Equity-Sector Equity,-2.65,-2.22,-0.31,3.75,0.03,3.95,0.51,0.02,-5.82,-5.19,-10.00,-0.81,9.60%,$0.0300,Monthly,December 31
-GGT,XGGTX,Equity-Sector Equity,-0.53,-0.66,0.16,5.91,0.49,3.62,0.0,0.0,49.72,47.28,19.57,84.91,16.24%,$0.2200,Quarterly,December 31
-GGZ,XGGZX,Equity-Global Equity,1.33,0.13,-0.37,11.0,0.27,12.88,0.08,0.01,-16.69,-16.15,-19.73,-12.61,5.96%,$0.1600,Quarterly,December 31
-GHY,XGHYX,Fixed Income - Taxable-High Yield,-0.31,-0.72,-0.33,11.21,0.18,12.48,0.08,0.01,-11.55,-11.06,-14.48,-7.85,11.42%,$0.1050,Monthly,July 31
-GIM,XGIMX,Fixed Income - Taxable-Global Income,-1.21,-1.45,-1.82,3.95,0.04,4.39,-0.68,-0.03,-10.93,-7.98,-12.47,-3.66,8.59%,$0.0280,Monthly,December 31
-GLO,XGLOX,Hybrid-Global Allocation,0.96,-0.34,-0.71,4.68,0.07,5.59,0.36,0.02,-17.53,-15.54,-19.66,-6.40,12.57%,$0.0483,Monthly,October 31
-GLQ,XGLQX,Equity-Global Equity,1.45,-0.03,-0.55,5.8799,0.07,7.0,0.57,0.04,-17.00,-15.22,-19.67,-3.87,12.37%,$0.0599,Monthly,October 31
-GLU,XGLUX,Equity-Sector Equity,-0.68,-0.54,-0.10,12.9997,0.13,14.13,0.28,0.04,-8.92,-8.61,-14.19,0.29,9.43%,$0.1000,Monthly,December 31
-GLV,XGLVX,Hybrid-Global Allocation,-0.68,-1.25,-1.01,5.13,0.1,6.17,0.65,0.04,-18.48,-14.71,-19.53,0.32,14.27%,$0.0597,Monthly,October 31
-GNT,XGNTX,Equity-Covered-Call Funds,0.64,0.36,0.11,5.07,0.02,6.02,0.17,0.01,-16.11,-16.26,-19.57,-12.79,7.13%,$0.0300,Monthly,December 31
-GOF,XGOFX,Fixed Income - Taxable-Multi-Sector,-0.44,-1.14,-1.79,13.34,0.01,12.02,-0.08,-0.01,10.90,24.70,-4.70,34.59,16.39%,$0.1821,Monthly,May 31
-GRF,XGRFX,Equity-U.S. Equity,-0.57,-0.53,-0.62,8.5801,0.04,10.46,0.58,0.06,-18.27,-16.16,-21.44,2.84,4.10%,$0.3500,Annually,December 31
-GRX,XXGRX,Equity-Sector Equity,0.54,-0.21,-0.88,8.88,0.09,10.81,1.41,0.15,-18.69,-17.18,-21.18,-12.56,6.83%,$0.1500,Quarterly,December 31
-GUG,XGUGX,Hybrid-Global Allocation,-0.20,-0.75,-0.99,14.0,0.26,16.0,-0.06,-0.01,-14.13,-12.72,-16.59,-9.23,10.37%,$0.1188,Monthly,May 31
-GUT,XGUTX,Equity-Sector Equity,0.14,-0.12,0.37,6.08,0.02,2.88,0.7,0.02,110.42,107.30,79.26,126.82,9.90%,$0.0500,Monthly,December 31
-HEQ,XHEQX,Equity-Global Equity,0.68,-0.53,-1.15,10.17,0.12,11.49,0.52,0.06,-12.53,-6.22,-15.72,3.20,9.95%,$0.2500,Quarterly,December 31
-HFRO,XHFOX,Fixed Income - Taxable-Senior Loans,1.40,0.86,0.10,8.57,0.23,12.69,0.32,0.04,-34.28,-34.84,-48.43,-23.12,11.08%,$0.0770,Monthly,June 30
-HGLB,XHGLX,Hybrid-Global Allocation,0.56,-0.06,-0.81,8.32,0.13,11.41,0.62,0.07,-28.22,-24.48,-40.74,-17.12,12.31%,$0.0840,Monthly,September 30
-HIE,XHIEX,Equity-U.S. Equity,1.25,1.20,1.22,10.34,0.14,10.9,0.74,0.08,-6.42,-7.33,-10.12,-4.98,6.00%,$0.0510,Monthly,October 31
-HIO,XHIOX,Fixed Income - Taxable-High Yield,1.27,1.67,1.26,3.83,0.0,4.16,-0.24,-0.01,-8.15,-10.10,-13.19,-6.39,11.12%,$0.0355,Monthly,September 30
-HIX,XHGIX,Fixed Income - Taxable-High Yield,0.37,-0.45,-0.71,4.75,0.12,4.65,0.0,0.0,-0.43,1.71,-5.22,7.90,12.70%,$0.0490,Monthly,April 30
-HNW,XHNWX,Fixed Income - Taxable-High Yield,0.70,1.26,0.72,10.62,0.13,11.91,0.17,0.02,-11.77,-13.00,-15.10,-9.07,10.30%,$0.0900,Monthly,April 30
-HPF,XHPFX,Fixed Income - Taxable-Preferreds,1.73,1.69,1.09,15.5,0.03,14.75,0.48,0.07,4.88,2.01,-3.24,10.06,9.58%,$0.1235,Monthly,July 31
-HPI,XHPIX,Fixed Income - Taxable-Preferreds,1.27,0.83,0.30,15.21,0.01,14.88,0.47,0.07,2.15,1.49,-4.51,8.27,9.75%,$0.1235,Monthly,July 31
-HPS,XHPSX,Fixed Income - Taxable-Preferreds,-0.60,-1.22,-1.33,13.42,0.14,13.31,0.45,0.06,-0.23,3.34,-3.11,12.69,9.94%,$0.1100,Monthly,July 31
-HQH,XHQHX,Equity-Sector Equity,-0.51,-1.16,-1.45,15.05,0.14,18.16,1.28,0.23,-17.90,-14.06,-19.59,-8.85,10.19%,$0.3800,Quarterly,September 30
-HQL,XHQLX,Equity-Sector Equity,-0.37,-1.07,-1.50,12.06,0.11,14.53,1.82,0.26,-17.76,-14.74,-19.62,-10.56,10.04%,$0.3000,Quarterly,September 30
-HTD,XHTDX,Hybrid-U.S. Allocation,0.39,-0.57,-1.18,19.04,0.34,20.64,0.73,0.15,-9.40,-4.66,-13.61,1.90,8.93%,$0.1380,Monthly,October 31
-HTY,XHTYX,Equity-Global Equity,0.14,-0.06,-0.65,4.58,0.05,5.22,0.58,0.03,-13.22,-11.28,-16.06,-3.35,14.13%,$0.1600,Quarterly,October 31
-HYB,XHYBX,Fixed Income - Taxable-High Yield,1.49,1.64,0.68,6.91,0.09,8.0,1.39,0.11,-13.56,-14.50,-17.89,-8.00,7.04%,$0.0400,Monthly,December 31
-HYI,XHYIX,Fixed Income - Taxable-High Yield,2.10,1.88,0.93,11.79,0.13,12.15,0.0,0.0,-4.03,-5.20,-7.59,-0.56,9.78%,$0.0950,Monthly,May 31
-HYT,XHYTX,Fixed Income - Taxable-High Yield,-1.06,-1.23,-0.68,8.83,0.1,9.38,-0.21,-0.02,-7.13,-5.82,-9.85,-1.38,10.71%,$0.0779,Monthly,December 31
-IAE,XIAEX,Equity-Asia Equity,0.91,0.12,-0.44,5.82,-0.01,6.82,0.29,0.02,-14.52,-13.98,-16.85,-9.87,10.98%,$0.1600,Quarterly,February 28
-IAF,XIAFX,Equity-Single-Country Equity,0.80,0.22,-0.14,4.12,0.08,4.51,0.45,0.02,-10.42,-10.13,-15.42,-2.63,10.89%,$0.1100,Quarterly,October 31
-IDE,XIDEX,Equity-Global Equity,0.83,0.74,0.80,9.72,0.05,11.26,0.45,0.05,-14.12,-15.06,-17.43,-12.32,9.47%,$0.2290,Quarterly,February 28
-IFN,XIFNX,Equity-Asia Equity,-0.81,0.09,0.77,17.17,0.17,16.76,1.15,0.19,1.43,-1.28,-9.13,7.05,9.65%,$0.4100,Quarterly,December 31
-IGA,XIGAX,Equity-Covered-Call Funds,1.70,1.71,0.43,8.47,0.04,9.74,0.72,0.07,-12.82,-13.75,-17.25,-9.07,9.35%,$0.1970,Quarterly,February 28
-IGD,XIGDX,Equity-Covered-Call Funds,0.66,-0.47,-0.89,4.92,-0.03,5.75,0.7,0.04,-13.91,-12.48,-15.98,-8.90,9.70%,$0.0400,Monthly,February 28
-IGI,XIGIX,Fixed Income - Taxable-Investment Grade,1.23,1.45,1.04,16.65,0.3,17.07,-0.29,-0.05,-4.50,-4.21,-6.01,-0.99,5.03%,$0.0695,Monthly,November 30
-IGR,XIGRX,Equity-Real Estate,-1.58,-1.70,-1.42,4.89,0.27,5.41,1.12,0.06,-14.60,-9.96,-18.50,1.36,15.62%,$0.0600,Monthly,December 31
-IHD,XIHDX,Equity-Emerging Market Equity,0.54,-0.15,-0.70,5.0,0.02,5.84,0.34,0.02,-14.73,-13.80,-17.22,-9.09,10.84%,$0.1350,Quarterly,February 28
-IHIT,XHITX,Fixed Income - Taxable-High Yield,1.23,1.94,2.26,6.92,-0.01,6.94,0.0,0.0,-0.29,-4.27,-7.23,-0.07,3.47%,$0.0200,Monthly,February 28
-IHTA,XHTAX,Fixed Income - Taxable-High Yield,-0.05,-0.34,-0.77,6.72,0.04,7.4,0.27,0.02,-9.73,-7.49,-11.81,0.94,5.93%,$0.0330,Monthly,February 28
-IIF,XIIFX,Equity-Asia Equity,0.15,-0.61,-0.97,22.95,0.2,28.26,0.46,0.13,-19.50,-18.27,-21.39,-14.39,17.51%,$3.9832,Annually,December 31
-IIM,XIIMX,Fixed Income - Municipal-Municipal,-0.38,-1.01,-1.30,11.51,0.18,13.2,0.46,0.06,-14.17,-11.20,-15.92,-5.94,4.67%,$0.0441,Monthly,February 28
-INSI,XBDFX,Fixed Income - Taxable-Investment Grade,-0.16,-0.80,-0.78,15.41,0.17,17.03,-0.29,-0.05,-10.77,-9.61,-11.38,-6.73,5.25%,$0.2000,Quarterly,March 31
-IQI,XIQIX,Fixed Income - Municipal-Municipal,0.10,-0.71,-1.18,9.33,0.15,10.79,0.56,0.06,-14.92,-12.72,-16.47,-8.10,4.68%,$0.0358,Monthly,February 28
-ISD,XISDX,Fixed Income - Taxable-High Yield,-0.55,-1.15,-1.07,12.08,0.18,13.48,-0.07,-0.01,-11.79,-10.18,-13.90,-6.67,10.59%,$0.1050,Monthly,July 31
-JCE,XJCEX,Equity-U.S. Equity,0.41,1.00,-0.07,13.17,0.07,13.2,0.46,0.06,-0.76,-0.46,-6.39,16.18,9.77%,$0.3200,Quarterly,December 31
-JEQ,XJEQX,Equity-Asia Equity,-0.41,-0.99,-0.64,5.515,0.06,6.48,0.31,0.02,-15.90,-14.88,-18.43,-10.34,7.34%,$0.1000,Quarterly,October 31
-JFR,XJFRX,Fixed Income - Taxable-Senior Loans,-0.28,-0.05,-0.70,8.06,0.07,9.13,0.11,0.01,-12.49,-11.11,-15.47,-6.59,12.75%,$0.0850,Monthly,July 31
-JGH,XJGHX,Fixed Income - Taxable-Global Income,-0.77,-0.80,-0.57,11.41,0.14,12.81,0.0,0.0,-12.02,-10.96,-14.25,-6.22,11.02%,$0.1035,Monthly,December 31
-JHAA,XJAAX,Fixed Income - Taxable-High Yield,1.46,1.76,2.12,9.7041,0.0,9.72,0.0,0.0,-0.16,-2.37,-4.89,0.00,2.29%,$0.0185,Monthly,December 31
-JHI,XJHIX,Fixed Income - Taxable-Investment Grade,-0.31,-0.94,-1.28,12.76,0.15,14.22,0.07,0.01,-11.32,-8.82,-13.36,-3.77,6.61%,$0.2084,Quarterly,October 31
-JHS,XJHSX,Fixed Income - Taxable-Investment Grade,-0.92,-1.47,-1.58,10.69,0.19,11.68,-0.26,-0.03,-10.10,-8.16,-11.03,-4.83,3.31%,$0.0868,Quarterly,October 31
-JLS,XJLSX,Fixed Income - Taxable-High Yield,1.44,1.70,1.55,16.83,0.45,18.66,-0.05,-0.01,-12.22,-14.25,-16.53,-9.46,10.40%,$0.1420,Monthly,December 31
-JMM,XJMMX,Fixed Income - Taxable-Investment Grade,0.12,0.01,0.00,5.75,0.02,6.25,-0.32,-0.02,-8.32,-8.32,-10.89,-4.95,5.76%,$0.0275,Monthly,June 30
-JOF,XXJOFXX,Equity-Asia Equity,-0.60,-1.11,-1.40,7.35,0.08,9.11,0.77,0.07,-19.58,-17.18,-21.72,-12.03,0.63%,$0.0461,Annually,February 28
-JPC,XJPCX,Fixed Income - Taxable-Preferreds,-0.11,-0.88,-1.22,6.5,0.07,7.48,0.13,0.01,-14.04,-10.84,-15.70,-2.77,0.39%,$0.0419,Monthly,July 31
-JPI,XJPIX,Fixed Income - Taxable-Preferreds,1.38,0.95,0.02,17.76,0.13,18.54,0.32,0.06,-4.91,-4.93,-7.42,-0.61,6.67%,$0.0980,Monthly,July 31
+FEI,XFEIX,Equity-MLP,1.32,2.06,2.80,8.69,-0.12,9.54,0.0,0.0,-7.65,-13.83,-17.50,-6.98,6.90%,$0.0500,Monthly,October 31
+FEN,XFENX,Equity-MLP,0.90,1.13,1.03,14.67,-0.06,16.13,0.56,0.09,-8.17,-11.35,-15.99,-5.84,8.18%,$0.3000,Quarterly,November 30
+FFA,XFFAX,Equity-Covered-Call Funds,-0.97,-1.33,-0.37,17.65,0.12,18.55,0.54,0.1,-4.99,-4.40,-7.44,-0.60,7.14%,$0.3150,Quarterly,December 31
+FFC,XFFCX,Fixed Income - Taxable-Preferreds,1.79,1.05,-0.15,14.06,0.22,15.3,0.79,0.12,-8.10,-7.48,-15.69,2.04,6.96%,$0.0815,Monthly,November 30
+FGB,XFGBX,Equity-Sector Equity,1.39,0.26,-0.20,3.4,0.05,3.96,0.51,0.02,-14.97,-14.51,-19.14,-7.16,9.71%,$0.0825,Quarterly,November 30
+FIF,XFIFX,Equity-MLP,1.06,1.68,2.46,16.45,-0.02,17.62,0.28,0.05,-5.84,-12.68,-15.74,-4.89,7.29%,$0.1000,Monthly,November 30
+FINS,XFINX,Hybrid-U.S. Allocation,0.80,1.36,1.18,12.2,0.1,13.59,0.22,0.03,-10.03,-12.85,-15.62,-8.83,10.72%,$0.1090,Monthly,January 31
+FLC,XFLCX,Fixed Income - Taxable-Preferreds,1.19,0.26,-0.63,14.45,0.23,16.45,0.8,0.13,-12.16,-9.97,-16.92,-2.60,6.93%,$0.0835,Monthly,November 30
+FMN,XFMNX,Fixed Income - Municipal-Municipal,0.74,0.12,-0.37,10.57,0.17,12.26,0.49,0.06,-14.75,-14.35,-16.62,-10.23,3.97%,$0.0350,Monthly,November 30
+FMY,XFMYX,Fixed Income - Taxable-Investment Grade,-1.19,-0.36,-0.35,11.23,-0.04,12.27,0.25,0.03,-7.92,-7.37,-10.92,-1.87,8.82%,$0.0825,Monthly,October 31
+FOF,XFOFX,Hybrid-U.S. Allocation,1.24,1.92,1.81,11.25,0.08,10.69,1.04,0.11,5.58,1.96,-1.60,7.76,9.28%,$0.0870,Monthly,December 31
+FPF,XFPFX,Fixed Income - Taxable-Preferreds,2.45,1.33,0.38,15.98,0.15,17.85,-0.28,-0.05,-10.48,-11.34,-16.56,-5.90,10.33%,$0.1375,Monthly,October 31
+FPL,XFPLX,Equity-MLP,0.93,1.60,2.31,7.05,0.04,7.64,0.13,0.01,-7.15,-13.57,-17.09,-5.40,6.38%,$0.0375,Monthly,October 31
+FRA,XFRAX,Fixed Income - Taxable-Senior Loans,-0.80,-1.02,-0.05,12.01,0.0,13.15,0.08,0.01,-8.67,-8.57,-12.86,-4.10,11.69%,$0.1170,Monthly,August 31
+FSD,XFSDX,Fixed Income - Taxable-High Yield,1.52,0.93,0.81,11.29,-0.08,12.42,-0.4,-0.05,-8.69,-10.24,-14.13,-6.70,11.16%,$0.1050,Monthly,October 31
+FT,XFUTX,Hybrid-U.S. Allocation,-0.38,-0.82,-0.70,6.6,0.1,7.39,1.09,0.08,-10.69,-9.44,-12.92,-3.64,7.73%,$0.0425,Monthly,August 31
+FTF,XFTFX,Fixed Income - Taxable-Limited Duration,0.78,0.52,-0.02,6.35,0.19,7.05,0.28,0.02,-12.38,-12.36,-15.89,-9.18,10.89%,$0.0576,Monthly,December 31
+FTHY,XFTHYX,Fixed Income - Taxable-High Yield,-0.46,-1.01,-1.09,13.58,0.0,15.54,-0.32,-0.05,-12.16,-11.50,-14.38,-8.02,11.49%,$0.1300,Monthly,May 31
+FUND,XFUNX,Equity-U.S. Equity,-0.41,-1.13,-1.66,7.7,0.1,8.49,1.8,0.15,-9.31,-6.93,-11.18,-2.59,6.43%,$0.1238,Quarterly,December 31
+FXBY,XFXBX,Equity-U.S. Equity,-1.71,-1.01,-1.29,12.33,0.05,22.03,2.13,0.46,-44.03,-36.25,-47.22,-22.25,1.56%,$0.1925,Annually,December 31
+GAB,XGABX,Equity-U.S. Equity,-1.40,-1.39,-1.81,5.13,0.03,5.04,1.61,0.08,1.79,7.06,0.42,14.23,11.70%,$0.1500,Quarterly,December 31
+GAM,XGAMX,Equity-U.S. Equity,0.69,1.09,0.30,42.14,0.26,50.81,0.59,0.3,-17.06,-17.29,-19.06,-14.96,6.29%,$2.6500,Annually,December 31
+GBAB,XGBAX,Fixed Income - Taxable-Taxable Muni,0.36,0.46,0.20,15.88,0.23,15.43,1.31,0.2,2.92,2.49,-2.80,7.88,9.50%,$0.1257,Monthly,May 31
+GCV,XGCVX,Hybrid-U.S. Allocation,-1.34,-1.66,-1.70,3.47,0.05,3.83,1.32,0.05,-9.40,4.86,-11.36,25.54,13.83%,$0.1200,Quarterly,December 31
+GDL,XGDLX,Hybrid-U.S. Allocation,-0.35,-0.72,-0.95,7.8701,0.01,10.2,0.59,0.06,-22.84,-22.01,-23.41,-19.58,6.10%,$0.1200,Quarterly,December 31
+GDO,XGDOX,Fixed Income - Taxable-Global Income,0.43,0.00,-0.46,12.15,0.12,12.69,0.55,0.07,-4.68,-4.13,-6.48,0.51,10.07%,$0.1020,Monthly,October 31
+GDV,XGDVX,Equity-U.S. Equity,1.43,0.14,-0.58,20.51,0.2,24.42,1.2,0.29,-16.01,-15.22,-18.55,-12.63,6.44%,$0.1100,Monthly,December 31
+GF,XGFNX,Equity-Single-Country Equity,1.05,0.02,-0.59,8.53,0.11,10.2,0.29,0.03,-16.37,-15.36,-18.97,-10.99,0.32%,$0.0136,Semi-Annually,December 31
+GGN,XGGNX,Equity-Sector Equity,-2.45,-2.13,-0.30,3.75,0.03,3.98,0.76,0.03,-5.78,-5.18,-10.00,-0.81,9.60%,$0.0300,Monthly,December 31
+GGT,XGGTX,Equity-Sector Equity,0.09,0.14,0.80,5.91,0.49,3.71,2.49,0.09,59.30,47.33,19.57,84.91,14.89%,$0.2200,Quarterly,December 31
+GGZ,XGGZX,Equity-Global Equity,1.49,0.26,-0.26,11.0,0.27,13.18,2.33,0.3,-16.54,-16.16,-19.73,-12.61,5.82%,$0.1600,Quarterly,December 31
+GHY,XGHYX,Fixed Income - Taxable-High Yield,-0.37,-0.79,-0.37,11.21,0.18,12.53,0.4,0.05,-11.62,-11.06,-14.48,-7.85,11.24%,$0.1050,Monthly,July 31
+GIM,XGIMX,Fixed Income - Taxable-Global Income,-1.06,-1.28,-1.62,3.95,0.04,4.42,0.68,0.03,-10.63,-7.99,-12.47,-3.66,8.51%,$0.0280,Monthly,December 31
+GLO,XGLOX,Hybrid-Global Allocation,2.19,0.31,-0.36,4.68,0.07,5.61,0.36,0.02,-16.58,-15.57,-19.66,-6.40,12.38%,$0.0483,Monthly,October 31
+GLQ,XGLQX,Equity-Global Equity,2.38,0.50,-0.31,5.8799,0.07,7.02,0.29,0.02,-16.24,-15.26,-19.67,-3.87,12.22%,$0.0599,Monthly,October 31
+GLU,XGLUX,Equity-Sector Equity,-0.90,-0.84,-0.43,12.9997,0.13,14.43,2.12,0.3,-9.91,-8.62,-14.19,0.29,9.23%,$0.1000,Monthly,December 31
+GLV,XGLVX,Hybrid-Global Allocation,0.97,-0.16,-0.60,5.13,0.1,6.18,0.16,0.01,-16.99,-14.76,-19.53,0.32,13.96%,$0.0597,Monthly,October 31
+GNT,XGNTX,Equity-Covered-Call Funds,0.15,-0.13,-0.37,5.07,0.02,6.09,1.16,0.07,-16.75,-16.27,-19.57,-12.79,7.10%,$0.0300,Monthly,December 31
+GOF,XGOFX,Fixed Income - Taxable-Multi-Sector,-0.48,-1.19,-1.85,13.34,0.01,12.1,0.67,0.08,10.25,24.64,-4.70,34.59,16.38%,$0.1821,Monthly,May 31
+GRF,XGRFX,Equity-U.S. Equity,-0.58,-0.57,-0.63,8.5801,0.04,10.53,0.67,0.07,-18.36,-16.17,-21.44,2.84,4.08%,$0.3500,Annually,December 31
+GRX,XXGRX,Equity-Sector Equity,0.17,-0.56,-1.13,8.88,0.09,10.98,1.57,0.17,-19.13,-17.19,-21.18,-12.56,6.76%,$0.1500,Quarterly,December 31
+GUG,XGUGX,Hybrid-Global Allocation,0.63,-0.02,-0.30,14.0,0.26,16.12,0.75,0.12,-13.15,-12.73,-16.59,-9.23,10.18%,$0.1188,Monthly,May 31
+GUT,XGUTX,Equity-Sector Equity,-0.09,-0.43,0.02,6.08,0.02,2.93,1.74,0.05,107.51,107.35,79.26,126.82,9.87%,$0.0500,Monthly,December 31
+HEQ,XHEQX,Equity-Global Equity,1.06,-0.38,-1.05,10.17,0.12,11.56,0.61,0.07,-12.02,-6.27,-15.72,3.20,9.83%,$0.2500,Quarterly,December 31
+HFRO,XHFOX,Fixed Income - Taxable-Senior Loans,1.71,1.23,0.40,8.57,0.23,12.73,0.32,0.04,-32.68,-34.88,-48.43,-23.54,10.78%,$0.0770,Monthly,June 30
+HGLB,XHGLX,Hybrid-Global Allocation,0.72,0.11,-0.66,8.32,0.13,11.49,0.7,0.08,-27.59,-24.51,-40.74,-17.12,12.12%,$0.0840,Monthly,September 30
+HIE,XHIEX,Equity-U.S. Equity,1.43,1.41,1.44,10.34,0.14,11.03,1.19,0.13,-6.26,-7.32,-10.12,-4.98,5.92%,$0.0510,Monthly,October 31
+HIO,XHIOX,Fixed Income - Taxable-High Yield,1.76,2.32,1.87,3.83,0.0,4.18,0.48,0.02,-7.93,-10.10,-13.19,-6.39,11.12%,$0.0355,Monthly,September 30
+HIX,XHGIX,Fixed Income - Taxable-High Yield,0.43,-0.47,-0.71,4.75,0.12,4.67,0.43,0.02,-0.43,1.71,-5.22,7.90,12.38%,$0.0490,Monthly,April 30
+HNW,XHNWX,Fixed Income - Taxable-High Yield,0.77,1.34,0.80,10.62,0.13,11.95,0.34,0.04,-11.92,-13.00,-15.10,-9.07,10.17%,$0.0900,Monthly,April 30
+HPF,XHPFX,Fixed Income - Taxable-Preferreds,1.30,1.24,0.73,15.5,0.03,14.91,1.08,0.16,3.96,2.03,-3.24,10.06,9.56%,$0.1235,Monthly,July 31
+HPI,XHPIX,Fixed Income - Taxable-Preferreds,0.73,0.31,-0.14,15.21,0.01,15.03,1.01,0.15,1.20,1.50,-4.51,8.27,9.74%,$0.1235,Monthly,July 31
+HPS,XHPSX,Fixed Income - Taxable-Preferreds,-0.55,-1.17,-1.29,13.42,0.14,13.44,0.98,0.13,-0.15,3.33,-3.11,12.69,9.84%,$0.1100,Monthly,July 31
+HQH,XHQHX,Equity-Sector Equity,-0.52,-1.16,-1.46,15.05,0.14,18.34,0.99,0.18,-17.94,-14.08,-19.59,-8.85,10.10%,$0.3800,Quarterly,September 30
+HQL,XHQLX,Equity-Sector Equity,-0.57,-1.19,-1.58,12.06,0.11,14.7,1.17,0.17,-17.96,-14.76,-19.62,-10.56,9.95%,$0.3000,Quarterly,September 30
+HTD,XHTDX,Hybrid-U.S. Allocation,0.40,-0.56,-1.18,19.04,0.34,21.02,1.84,0.38,-9.42,-4.69,-13.61,1.90,8.70%,$0.1380,Monthly,October 31
+HTY,XHTYX,Equity-Global Equity,0.40,0.20,-0.55,4.58,0.05,5.26,0.77,0.04,-12.93,-11.30,-16.06,-3.35,13.97%,$0.1600,Quarterly,October 31
+HYB,XHYBX,Fixed Income - Taxable-High Yield,0.42,0.35,-0.15,6.91,0.09,8.02,0.25,0.02,-14.75,-14.50,-17.89,-8.00,6.95%,$0.0400,Monthly,December 31
+HYI,XHYIX,Fixed Income - Taxable-High Yield,2.10,1.88,0.93,11.79,0.13,12.19,0.33,0.04,-2.96,-5.20,-7.59,-0.56,9.67%,$0.0950,Monthly,May 31
+HYT,XHYTX,Fixed Income - Taxable-High Yield,-0.35,-0.48,-0.02,8.83,0.1,9.43,0.53,0.05,-5.86,-5.83,-9.85,-1.38,10.59%,$0.0779,Monthly,December 31
+IAE,XIAEX,Equity-Asia Equity,0.42,-0.32,-0.77,5.82,-0.01,6.84,0.29,0.02,-14.91,-13.98,-16.85,-9.87,11.00%,$0.1600,Quarterly,February 28
+IAF,XIAFX,Equity-Single-Country Equity,0.69,0.09,-0.24,4.12,0.08,4.61,2.22,0.1,-10.63,-10.14,-15.42,-2.63,10.68%,$0.1100,Quarterly,October 31
+IDE,XIDEX,Equity-Global Equity,0.46,0.37,0.47,9.72,0.05,11.37,0.98,0.11,-14.51,-15.06,-17.43,-12.32,9.42%,$0.2290,Quarterly,February 28
+IFN,XIFNX,Equity-Asia Equity,-0.71,0.17,0.83,17.17,0.17,16.89,0.78,0.13,1.66,-1.25,-9.13,7.05,9.55%,$0.4100,Quarterly,December 31
+IGA,XIGAX,Equity-Covered-Call Funds,1.36,1.26,0.18,8.47,0.04,9.79,0.51,0.05,-13.45,-13.75,-17.25,-9.07,9.30%,$0.1970,Quarterly,February 28
+IGD,XIGDX,Equity-Covered-Call Funds,0.18,-0.75,-1.12,4.92,-0.03,5.74,-0.17,-0.01,-14.29,-12.50,-15.98,-8.90,9.76%,$0.0400,Monthly,February 28
+IGI,XIGIX,Fixed Income - Taxable-Investment Grade,0.12,0.19,-0.01,16.65,0.3,17.22,0.88,0.15,-2.46,-4.21,-6.01,-0.99,4.94%,$0.0695,Monthly,November 30
+IGR,XIGRX,Equity-Real Estate,0.23,-0.43,-0.58,4.89,0.27,5.55,2.59,0.14,-11.89,-9.99,-18.50,1.36,14.72%,$0.0600,Monthly,December 31
+IHD,XIHDX,Equity-Emerging Market Equity,0.90,0.20,-0.43,5.0,0.02,5.84,0.0,0.0,-14.38,-13.81,-17.22,-9.09,10.80%,$0.1350,Quarterly,February 28
+IHIT,XHITX,Fixed Income - Taxable-High Yield,1.17,1.88,2.23,6.92,-0.01,6.94,0.0,0.0,-0.33,-4.27,-7.23,-0.07,3.47%,$0.0200,Monthly,February 28
+IHTA,XHTAX,Fixed Income - Taxable-High Yield,0.21,-0.09,-0.66,6.72,0.04,7.42,0.27,0.02,-9.43,-7.53,-11.81,0.94,5.89%,$0.0330,Monthly,February 28
+IIF,XIIFX,Equity-Asia Equity,0.12,-0.65,-0.99,22.95,0.2,28.52,0.92,0.26,-19.53,-18.28,-21.39,-14.39,17.36%,$3.9832,Annually,December 31
+IIM,XIIMX,Fixed Income - Municipal-Municipal,0.42,-0.35,-0.87,11.51,0.18,13.26,0.45,0.06,-13.20,-11.22,-15.92,-5.94,4.60%,$0.0441,Monthly,February 28
+INSI,XBDFX,Fixed Income - Taxable-Investment Grade,-0.43,-0.96,-0.92,15.41,0.17,17.16,0.76,0.13,-10.51,-9.61,-11.38,-6.73,5.19%,$0.2000,Quarterly,March 31
+IQI,XIQIX,Fixed Income - Municipal-Municipal,1.19,0.07,-0.64,9.33,0.15,10.84,0.46,0.05,-13.93,-12.74,-16.47,-8.10,4.60%,$0.0358,Monthly,February 28
+ISD,XISDX,Fixed Income - Taxable-High Yield,-0.50,-1.10,-1.03,12.08,0.18,13.54,0.45,0.06,-11.72,-10.18,-13.90,-6.67,10.43%,$0.1050,Monthly,July 31
+JCE,XJCEX,Equity-U.S. Equity,0.44,1.04,-0.04,13.17,0.07,13.26,0.45,0.06,-0.68,-0.49,-6.39,16.18,9.72%,$0.3200,Quarterly,December 31
+JEQ,XJEQX,Equity-Asia Equity,-0.42,-1.01,-0.65,5.515,0.06,6.56,1.23,0.08,-15.93,-14.90,-18.43,-10.34,7.25%,$0.1000,Quarterly,October 31
+JFR,XJFRX,Fixed Income - Taxable-Senior Loans,0.26,0.52,-0.35,8.06,0.07,9.14,0.11,0.01,-11.82,-11.13,-15.47,-6.59,12.66%,$0.0850,Monthly,July 31
+JGH,XJGHX,Fixed Income - Taxable-Global Income,-0.77,-0.80,-0.57,11.41,0.14,12.87,0.47,0.06,-10.93,-10.96,-14.25,-6.22,10.89%,$0.1035,Monthly,December 31
+JHAA,XJAAX,Fixed Income - Taxable-High Yield,1.42,1.71,2.07,9.7041,0.0,9.72,0.0,0.0,-0.16,-2.36,-4.89,0.00,2.29%,$0.0185,Monthly,December 31
+JHI,XJHIX,Fixed Income - Taxable-Investment Grade,0.34,-0.36,-0.87,12.76,0.15,14.26,0.28,0.04,-10.52,-8.84,-13.36,-3.77,6.53%,$0.2084,Quarterly,October 31
+JHS,XJHSX,Fixed Income - Taxable-Investment Grade,-0.03,-0.59,-0.88,10.69,0.19,11.78,0.86,0.1,-9.25,-8.17,-11.03,-4.83,3.25%,$0.0868,Quarterly,October 31
+JLS,XJLSX,Fixed Income - Taxable-High Yield,3.10,3.47,3.10,16.83,0.45,18.72,0.32,0.06,-10.10,-14.23,-16.53,-9.46,10.12%,$0.1420,Monthly,December 31
+JMM,XJMMX,Fixed Income - Taxable-Investment Grade,-0.30,-0.40,-0.29,5.75,0.02,6.3,0.8,0.05,-8.73,-8.32,-10.89,-4.95,5.74%,$0.0275,Monthly,June 30
+JOF,XXJOFXX,Equity-Asia Equity,-0.31,-0.97,-1.24,7.35,0.08,9.11,0.77,0.07,-19.32,-17.19,-21.72,-12.03,0.63%,$0.0461,Annually,February 28
+JPC,XJPCX,Fixed Income - Taxable-Preferreds,0.52,-0.49,-0.99,6.5,0.07,7.51,0.4,0.03,-13.45,-10.89,-15.70,-3.51,0.39%,$0.0419,Monthly,July 31
+JPI,XJPIX,Fixed Income - Taxable-Preferreds,1.69,1.21,0.17,17.76,0.13,18.64,0.54,0.1,-4.72,-4.94,-7.42,-0.61,6.62%,$0.0980,Monthly,July 31
 JPS,XJPSX,Fixed Income - Taxable-Preferreds,1.49,0.61,-0.32,6.21,0.01,7.09,0.71,0.05,-12.55,-11.82,-16.91,-6.61,6.95%,$0.0359,Monthly,July 31
 JPT,XJPTX,Fixed Income - Taxable-Preferreds,1.53,0.81,-0.41,15.87,0.11,17.97,0.39,0.07,-12.30,-11.10,-16.75,-0.30,8.49%,$0.1115,Monthly,July 31
-JQC,XJQCX,Fixed Income - Taxable-Senior Loans,-0.18,-0.29,-0.61,5.1,0.07,5.83,0.0,0.0,-13.72,-12.74,-15.85,-8.57,12.88%,$0.0540,Monthly,July 31
-JRI,XJRIX,Hybrid-Global Allocation,0.60,0.40,-0.10,11.28,0.21,12.98,0.78,0.1,-14.71,-14.59,-17.78,-11.46,9.43%,$0.0870,Monthly,December 31
-JRS,XJRSX,Equity-Real Estate,-0.07,-0.66,-1.05,7.33,0.28,8.15,1.75,0.14,-13.50,-10.17,-16.53,-2.72,9.65%,$0.1700,Quarterly,December 31
-KF,XKFDX,Equity-Asia Equity,0.28,-0.58,-0.96,22.1284,0.08,26.97,0.52,0.14,-17.82,-15.47,-21.68,-11.06,15.05%,$3.3189,Annually,June 30
-KIO,XKIOX,Fixed Income - Taxable-High Yield,0.94,1.34,1.61,12.09,0.01,12.91,0.08,0.01,-6.36,-10.00,-14.59,-5.03,12.07%,$0.1215,Monthly,October 31
+JQC,XJQCX,Fixed Income - Taxable-Senior Loans,0.99,0.96,0.05,5.1,0.07,5.84,0.17,0.01,-12.67,-12.75,-15.85,-8.57,12.71%,$0.0540,Monthly,July 31
+JRI,XJRIX,Hybrid-Global Allocation,1.35,1.07,0.40,11.28,0.21,13.13,1.16,0.15,-14.09,-14.60,-17.78,-11.46,9.26%,$0.0870,Monthly,December 31
+JRS,XJRSX,Equity-Real Estate,0.93,0.42,-0.67,7.33,0.28,8.36,2.58,0.21,-12.32,-10.20,-16.53,-2.72,9.28%,$0.1700,Quarterly,December 31
+KF,XKFDX,Equity-Asia Equity,-0.03,-0.80,-1.20,22.1284,0.08,26.65,-1.19,-0.32,-17.95,-15.48,-21.68,-11.06,15.00%,$3.3189,Annually,June 30
+KIO,XKIOX,Fixed Income - Taxable-High Yield,1.35,1.68,1.89,12.09,0.01,12.96,0.39,0.05,-6.43,-10.00,-14.59,-5.03,12.06%,$0.1215,Monthly,October 31
 KMF,XKMFX,Equity-MLP,-2.66,-1.89,-0.96,6.715,0.01,8.17,0.12,0.01,-17.81,-16.41,-20.78,-13.47,9.53%,$0.1600,Quarterly,November 30
-KSM,XKSMX,Fixed Income - Municipal-Municipal,0.71,0.52,0.13,8.49,0.21,9.66,0.52,0.05,-14.29,-14.41,-16.24,-11.79,3.77%,$0.0260,Monthly,November 30
-KTF,XKTFX,Fixed Income - Municipal-Municipal,0.33,-0.10,-0.70,8.62,0.13,10.05,0.4,0.04,-15.52,-14.62,-17.29,-10.57,3.53%,$0.0250,Monthly,November 30
-KYN,XKYNX,Equity-MLP,-1.44,-2.05,-2.07,8.64,0.07,10.51,1.45,0.15,-19.21,-15.19,-19.77,-10.19,10.04%,$0.2100,Quarterly,November 30
-LDP,XLDPX,Fixed Income - Taxable-Preferreds,1.96,0.74,0.48,18.74,0.41,19.83,0.35,0.07,-7.56,-8.59,-13.44,-3.39,8.58%,$0.1310,Monthly,December 31
-LEO,XLEOX,Fixed Income - Municipal-Municipal,-0.18,-0.93,-1.46,5.78,0.08,6.74,0.6,0.04,-15.43,-11.58,-17.19,-5.26,4.00%,$0.0190,Monthly,September 30
-LGI,XLGIX,Equity-Global Equity,0.51,-0.54,-1.07,14.68,0.11,17.06,0.12,0.02,-14.60,-11.35,-17.19,-5.07,7.66%,$0.0934,Monthly,December 31
-MAV,XPMAX,Fixed Income - Municipal-Municipal,0.69,0.26,-0.50,7.71,0.13,8.9,0.45,0.04,-15.12,-14.24,-17.94,-9.53,4.39%,$0.0275,Monthly,March 31
-MCI,XMCIX,Fixed Income - Taxable-High Yield,2.24,2.59,2.71,17.3,0.15,16.93,0.47,0.08,2.28,-10.88,-20.70,2.69,8.63%,$0.3700,Quarterly,December 31
-MCN,XMCNX,Equity-Covered-Call Funds,1.78,0.36,-0.68,7.21,-0.01,7.05,0.28,0.02,2.41,5.22,-1.36,16.83,9.97%,$0.1800,Quarterly,December 31
-MCR,XMCRX,Fixed Income - Taxable-High Yield,0.47,-0.04,-0.52,6.17,0.08,6.7,-0.15,-0.01,-9.10,-8.00,-10.99,-0.72,8.43%,$0.0428,Monthly,November 30
-MEGI,XMEGI,Equity-Sector Equity,1.04,0.89,1.28,12.83,0.09,14.75,0.34,0.05,-13.63,-15.44,-18.25,-11.71,11.77%,$0.1250,Monthly,May 31
-MFD,XMFDX,Equity-Sector Equity,0.72,0.45,-0.19,7.74,0.01,8.76,-0.34,-0.03,-12.97,-12.56,-18.25,-7.38,10.46%,$0.2000,Quarterly,November 30
-MFM,XMFMX,Fixed Income - Municipal-Municipal,1.40,0.63,0.53,5.165,0.09,5.82,0.52,0.03,-12.89,-13.66,-16.82,-9.46,4.14%,$0.0175,Monthly,October 31
-MFV,XMFVX,Hybrid-U.S. Allocation,0.38,0.17,-0.54,4.06,0.04,4.3,0.23,0.01,-6.53,-5.29,-9.07,2.18,10.38%,$0.0348,Monthly,October 31
-MGF,XMGFX,Fixed Income - Taxable-Investment Grade,-0.47,-0.84,-0.84,3.1,0.02,3.3,-0.3,-0.01,-6.67,-5.96,-8.46,-3.28,7.55%,$0.0194,Monthly,November 30
-MHD,XMHDX,Fixed Income - Municipal-Municipal,0.77,0.36,-0.54,11.62,0.18,13.38,0.45,0.06,-14.50,-13.56,-16.93,-8.03,5.51%,$0.0525,Monthly,July 31
-MHF,XMHFX,Fixed Income - Municipal-Municipal,-0.28,-0.51,-0.91,6.37,0.05,7.19,0.28,0.02,-11.44,-10.15,-12.35,-6.56,3.95%,$0.0220,Monthly,October 31
-MHI,XMHIX,Fixed Income - Municipal-Municipal,0.69,0.44,-0.37,8.3,0.15,9.6,0.42,0.04,-14.96,-14.34,-18.11,-10.14,4.05%,$0.0275,Monthly,April 30
-MHN,XMHNX,Fixed Income - Municipal-Municipal - NY,0.70,0.05,-0.61,10.305,0.15,11.97,0.5,0.06,-15.16,-14.26,-17.92,-10.37,5.14%,$0.0435,Monthly,July 31
-MIN,XMINX,Fixed Income - Taxable-Global Income,-1.49,-1.63,-1.10,2.69,0.05,2.87,-0.35,-0.01,-8.01,-6.48,-9.25,-2.33,9.10%,$0.0200,Monthly,October 31
-MIO,XMIOX,Fixed Income - Municipal-Municipal,0.46,-0.07,-0.48,10.34,0.14,12.07,0.5,0.06,-15.07,-14.22,-17.55,-8.44,5.00%,$0.0425,Monthly,April 30
-MIY,XMIYX,Fixed Income - Municipal-Municipal - Single-State,1.71,0.94,-0.14,11.13,0.11,12.91,0.62,0.08,-14.11,-13.82,-17.53,-8.44,5.06%,$0.0465,Monthly,July 31
-MMD,XMMDX,Fixed Income - Municipal-Municipal,-0.84,-1.46,-1.79,15.81,0.04,16.76,0.36,0.06,-5.91,-1.10,-7.36,4.75,4.57%,$0.0600,Monthly,May 31
-MMT,XMMTX,Fixed Income - Taxable-Global Income,0.74,-0.25,-0.71,4.46,0.04,4.9,-0.2,-0.01,-9.80,-8.80,-11.42,-4.32,8.47%,$0.0312,Monthly,October 31
-MMU,XMMUX,Fixed Income - Municipal-Municipal,0.88,0.46,-0.45,9.88,0.16,11.46,0.44,0.05,-14.46,-13.62,-17.32,-8.94,4.51%,$0.0415,Monthly,May 31
-MPA,XMPAX,Fixed Income - Municipal-Municipal - Single-State,-0.14,-0.67,0.12,11.44,0.17,12.89,0.39,0.05,-12.57,-12.75,-15.85,-9.12,5.11%,$0.0480,Monthly,July 31
-MPV,XMPVX,Fixed Income - Taxable-High Yield,2.69,2.69,2.21,14.47,-0.26,15.54,0.58,0.09,-6.13,-13.52,-24.75,-3.98,9.23%,$0.3400,Quarterly,December 31
-MQT,XMQTX,Fixed Income - Municipal-Municipal,0.98,0.75,-0.30,10.08,0.13,11.5,0.44,0.05,-13.48,-12.90,-16.83,-7.29,5.91%,$0.0490,Monthly,July 31
-MQY,XMQYX,Fixed Income - Municipal-Municipal,0.87,0.38,-0.35,11.62,0.21,13.04,0.46,0.06,-12.50,-11.87,-15.51,-7.50,6.10%,$0.0580,Monthly,July 31
-MSD,XMSDX,Fixed Income - Taxable-Emerging Market Income,-1.56,0.02,0.47,6.71,0.18,7.43,-0.13,-0.01,-12.11,-12.84,-16.12,-7.70,13.02%,$0.2125,Quarterly,December 31
-MUA,XMUAX,Fixed Income - Municipal-Municipal,1.69,1.27,0.15,10.28,0.08,11.17,0.18,0.02,-8.68,-9.09,-14.09,-2.30,6.53%,$0.0555,Monthly,July 31
-MUC,XMUCX,Fixed Income - Municipal-Municipal - CA,0.46,0.08,-0.55,10.77,0.14,12.53,0.48,0.06,-15.16,-14.43,-16.92,-10.49,5.48%,$0.0485,Monthly,July 31
-MUE,XMUEX,Fixed Income - Municipal-Municipal,0.62,0.23,-0.52,9.87,0.16,11.39,0.26,0.03,-14.75,-13.73,-17.70,-7.42,5.56%,$0.0450,Monthly,July 31
-MUI,XMUIX,Fixed Income - Municipal-Municipal,1.41,0.84,-0.11,11.41,0.09,13.09,0.46,0.06,-13.52,-13.37,-16.52,-9.90,5.83%,$0.0550,Monthly,July 31
-MUJ,XMUJX,Fixed Income - Municipal-Municipal - Single-State,0.48,-0.07,-0.57,11.18,0.11,13.0,0.39,0.05,-14.85,-13.67,-17.13,-4.50,5.42%,$0.0500,Monthly,July 31
-MVF,XMVFX,Fixed Income - Municipal-Municipal,0.78,0.80,-0.16,6.87,0.09,7.87,0.38,0.03,-13.85,-13.60,-17.37,-8.72,5.31%,$0.0300,Monthly,July 31
-MVT,XMVTX,Fixed Income - Municipal-Municipal,0.51,-0.06,-0.68,10.56,0.18,12.22,0.41,0.05,-15.06,-13.83,-17.57,-8.78,5.84%,$0.0505,Monthly,July 31
-MXE,XMXEX,Equity-Emerging Market Equity,1.06,0.38,-0.54,10.23,0.08,14.14,1.29,0.18,-28.22,-27.43,-29.77,-24.04,1.18%,$0.1201,Annually,July 31
-MXF,XXMXFXX,Equity-Emerging Market Equity,1.28,1.41,0.38,17.82,0.38,21.6,1.55,0.33,-18.90,-19.58,-22.93,-15.98,4.59%,$0.2000,Quarterly,October 31
-MYD,XMYDX,Fixed Income - Municipal-Municipal,1.24,0.83,-0.19,10.52,0.15,12.0,0.5,0.06,-13.58,-13.25,-17.03,-9.07,6.08%,$0.0525,Monthly,July 31
-MYI,XMYIX,Fixed Income - Municipal-Municipal,1.19,0.88,0.13,11.06,0.15,12.42,0.4,0.05,-12.16,-12.38,-16.40,-8.11,6.10%,$0.0555,Monthly,July 31
-MYN,XMYNX,Fixed Income - Municipal-Municipal - NY,0.57,-0.13,-0.67,10.07,0.23,11.6,0.52,0.06,-15.17,-14.22,-17.77,-10.68,5.39%,$0.0442,Monthly,July 31
-NAC,XNACX,Fixed Income - Municipal-Municipal - CA,1.03,0.44,-0.28,10.71,0.11,12.45,0.4,0.05,-14.86,-14.51,-17.23,-10.66,4.92%,$0.0435,Monthly,February 28
-NAD,XNADX,Fixed Income - Municipal-Municipal,0.26,-0.29,-0.85,11.07,0.13,12.88,0.39,0.05,-15.06,-13.50,-17.36,-6.70,4.83%,$0.0440,Monthly,October 31
-NAN,XNANX,Fixed Income - Municipal-Municipal - NY,0.31,-0.50,-1.05,10.52,0.14,12.29,0.41,0.05,-15.54,-13.93,-17.39,-10.27,4.97%,$0.0430,Monthly,February 28
-NAZ,XNAZX,Fixed Income - Municipal-Municipal - Single-State,0.85,-0.08,-0.79,10.67,0.2,12.36,0.41,0.05,-15.29,-12.66,-17.70,-3.91,4.01%,$0.0350,Monthly,February 28
-NBB,XNBBX,Fixed Income - Taxable-Taxable Muni,1.33,0.56,-0.53,15.28,0.09,16.47,-1.02,-0.17,-7.77,-6.49,-11.24,-0.60,5.37%,$0.0680,Monthly,March 31
-NBH,XNBHX,Fixed Income - Municipal-Municipal,0.83,-0.14,-0.75,10.06,0.16,11.67,0.34,0.04,-15.17,-12.92,-17.80,-1.86,4.57%,$0.0377,Monthly,October 31
-NBXG,XNBGX,Equity-U.S. Equity,-0.49,-0.34,0.40,10.86,0.21,13.02,0.08,0.01,-18.20,-18.84,-21.97,-14.14,11.27%,$0.1000,Monthly,October 31
-NCA,XNCAX,Fixed Income - Municipal-Municipal - CA,-1.73,-2.19,-2.28,8.35,0.03,9.21,0.22,0.02,-9.66,-6.51,-10.01,-3.22,4.18%,$0.0290,Monthly,February 28
-NCV,XNCVX,Fixed Income - Taxable-Convertibles,-0.20,-0.64,-0.80,3.18,0.04,3.64,0.0,0.0,-13.74,-10.87,-15.73,-0.75,12.99%,$0.0340,Monthly,February 28
-NCZ,XNCZX,Fixed Income - Taxable-Convertibles,0.15,-0.46,-0.68,2.84,0.05,3.24,0.0,0.0,-13.58,-12.17,-16.39,-6.27,12.90%,$0.0300,Monthly,February 28
-NDMO,XNDMX,Fixed Income - Municipal-Municipal,-2.20,-1.91,-1.47,10.11,0.3,10.65,0.57,0.06,-7.89,-3.11,-8.65,8.33,7.58%,$0.0620,Monthly,October 31
-NDP,XNDPX,Equity-Sector Equity,-2.21,-2.45,-2.08,29.21,0.26,35.45,0.82,0.29,-17.66,-14.73,-17.67,-10.36,8.70%,$0.6300,Quarterly,November 30
-NEA,XNEAX,Fixed Income - Municipal-Municipal,0.31,-0.15,-0.77,10.72,0.11,12.49,0.4,0.05,-15.05,-13.67,-17.55,-7.62,4.81%,$0.0425,Monthly,October 31
-NFJ,XNFJX,Equity-Covered-Call Funds,0.05,-0.63,-1.19,11.84,0.13,13.87,0.51,0.07,-15.14,-14.16,-17.10,-12.49,8.38%,$0.2450,Quarterly,January 31
-NHS,XNHSX,Fixed Income - Taxable-High Yield,-1.26,-0.30,-0.73,7.59,0.15,7.87,-0.13,-0.01,-5.46,-2.69,-9.31,7.04,14.60%,$0.0905,Monthly,October 31
-NIE,XNIEX,Hybrid-U.S. Allocation,-0.44,-0.60,-0.20,20.96,0.29,23.26,0.26,0.06,-10.78,-10.53,-14.09,-8.24,9.68%,$0.5000,Quarterly,January 31
-NIM,XNIMX,Fixed Income - Municipal-Municipal,-1.36,-1.83,-1.77,8.81,0.1,9.88,0.2,0.02,-11.84,-8.61,-11.90,-3.79,3.58%,$0.0260,Monthly,March 31
-NKX,XNCMX,Fixed Income - Municipal-Municipal - CA,0.11,0.00,-0.53,11.34,0.14,12.93,0.39,0.05,-13.38,-11.93,-16.47,-3.08,4.88%,$0.0455,Monthly,February 28
-NMAI,XNMAX,Hybrid-Global Allocation,0.69,0.87,0.45,11.87,0.2,13.54,0.22,0.03,-13.62,-14.18,-16.13,-11.77,10.28%,$0.3000,Quarterly,December 31
-NMCO,XNMCX,Fixed Income - Municipal-Municipal,-0.30,-0.79,-1.09,10.15,0.22,11.07,0.91,0.1,-9.48,-6.16,-14.57,0.73,5.50%,$0.0455,Monthly,October 31
-NMI,XNMIX,Fixed Income - Municipal-Municipal,-1.93,-1.85,-2.04,8.86,0.07,9.8,0.31,0.03,-10.31,-4.75,-10.31,1.94,4.30%,$0.0315,Monthly,October 31
-NML,XNMLX,Equity-MLP,0.48,0.17,0.53,7.05,0.14,8.01,1.39,0.11,-13.73,-14.67,-18.48,-9.66,10.14%,$0.0584,Monthly,November 30
-NMS,XMNSX,Fixed Income - Municipal-Municipal - Single-State,0.73,-0.22,-0.92,10.859,0.17,12.47,0.48,0.06,-14.27,-11.21,-17.24,-4.38,4.60%,$0.0410,Monthly,May 31
-NMT,XNMTX,Fixed Income - Municipal-Municipal - Single-State,0.60,-0.12,-0.69,10.38,0.13,12.12,0.33,0.04,-15.43,-14.25,-17.94,-10.14,3.63%,$0.0310,Monthly,May 31
-NMZ,XNMZX,Fixed Income - Municipal-Municipal,-1.03,-1.62,-2.11,9.94,0.29,10.69,0.85,0.09,-9.73,-5.30,-12.22,0.72,5.29%,$0.0425,Monthly,October 31
-NNY,XNNYX,Fixed Income - Municipal-Municipal - NY,-0.59,-1.17,-1.49,8.11,-0.05,8.91,0.22,0.02,-8.42,-6.29,-9.69,-2.96,4.12%,$0.0280,Monthly,February 28
-NOM,XNOMX,Fixed Income - Municipal-Municipal - Single-State,-0.43,-0.92,-1.23,9.93,0.18,11.54,0.35,0.04,-15.51,-12.60,-17.19,-7.16,3.88%,$0.0315,Monthly,May 31
-NPCT,XNPCX,Fixed Income - Taxable-Investment Grade,0.53,0.53,0.22,9.88,0.21,11.3,-0.26,-0.03,-14.42,-14.69,-17.50,-11.31,10.30%,$0.0830,Monthly,December 31
-NPFD,XNPFX,Fixed Income - Taxable-Preferreds,0.09,-0.33,-0.72,16.25,0.25,18.81,0.21,0.04,-14.94,-13.39,-17.44,-7.98,6.49%,$0.0865,Monthly,July 31
-NPV,XNPVX,Fixed Income - Municipal-Municipal - Single-State,0.79,0.07,-0.77,10.65,0.13,12.16,0.58,0.07,-13.49,-10.48,-17.11,-2.78,4.16%,$0.0365,Monthly,May 31
-NQP,XNQPX,Fixed Income - Municipal-Municipal - Single-State,0.54,-0.21,-0.62,11.15,0.11,13.15,0.54,0.07,-16.05,-15.47,-17.74,-12.88,3.53%,$0.0325,Monthly,February 28
+KSM,XKSMX,Fixed Income - Municipal-Municipal,2.85,2.77,2.13,8.49,0.21,9.7,0.41,0.04,-12.47,-14.40,-16.24,-11.79,3.67%,$0.0260,Monthly,November 30
+KTF,XKTFX,Fixed Income - Municipal-Municipal,1.32,1.04,0.05,8.62,0.13,10.09,0.4,0.04,-14.57,-14.63,-17.29,-10.69,3.48%,$0.0250,Monthly,November 30
+KYN,XKYNX,Equity-MLP,-0.97,-1.52,-1.67,8.64,0.07,10.59,0.76,0.08,-18.46,-15.20,-19.77,-10.19,9.72%,$0.2100,Quarterly,November 30
+LDP,XLDPX,Fixed Income - Taxable-Preferreds,1.96,0.74,0.48,18.74,0.41,19.89,0.3,0.06,-7.56,-8.59,-13.44,-3.39,8.39%,$0.1310,Monthly,December 31
+LEO,XLEOX,Fixed Income - Municipal-Municipal,-0.18,-0.93,-1.46,5.78,0.08,6.76,0.3,0.02,-15.43,-11.58,-17.19,-5.26,3.94%,$0.0190,Monthly,September 30
+LGI,XLGIX,Equity-Global Equity,0.16,-0.73,-1.18,14.68,0.11,17.26,1.17,0.2,-14.95,-11.37,-17.19,-5.07,7.63%,$0.0934,Monthly,December 31
+MAV,XPMAX,Fixed Income - Municipal-Municipal,0.93,0.53,-0.33,7.71,0.13,8.89,-0.11,-0.01,-14.83,-14.24,-17.94,-9.53,4.28%,$0.0275,Monthly,March 31
+MCI,XMCIX,Fixed Income - Taxable-High Yield,2.25,2.66,2.75,17.3,0.15,16.93,0.47,0.08,2.69,-10.88,-20.70,2.69,8.55%,$0.3700,Quarterly,December 31
+MCN,XMCNX,Equity-Covered-Call Funds,0.78,-0.13,-0.89,7.21,-0.01,7.1,0.71,0.05,1.55,5.20,-1.36,16.83,9.99%,$0.1800,Quarterly,December 31
+MCR,XMCRX,Fixed Income - Taxable-High Yield,1.13,0.59,-0.21,6.17,0.08,6.74,0.6,0.04,-8.46,-8.03,-10.99,-1.60,8.32%,$0.0428,Monthly,November 30
+MEGI,XMEGI,Equity-Sector Equity,0.83,0.66,1.04,12.83,0.09,14.91,1.08,0.16,-13.95,-15.44,-18.25,-11.71,11.69%,$0.1250,Monthly,May 31
+MFD,XMFDX,Equity-Sector Equity,1.36,1.08,0.35,7.74,0.01,8.83,0.8,0.07,-11.76,-12.56,-18.25,-7.38,10.34%,$0.2000,Quarterly,November 30
+MFM,XMFMX,Fixed Income - Municipal-Municipal,2.28,1.44,1.43,5.165,0.09,5.84,0.34,0.02,-11.56,-13.66,-16.82,-9.46,4.07%,$0.0175,Monthly,October 31
+MFV,XMFVX,Hybrid-U.S. Allocation,0.64,0.46,-0.41,4.06,0.04,4.33,0.7,0.03,-6.24,-5.30,-9.07,2.18,10.27%,$0.0348,Monthly,October 31
+MGF,XMGFX,Fixed Income - Taxable-Investment Grade,-0.73,-1.12,-1.12,3.1,0.02,3.33,0.91,0.03,-6.91,-5.97,-8.46,-3.28,7.50%,$0.0194,Monthly,November 30
+MHD,XMHDX,Fixed Income - Municipal-Municipal,1.90,1.64,0.13,11.62,0.18,13.41,0.22,0.03,-13.35,-13.57,-16.93,-8.03,5.42%,$0.0525,Monthly,July 31
+MHF,XMHFX,Fixed Income - Municipal-Municipal,-1.22,-1.19,-1.38,6.37,0.05,7.21,0.28,0.02,-12.10,-10.15,-12.35,-6.56,3.92%,$0.0220,Monthly,October 31
+MHI,XMHIX,Fixed Income - Municipal-Municipal,0.57,0.30,-0.45,8.3,0.15,9.6,0.0,0.0,-15.10,-14.34,-18.11,-10.14,3.98%,$0.0275,Monthly,April 30
+MHN,XMHNX,Fixed Income - Municipal-Municipal - NY,1.61,0.96,0.05,10.305,0.15,12.01,0.33,0.04,-14.20,-14.27,-17.92,-10.37,5.07%,$0.0435,Monthly,July 31
+MIN,XMINX,Fixed Income - Taxable-Global Income,-0.25,-0.72,-0.31,2.69,0.05,2.89,0.7,0.02,-6.92,-6.48,-9.25,-2.33,8.93%,$0.0200,Monthly,October 31
+MIO,XMIOX,Fixed Income - Municipal-Municipal,0.00,-0.53,-0.79,10.34,0.14,12.04,-0.25,-0.03,-14.33,-14.22,-17.55,-8.44,4.93%,$0.0425,Monthly,April 30
+MIY,XMIYX,Fixed Income - Municipal-Municipal - Single-State,1.73,0.99,-0.11,11.13,0.11,12.95,0.31,0.04,-14.05,-13.84,-17.53,-8.59,5.01%,$0.0465,Monthly,July 31
+MMD,XMMDX,Fixed Income - Municipal-Municipal,-0.82,-1.43,-1.77,15.81,0.04,16.8,0.24,0.04,-5.89,-1.12,-7.36,4.75,4.55%,$0.0600,Monthly,May 31
+MMT,XMMTX,Fixed Income - Taxable-Global Income,1.24,0.04,-0.52,4.46,0.04,4.93,0.61,0.03,-9.53,-8.80,-11.42,-4.32,8.39%,$0.0312,Monthly,October 31
+MMU,XMMUX,Fixed Income - Municipal-Municipal,0.30,-0.17,-0.83,9.88,0.16,11.5,0.35,0.04,-15.18,-13.62,-17.32,-8.94,4.43%,$0.0415,Monthly,May 31
+MPA,XMPAX,Fixed Income - Municipal-Municipal - Single-State,1.10,0.28,0.76,11.44,0.17,12.94,0.39,0.05,-11.59,-12.75,-15.85,-9.12,5.03%,$0.0480,Monthly,July 31
+MPV,XMPVX,Fixed Income - Taxable-High Yield,3.33,3.52,2.80,14.47,-0.26,15.54,0.58,0.09,-3.98,-13.52,-24.75,-3.98,9.40%,$0.3400,Quarterly,December 31
+MQT,XMQTX,Fixed Income - Municipal-Municipal,1.73,1.67,0.18,10.08,0.13,11.53,0.26,0.03,-12.58,-12.92,-16.83,-7.29,5.83%,$0.0490,Monthly,July 31
+MQY,XMQYX,Fixed Income - Municipal-Municipal,1.85,1.42,0.44,11.62,0.21,13.07,0.23,0.03,-11.09,-11.88,-15.51,-7.50,5.99%,$0.0580,Monthly,July 31
+MSD,XMSDX,Fixed Income - Taxable-Emerging Market Income,0.67,1.21,1.77,6.71,0.18,7.46,0.4,0.03,-10.05,-12.83,-16.12,-7.70,12.67%,$0.2125,Quarterly,December 31
+MUA,XMUAX,Fixed Income - Municipal-Municipal,1.79,1.44,0.27,10.28,0.08,11.22,0.45,0.05,-8.38,-9.09,-14.09,-2.30,6.48%,$0.0555,Monthly,July 31
+MUC,XMUCX,Fixed Income - Municipal-Municipal - CA,1.51,1.28,0.19,10.77,0.14,12.55,0.16,0.02,-14.18,-14.44,-16.92,-10.49,5.40%,$0.0485,Monthly,July 31
+MUE,XMUEX,Fixed Income - Municipal-Municipal,1.41,1.17,0.06,9.87,0.16,11.43,0.35,0.04,-13.65,-13.75,-17.70,-7.42,5.47%,$0.0450,Monthly,July 31
+MUI,XMUIX,Fixed Income - Municipal-Municipal,1.82,1.32,0.25,11.41,0.09,13.12,0.23,0.03,-13.03,-13.38,-16.52,-9.90,5.78%,$0.0550,Monthly,July 31
+MUJ,XMUJX,Fixed Income - Municipal-Municipal - Single-State,1.16,0.66,-0.25,11.18,0.11,13.03,0.23,0.03,-14.20,-13.70,-17.13,-4.50,5.37%,$0.0500,Monthly,July 31
+MVF,XMVFX,Fixed Income - Municipal-Municipal,1.35,1.57,0.36,6.87,0.09,7.9,0.38,0.03,-13.04,-13.61,-17.37,-8.72,5.24%,$0.0300,Monthly,July 31
+MVT,XMVTX,Fixed Income - Municipal-Municipal,1.51,1.01,-0.01,10.56,0.18,12.26,0.33,0.04,-13.87,-13.85,-17.57,-9.72,5.74%,$0.0505,Monthly,July 31
+MXE,XMXEX,Equity-Emerging Market Equity,0.79,0.18,-0.63,10.23,0.08,14.28,0.99,0.14,-28.36,-27.44,-29.77,-24.04,1.17%,$0.1201,Annually,July 31
+MXF,XXMXFXX,Equity-Emerging Market Equity,0.66,1.07,0.18,17.82,0.38,21.79,0.88,0.19,-19.26,-19.58,-22.93,-15.98,4.49%,$0.2000,Quarterly,October 31
+MYD,XMYDX,Fixed Income - Municipal-Municipal,2.00,1.71,0.40,10.52,0.15,12.03,0.25,0.03,-12.55,-13.26,-17.03,-9.07,5.99%,$0.0525,Monthly,July 31
+MYI,XMYIX,Fixed Income - Municipal-Municipal,1.71,1.53,0.72,11.06,0.15,12.45,0.24,0.03,-11.16,-12.38,-16.40,-8.11,6.02%,$0.0555,Monthly,July 31
+MYN,XMYNX,Fixed Income - Municipal-Municipal - NY,1.98,1.20,0.52,10.07,0.23,11.64,0.34,0.04,-13.49,-14.22,-17.77,-10.68,5.27%,$0.0442,Monthly,July 31
+NAC,XNACX,Fixed Income - Municipal-Municipal - CA,1.51,0.95,0.10,10.71,0.11,12.51,0.48,0.06,-14.39,-14.51,-17.23,-10.66,4.87%,$0.0435,Monthly,February 28
+NAD,XNADX,Fixed Income - Municipal-Municipal,0.94,0.44,-0.48,11.07,0.13,12.93,0.39,0.05,-14.39,-13.52,-17.36,-6.70,4.77%,$0.0440,Monthly,October 31
+NAN,XNANX,Fixed Income - Municipal-Municipal - NY,1.06,0.15,-0.62,10.52,0.14,12.36,0.57,0.07,-14.89,-13.95,-17.39,-10.27,4.90%,$0.0430,Monthly,February 28
+NAZ,XNAZX,Fixed Income - Municipal-Municipal - Single-State,2.25,1.14,-0.41,10.67,0.2,12.41,0.4,0.05,-14.02,-12.69,-17.70,-4.14,3.94%,$0.0350,Monthly,February 28
+NBB,XNBBX,Fixed Income - Taxable-Taxable Muni,0.37,-0.32,-0.93,15.28,0.09,16.75,1.7,0.28,-8.78,-6.52,-11.24,-0.77,5.34%,$0.0680,Monthly,March 31
+NBH,XNBHX,Fixed Income - Municipal-Municipal,2.03,0.80,-0.38,10.06,0.16,11.71,0.34,0.04,-14.09,-12.95,-17.80,-1.86,4.50%,$0.0377,Monthly,October 31
+NBXG,XNBGX,Equity-U.S. Equity,0.22,0.36,1.00,10.86,0.21,13.12,0.77,0.1,-17.23,-18.83,-21.97,-14.14,11.05%,$0.1000,Monthly,October 31
+NCA,XNCAX,Fixed Income - Municipal-Municipal - CA,-1.66,-2.11,-2.24,8.35,0.03,9.24,0.33,0.03,-9.63,-6.52,-10.01,-3.22,4.17%,$0.0290,Monthly,February 28
+NCV,XNCVX,Fixed Income - Taxable-Convertibles,-0.27,-0.78,-0.84,3.18,0.04,3.69,1.37,0.05,-13.74,-10.87,-15.73,-0.75,12.83%,$0.0340,Monthly,February 28
+NCZ,XNCZX,Fixed Income - Taxable-Convertibles,-0.04,-0.70,-0.83,2.84,0.05,3.28,1.23,0.04,-13.89,-12.17,-16.39,-6.27,12.68%,$0.0300,Monthly,February 28
+NDMO,XNDMX,Fixed Income - Municipal-Municipal,-0.78,-0.80,-0.74,10.11,0.3,10.7,0.47,0.05,-5.51,-3.12,-8.65,8.33,7.36%,$0.0620,Monthly,October 31
+NDP,XNDPX,Equity-Sector Equity,-2.55,-2.88,-2.55,29.21,0.26,35.53,0.23,0.08,-17.60,-14.74,-18.34,-10.36,8.63%,$0.6300,Quarterly,November 30
+NEA,XNEAX,Fixed Income - Municipal-Municipal,0.68,0.27,-0.50,10.72,0.11,12.55,0.48,0.06,-14.58,-13.70,-17.55,-7.62,4.76%,$0.0425,Monthly,October 31
+NFJ,XNFJX,Equity-Covered-Call Funds,-0.34,-1.01,-1.58,11.84,0.13,14.1,1.66,0.23,-15.57,-14.17,-17.10,-12.49,8.28%,$0.2450,Quarterly,January 31
+NHS,XNHSX,Fixed Income - Taxable-High Yield,-0.18,0.35,-0.39,7.59,0.15,7.92,0.64,0.05,-4.17,-2.72,-9.31,7.04,14.31%,$0.0905,Monthly,October 31
+NIE,XNIEX,Hybrid-U.S. Allocation,-0.76,-1.00,-0.51,20.96,0.29,23.4,0.6,0.14,-11.13,-10.53,-14.09,-8.24,9.54%,$0.5000,Quarterly,January 31
+NIM,XNIMX,Fixed Income - Municipal-Municipal,-0.45,-1.01,-1.31,8.81,0.1,9.9,0.2,0.02,-11.01,-8.62,-11.90,-3.79,3.54%,$0.0260,Monthly,March 31
+NKX,XNCMX,Fixed Income - Municipal-Municipal - CA,0.45,0.42,-0.25,11.34,0.14,12.98,0.39,0.05,-12.63,-11.95,-16.47,-3.08,4.81%,$0.0455,Monthly,February 28
+NMAI,XNMAX,Hybrid-Global Allocation,0.62,0.78,0.40,11.87,0.2,13.66,0.89,0.12,-12.33,-14.18,-16.13,-11.77,10.11%,$0.3000,Quarterly,December 31
+NMCO,XNMCX,Fixed Income - Municipal-Municipal,0.07,-0.45,-0.70,10.15,0.22,11.11,0.36,0.04,-8.31,-6.19,-14.57,0.73,5.38%,$0.0455,Monthly,October 31
+NMI,XNMIX,Fixed Income - Municipal-Municipal,-1.57,-1.68,-1.86,8.86,0.07,9.83,0.31,0.03,-9.87,-4.76,-10.31,1.94,4.27%,$0.0315,Monthly,October 31
+NML,XNMLX,Equity-MLP,1.28,0.91,1.07,7.05,0.14,8.08,0.87,0.07,-12.75,-14.65,-18.48,-9.66,9.94%,$0.0584,Monthly,November 30
+NMS,XMNSX,Fixed Income - Municipal-Municipal - Single-State,1.51,0.38,-0.63,10.859,0.17,12.53,0.48,0.06,-13.34,-11.23,-17.24,-4.38,4.53%,$0.0410,Monthly,May 31
+NMT,XNMTX,Fixed Income - Municipal-Municipal - Single-State,1.48,0.71,-0.22,10.38,0.13,12.16,0.33,0.04,-14.64,-14.26,-17.94,-10.14,3.58%,$0.0310,Monthly,May 31
+NMZ,XNMZX,Fixed Income - Municipal-Municipal,0.15,-0.68,-1.02,9.94,0.29,10.74,0.47,0.05,-7.45,-5.33,-12.22,0.72,5.13%,$0.0425,Monthly,October 31
+NNY,XNNYX,Fixed Income - Municipal-Municipal - NY,-1.57,-1.83,-2.08,8.11,-0.05,8.94,0.34,0.03,-9.28,-6.30,-9.69,-2.96,4.14%,$0.0280,Monthly,February 28
+NOM,XNOMX,Fixed Income - Municipal-Municipal - Single-State,0.62,0.05,-0.72,9.93,0.18,11.59,0.43,0.05,-14.32,-12.62,-17.19,-8.02,3.81%,$0.0315,Monthly,May 31
+NPCT,XNPCX,Fixed Income - Taxable-Investment Grade,0.53,0.53,0.22,9.88,0.21,11.42,1.06,0.12,-12.57,-14.69,-17.50,-11.31,10.08%,$0.0830,Monthly,December 31
+NPFD,XNPFX,Fixed Income - Taxable-Preferreds,0.86,0.41,-0.29,16.25,0.25,18.9,0.48,0.09,-14.02,-13.41,-17.44,-7.98,6.39%,$0.0865,Monthly,July 31
+NPV,XNPVX,Fixed Income - Municipal-Municipal - Single-State,1.22,0.51,-0.59,10.65,0.13,12.21,0.41,0.05,-12.78,-10.52,-17.11,-2.78,4.11%,$0.0365,Monthly,May 31
+NQP,XNQPX,Fixed Income - Municipal-Municipal - Single-State,1.26,0.40,-0.06,11.15,0.11,13.2,0.38,0.05,-15.53,-15.47,-17.74,-12.88,3.50%,$0.0325,Monthly,February 28
 NRGX,XNRGX,Hybrid-Global Allocation,1.65,1.94,2.38,20.26,0.2,22.66,1.39,0.31,-11.47,-15.66,-20.03,-10.68,4.34%,$0.2200,Quarterly,June 30
-NRK,XNRKX,Fixed Income - Municipal-Municipal - NY,-0.58,-0.67,-0.98,10.17,0.1,11.81,0.43,0.05,-14.73,-13.68,-16.43,-9.55,4.89%,$0.0410,Monthly,February 28
-NRO,XNROX,Equity-Real Estate,-0.57,-0.82,-0.90,3.04,0.1,3.37,1.81,0.06,-12.76,-9.88,-14.56,-2.17,12.87%,$0.0312,Monthly,October 31
-NTG,XNTGX,Equity-MLP,-1.51,-1.95,-1.13,34.84,0.62,42.62,1.74,0.73,-18.31,-16.78,-19.76,-13.32,9.00%,$0.7700,Quarterly,November 30
-NUV,XNUVX,Fixed Income - Municipal-Municipal,-0.97,-1.37,-1.60,8.5,0.04,9.25,0.22,0.02,-8.54,-6.20,-9.54,-2.72,4.11%,$0.0290,Monthly,October 31
-NUW,XNUWX,Fixed Income - Municipal-Municipal,-1.19,-1.63,-2.03,13.46,0.15,15.09,0.27,0.04,-11.80,-8.99,-11.96,-5.25,3.83%,$0.0425,Monthly,October 31
-NVG,XNVGX,Fixed Income - Municipal-Municipal,0.20,-0.40,-0.82,11.46,0.17,13.31,0.6,0.08,-15.18,-13.41,-17.70,-6.06,5.37%,$0.0505,Monthly,October 31
-NXC,XNXCX,Fixed Income - Municipal-Municipal - CA,-2.35,-2.61,-1.86,12.41,0.09,13.75,0.29,0.04,-10.40,-3.63,-10.40,7.89,4.24%,$0.0435,Monthly,February 28
-NXJ,XNXJX,Fixed Income - Municipal-Municipal - Single-State,1.31,1.35,0.70,11.56,0.05,13.5,0.37,0.05,-14.74,-15.42,-17.23,-13.00,3.60%,$0.0345,Monthly,February 28
-NXN,XNXNX,Fixed Income - Municipal-Municipal - NY,-1.70,-2.12,-2.05,11.36,-0.01,12.54,0.24,0.03,-9.33,-5.71,-10.14,-1.67,4.33%,$0.0410,Monthly,February 28
-NXP,XNXPX,Fixed Income - Municipal-Municipal,-0.42,-1.06,-0.61,14.15,0.04,14.41,0.21,0.03,-2.08,-1.01,-6.30,2.17,4.12%,$0.0485,Monthly,March 31
-NZF,XNZFX,Fixed Income - Municipal-Municipal,0.65,0.22,-0.47,11.64,0.19,13.4,0.45,0.06,-14.55,-13.62,-17.61,-7.32,5.40%,$0.0515,Monthly,October 31
-OCCI,OCCI,Fixed Income - Taxable-Senior Loans,0.03,-0.81,-0.99,6.54,-0.06,6.54,-0.91,-0.06,-12.58,-4.59,-23.97,17.10,33.33%,$0.5500,Quarterly,October 31
-OIA,XOIAX,Fixed Income - Municipal-Municipal,0.05,0.07,-0.34,6.2,0.09,6.17,0.65,0.04,-0.97,0.33,-11.15,9.89,5.21%,$0.0265,Monthly,February 28
-OPP,XOPPX,Fixed Income - Taxable-High Yield,0.24,-0.28,-0.33,8.1699,0.12,9.25,-0.32,-0.03,-13.25,-12.31,-17.59,-3.87,15.22%,$0.1021,Monthly,June 30
-OXLC,OXLCX,Fixed Income - Taxable-Senior Loans,0.04,-0.74,-0.92,4.94,0.06,4.81,0.42,0.02,5.40,12.44,-5.71,33.10,19.67%,$0.0800,Monthly,March 31
-PAI,XPAIX,Fixed Income - Taxable-Investment Grade,1.17,0.80,-0.10,11.82,0.25,12.58,-0.32,-0.04,-7.29,-7.19,-10.50,-2.42,4.93%,$0.0485,Monthly,December 31
-PAXS,XPAAX,Fixed Income - Taxable-Multi-Sector,1.35,1.04,1.24,14.45,0.06,14.4,0.14,0.02,-0.07,-3.38,-9.89,1.88,12.46%,$0.1494,Monthly,June 30
-PCF,XPCFX,Fixed Income - Taxable-Convertibles,0.37,0.14,-0.35,6.39,0.05,7.32,0.41,0.03,-13.39,-12.42,-17.93,-5.45,11.43%,$0.0604,Monthly,August 31
-PCK,XPCKX,Fixed Income - Municipal-Municipal - CA,-1.04,-1.61,-1.30,5.67,0.12,6.51,0.46,0.03,-14.75,-8.51,-16.47,6.66,4.65%,$0.0215,Monthly,December 31
-PCM,XPCMX,Fixed Income - Taxable-Limited Duration,-0.93,-1.58,-1.13,7.85,0.13,6.39,0.47,0.03,21.38,32.25,11.38,50.82,12.44%,$0.0800,Monthly,June 30
-PCN,XPCNX,Fixed Income - Taxable-Investment Grade,-0.43,-0.95,-0.84,12.4,0.15,11.2,0.81,0.09,10.06,15.30,1.32,29.00,11.02%,$0.1125,Monthly,June 30
-PCQ,XPCQX,Fixed Income - Municipal-Municipal - CA,-0.86,-1.37,-0.68,9.35,0.18,10.23,0.49,0.05,-10.36,0.76,-11.97,58.06,4.71%,$0.0360,Monthly,December 31
-PDI,XPDIX,Fixed Income - Taxable-Multi-Sector,0.83,0.04,-0.11,17.96,0.16,16.82,0.78,0.13,6.65,6.70,-4.08,14.91,14.87%,$0.2205,Monthly,June 30
-PDO,XPDOX,Fixed Income - Taxable-Global Income,0.66,0.12,0.30,12.33,0.19,11.99,0.08,0.01,1.25,0.32,-8.33,6.39,12.64%,$0.1279,Monthly,June 30
-PDT,XPDTX,Fixed Income - Taxable-Preferreds,2.01,0.50,-0.43,11.08,0.22,11.5,0.61,0.07,-5.57,-3.10,-13.92,6.13,9.12%,$0.0825,Monthly,October 31
-PEO,XPEOX,Equity-Sector Equity,-1.35,-1.36,-0.72,20.51,0.0,24.66,0.78,0.19,-16.83,-15.93,-18.62,-13.01,20.48%,$1.0500,Quarterly,December 31
-PFD,XPFDX,Fixed Income - Taxable-Preferreds,0.99,0.11,-0.78,9.94,0.13,10.96,0.27,0.03,-10.49,-6.07,-17.20,5.01,6.73%,$0.0550,Monthly,November 30
-PFL,XPFLX,Fixed Income - Taxable-Multi-Sector,0.62,0.01,-0.01,8.18,0.13,7.83,0.9,0.07,3.47,3.50,-4.88,8.31,12.13%,$0.0814,Monthly,June 30
-PFN,XPFNX,Fixed Income - Taxable-Multi-Sector,0.70,-0.23,-0.53,7.07,0.18,6.88,0.88,0.06,0.88,2.46,-7.24,8.47,12.60%,$0.0718,Monthly,June 30
-PFO,XPFOX,Fixed Income - Taxable-Preferreds,1.05,-0.25,-0.92,7.8594,0.14,8.94,0.34,0.03,-13.65,-9.88,-17.38,-1.27,6.99%,$0.0450,Monthly,November 30
-PGP,XPGPX,Hybrid-Global Allocation,-0.02,-0.38,-0.64,7.02,0.09,6.98,0.43,0.03,-0.29,1.48,-5.76,11.04,11.95%,$0.0690,Monthly,June 30
-PGZ,XPGZX,Equity-Real Estate,1.03,1.45,1.37,9.45,0.13,10.37,0.19,0.02,-10.13,-13.30,-17.68,-6.93,13.52%,$0.1050,Monthly,October 31
-PHD,XPHDX,Fixed Income - Taxable-Senior Loans,0.65,0.92,0.52,9.06,0.07,10.09,0.2,0.02,-11.02,-11.91,-15.72,-7.60,12.39%,$0.0925,Monthly,November 30
-PHK,XPHKX,Fixed Income - Taxable-Multi-Sector,0.44,-0.39,-0.40,4.79,0.12,4.5,0.9,0.04,4.47,6.08,-2.35,14.51,12.33%,$0.0480,Monthly,June 30
-PHT,XPHTX,Fixed Income - Taxable-High Yield,1.10,1.74,1.73,7.22,0.16,7.74,0.0,0.0,-8.79,-11.29,-14.80,-6.97,9.35%,$0.0550,Monthly,March 31
-PIM,XPIMX,Fixed Income - Taxable-Investment Grade,0.37,-0.47,-0.06,3.09,0.0,3.38,0.0,0.0,-8.58,-8.49,-11.14,-5.35,8.54%,$0.0220,Monthly,September 30
-PMF,XPMFX,Fixed Income - Municipal-Municipal,0.04,-0.77,-1.08,9.27,0.11,9.32,0.65,0.06,-1.72,2.36,-5.98,13.26,5.50%,$0.0420,Monthly,December 31
-PML,XPMLX,Fixed Income - Municipal-Municipal,-0.88,-1.46,-2.13,8.18,0.09,8.66,0.58,0.05,-6.58,0.60,-8.51,6.69,5.86%,$0.0395,Monthly,December 31
-PMM,XPMMX,Fixed Income - Municipal-Municipal,-0.59,-1.06,-0.96,5.85,0.13,6.43,0.78,0.05,-11.04,-5.52,-13.26,12.66,4.99%,$0.0238,Monthly,October 31
-PMO,XPMOX,Fixed Income - Municipal-Municipal,-0.20,-0.61,-0.83,10.01,0.14,11.02,0.55,0.06,-10.44,-5.58,-14.20,8.72,4.26%,$0.0350,Monthly,April 30
-PMX,XPMQX,Fixed Income - Municipal-Municipal,0.65,-0.37,-0.85,7.51,0.15,7.96,0.51,0.04,-7.54,-2.85,-12.28,17.07,5.38%,$0.0330,Monthly,December 31
-PNF,XPNFX,Fixed Income - Municipal-Municipal - NY,-0.04,-0.84,-1.33,7.79,0.13,8.63,0.58,0.05,-11.24,-3.36,-16.34,9.66,5.25%,$0.0335,Monthly,December 31
-PNI,XPNIX,Fixed Income - Municipal-Municipal - NY,1.14,0.11,-0.59,7.39,0.14,8.3,0.61,0.05,-12.65,-10.72,-17.06,-0.35,4.88%,$0.0295,Monthly,December 31
-PPT,XPPTX,Fixed Income - Taxable-Global Income,-0.24,-0.83,-0.73,3.48,0.04,3.76,0.0,0.0,-8.51,-7.27,-10.33,-1.90,9.07%,$0.0260,Monthly,July 31
-PSF,XPSFX,Fixed Income - Taxable-Preferreds,2.13,2.75,2.73,20.15,0.31,19.57,0.41,0.08,1.38,-5.59,-12.01,1.44,7.62%,$0.1260,Monthly,December 31
-PTA,XPTAX,Fixed Income - Taxable-Preferreds,2.25,2.19,2.08,18.6,0.23,19.33,0.42,0.08,-4.97,-8.68,-12.96,-4.97,8.75%,$0.1340,Monthly,October 31
-PTY,XPTYX,Fixed Income - Taxable-Investment Grade,0.35,-0.04,0.72,13.96,0.16,10.89,0.74,0.08,27.42,22.56,9.28,37.06,10.33%,$0.1188,Monthly,June 30
-PYN,XPYNX,Fixed Income - Municipal-Municipal - NY,-0.02,-0.85,-0.99,5.838,0.09,6.59,0.61,0.04,-12.75,-7.20,-15.83,23.11,5.18%,$0.0248,Monthly,December 31
-PZC,XPZCX,Fixed Income - Municipal-Municipal - CA,-1.74,-2.01,-2.06,7.15,0.11,7.59,0.4,0.03,-7.25,0.20,-7.25,9.53,5.03%,$0.0295,Monthly,December 31
-QQQX,XQQQX,Equity-Covered-Call Funds,0.64,-0.56,-1.22,22.99,0.23,24.18,-0.04,-0.01,-5.91,1.58,-9.84,10.16,7.38%,$0.4200,Quarterly,December 31
-RA,XRAIX,Fixed Income - Taxable-High Yield,1.86,-0.83,-1.48,12.69,-0.08,14.58,-0.07,-0.01,-12.41,4.59,-17.10,16.61,11.09%,$0.1180,Monthly,December 31
-RCG,XXRENNX,Hybrid-U.S. Allocation,0.39,0.70,-0.01,1.7,-0.04,1.99,0.0,0.0,-15.08,-15.08,-25.11,-3.30,N/A,$0.0035,Data Not Available,December 31
-RCS,XRCSX,Fixed Income - Taxable-Investment Grade,1.17,1.38,1.75,5.68,0.03,4.25,0.24,0.01,33.25,24.37,12.79,34.69,10.83%,$0.0510,Monthly,June 30
-RFI,XRFIX,Equity-Real Estate,0.35,0.36,-0.58,11.695,0.46,11.3,0.89,0.1,-0.62,1.67,-5.98,12.46,8.55%,$0.0800,Monthly,December 31
-RFM,XRFMX,Fixed Income - Municipal-Municipal,-0.79,-1.22,-1.12,15.05,0.24,16.72,0.48,0.08,-11.42,-9.08,-14.27,-3.93,7.98%,$0.0985,Monthly,June 30
-RFMZ,XRFZX,Fixed Income - Municipal-Municipal,-0.34,-1.01,-1.10,13.4,0.33,15.24,0.59,0.09,-13.73,-10.78,-17.63,-5.60,7.94%,$0.0865,Monthly,June 30
-RGT,XRGTX,Equity-Global Equity,2.77,1.22,0.34,9.24,0.03,10.93,-0.46,-0.05,-15.74,-16.29,-19.44,-12.13,1.41%,$0.1300,Annually,December 31
-RIV,XRIVX,Hybrid-U.S. Allocation,-1.17,-1.80,-1.63,10.72,0.15,12.05,0.0,0.0,-12.28,-7.17,-13.43,4.40,14.51%,$0.1278,Monthly,July 31
-RLTY,XRLTX,Equity-Real Estate,-0.99,-0.91,-0.83,13.76,0.56,15.26,1.19,0.18,-13.50,-12.07,-15.45,-7.96,10.00%,$0.1100,Monthly,December 31
-RMI,XRMIX,Fixed Income - Municipal-Municipal,-0.34,-0.87,-1.30,15.41,0.15,16.9,0.42,0.07,-9.36,-4.72,-13.39,4.34,7.66%,$0.0974,Monthly,June 30
-RMM,XRMMX,Fixed Income - Municipal-Municipal,-0.90,-1.43,-1.74,14.56,0.27,16.01,0.5,0.08,-10.74,-6.27,-13.15,-0.50,7.65%,$0.0911,Monthly,June 30
-RMMZ,XRMZX,Fixed Income - Municipal-Municipal,-1.09,-1.60,-1.26,14.82,0.13,17.01,0.59,0.1,-13.13,-9.82,-14.88,-4.76,7.93%,$0.0971,Monthly,June 30
-RMT,XOTCX,Equity-U.S. Equity,2.56,1.42,0.21,8.65,0.12,9.64,-0.21,-0.02,-11.51,-11.77,-13.65,-8.81,7.97%,$0.1700,Quarterly,December 31
-RNP,XRNPX,Equity-Real Estate,0.56,0.05,-0.63,19.23,0.68,19.55,0.93,0.18,-5.12,-2.50,-9.76,9.98,8.80%,$0.1360,Monthly,December 31
-RQI,XRQIX,Equity-Real Estate,0.85,0.46,-0.34,11.74,0.44,12.09,1.34,0.16,-6.53,-5.77,-10.21,0.16,8.50%,$0.0800,Monthly,December 31
-RSF,XRSFX,Fixed Income - Taxable-High Yield,1.40,1.14,0.20,15.63,0.08,16.59,0.12,0.02,-6.13,-6.57,-9.64,2.34,10.99%,$0.1424,Monthly,June 30
-RVT,XRVTX,Equity-U.S. Equity,2.38,1.89,0.06,13.73,0.33,15.11,0.33,0.05,-11.32,-11.46,-14.46,-4.25,7.76%,$0.2600,Quarterly,December 31
-SBI,XSBIX,Fixed Income - Municipal-Municipal,1.08,0.71,-0.02,7.6,0.12,8.85,0.23,0.02,-14.38,-14.37,-16.24,-10.63,3.77%,$0.0310,Monthly,December 31
-SCD,XSCDX,Hybrid-Global Allocation,1.21,1.51,1.89,13.23,0.07,14.9,0.88,0.13,-11.31,-13.63,-15.91,-10.03,10.35%,$0.1130,Monthly,November 30
-SDHY,XSDHX,Fixed Income - Taxable-High Yield,-0.44,-0.91,-1.02,14.91,0.19,17.08,-0.06,-0.01,-13.87,-12.10,-15.05,-7.55,8.80%,$0.1080,Monthly,December 31
-SOR,XSORX,Hybrid-U.S. Allocation,1.39,1.70,1.07,40.3834,0.3,43.27,0.12,0.05,-7.37,-8.95,-12.86,-4.00,6.24%,$0.2083,Monthly,December 31
-SPE,XSPEX,Equity-U.S. Equity,0.07,-0.32,-0.73,11.41,0.16,13.76,0.73,0.1,-17.28,-15.96,-19.97,-10.01,9.25%,$0.0867,Monthly,December 31
-SPXX,XSSPX,Equity-Covered-Call Funds,-0.88,-1.48,-1.25,14.78,0.07,16.11,0.31,0.05,-8.69,-1.64,-9.53,16.12,7.99%,$0.2940,Quarterly,December 31
-SRV,XSRVX,Equity-MLP,-1.85,-2.38,-0.72,36.8,1.76,38.81,1.81,0.69,-9.71,-4.15,-17.14,11.93,15.41%,$0.4500,Monthly,November 30
-STEW,XSTEX,Equity-U.S. Equity,-1.11,-1.72,-1.36,13.57,0.15,16.83,0.66,0.11,-20.26,-18.66,-20.89,-15.45,4.10%,$0.1375,Quarterly,November 30
-STK,XSTKX,Equity-Covered-Call Funds,1.89,1.57,2.17,31.29,0.15,27.48,-0.07,-0.02,13.32,6.62,0.56,13.38,5.94%,$0.4625,Quarterly,December 31
-SWZ,XSWZX,Equity-Single-Country Equity,-1.34,-1.63,-1.42,7.85,0.11,9.33,1.08,0.1,-17.10,-15.39,-17.85,-12.11,6.35%,$0.1229,Quarterly,December 31
-TBLD,XTBLX,Hybrid-Global Allocation,1.18,0.93,-0.01,15.27,0.04,17.51,0.11,0.02,-13.02,-13.01,-16.14,-9.88,8.21%,$0.1042,Monthly,September 30
-TDF,XTDFX,Equity-Asia Equity,1.95,2.16,1.86,8.58,-0.06,9.74,0.31,0.03,-11.29,-14.42,-18.72,-10.54,30.13%,$1.3014,Semi-Annually,December 31
-TEAF,XTEAX,Equity-Sector Equity,-0.27,-0.59,-1.05,11.96,-0.05,14.84,-2.62,-0.4,-21.17,-19.26,-23.92,-15.61,8.99%,$0.0900,Monthly,November 30
-TEI,XTEIX,Fixed Income - Taxable-Emerging Market Income,1.02,0.25,-0.39,5.03,0.05,5.64,-0.7,-0.04,-11.70,-10.45,-17.23,-1.19,10.60%,$0.0440,Monthly,December 31
-THQ,XTHQX,Equity-Sector Equity,0.17,-0.77,-1.40,17.42,0.25,20.34,1.8,0.36,-15.59,-12.16,-19.22,-8.88,7.86%,$0.1125,Monthly,September 30
-THW,XTHWX,Equity-Sector Equity,-0.28,-1.05,-1.73,11.45,0.21,11.54,1.05,0.12,-2.60,7.88,-9.56,16.46,12.46%,$0.1167,Monthly,September 30
-TPZ,XTPZX,Hybrid-U.S. Allocation,-1.71,-1.49,-1.21,13.73,0.16,16.25,0.93,0.15,-15.71,-14.93,-17.49,-11.21,9.29%,$0.1050,Monthly,November 30
-TSI,XXCVTXX,Fixed Income - Taxable-Multi-Sector,-1.15,-1.35,-0.81,4.7,0.02,5.1,0.0,0.0,-8.24,-6.46,-8.85,-0.60,5.13%,$0.0600,Quarterly,December 31
-TTP,XTTPX,Equity-MLP,-1.87,-2.22,-2.27,28.47,0.45,34.6,1.73,0.59,-17.61,-16.14,-19.51,-12.12,8.42%,$0.5900,Quarterly,November 30
-TWN,XXTWNXX,Equity-Asia Equity,1.39,-0.04,-0.50,33.28,0.36,41.52,0.0,0.0,-20.28,-19.16,-31.90,-13.97,1.45%,$0.4780,Annually,August 31
-TY,XTYCX,Hybrid-U.S. Allocation,1.46,1.60,0.63,28.06,0.23,31.41,0.38,0.12,-11.40,-11.82,-13.46,-10.26,3.97%,$0.2765,Quarterly,December 31
-TYG,XTYGX,Equity-MLP,-2.14,-1.64,-1.30,28.5,0.39,35.33,1.17,0.41,-19.50,-17.70,-20.81,-10.88,10.18%,$0.7100,Quarterly,November 30
-USA,XUSAX,Equity-U.S. Equity,-0.98,-1.30,-1.75,6.18,0.01,6.4,0.79,0.05,-3.59,-0.39,-5.70,5.26,9.72%,$0.1500,Quarterly,December 31
-UTF,XUTFX,Equity-Sector Equity,0.60,0.08,-0.23,22.38,0.93,21.99,0.96,0.21,-2.46,-1.90,-7.11,4.14,8.81%,$0.1550,Monthly,December 31
-UTG,XUTGX,Equity-Sector Equity,0.25,-0.09,-0.02,26.77,0.35,26.34,0.88,0.23,0.30,0.32,-3.00,2.85,8.65%,$0.1900,Monthly,October 31
-VBF,XVBFX,Fixed Income - Taxable-Investment Grade,0.95,1.47,0.19,15.46,0.25,15.83,-0.31,-0.05,-3.92,-4.37,-8.32,0.81,5.36%,$0.0679,Monthly,February 28
-VCV,XVCVX,Fixed Income - Municipal-Municipal - CA,0.31,-0.60,-1.10,9.49,0.12,11.06,0.45,0.05,-15.28,-13.20,-17.07,-8.59,4.10%,$0.0320,Monthly,February 28
-VFL,XVFLX,Fixed Income - Municipal-Municipal,-0.47,-1.02,-1.24,9.71,0.2,11.46,0.7,0.08,-17.02,-12.99,-18.65,-2.41,4.10%,$0.0325,Monthly,March 31
-VGI,XVGIX,Fixed Income - Taxable-Multi-Sector,-0.18,-0.43,-0.65,7.44,0.09,8.45,-0.12,-0.01,-13.12,-12.13,-16.69,-7.83,13.06%,$0.0800,Monthly,November 30
-VGM,XVGMX,Fixed Income - Municipal-Municipal,0.58,-0.04,-0.75,9.62,0.16,11.04,0.55,0.06,-14.31,-12.84,-17.07,-7.80,4.34%,$0.0342,Monthly,February 28
-VKI,XVKIX,Fixed Income - Municipal-Municipal,0.14,-0.68,-1.15,8.28,0.13,9.56,0.53,0.05,-14.75,-12.40,-16.89,-8.33,4.55%,$0.0309,Monthly,February 28
-VKQ,XVKQX,Fixed Income - Municipal-Municipal,0.60,-0.18,-0.81,9.33,0.11,10.74,0.56,0.06,-14.15,-12.50,-17.27,-6.60,4.50%,$0.0346,Monthly,February 28
-VLT,XVLTX,Fixed Income - Taxable-High Yield,0.26,-0.55,-0.62,10.16,0.1,11.24,-0.09,-0.01,-10.50,-9.45,-13.35,-4.63,11.50%,$0.0964,Monthly,February 28
-VMO,XVMOX,Fixed Income - Municipal-Municipal,0.70,-0.22,-0.84,9.31,0.15,10.69,0.56,0.06,-14.31,-12.63,-17.05,-6.16,4.45%,$0.0340,Monthly,February 28
-VPV,XVPVX,Fixed Income - Municipal-Municipal - Single-State,0.96,0.69,-0.08,9.82,0.14,11.39,0.62,0.07,-15.01,-14.93,-16.88,-11.93,3.45%,$0.0278,Monthly,February 28
-VTN,XVTNX,Fixed Income - Municipal-Municipal - NY,0.53,0.12,-0.54,10.13,0.16,11.77,0.43,0.05,-15.29,-14.47,-18.09,-9.80,3.85%,$0.0320,Monthly,February 28
-VVR,XVVRX,Fixed Income - Taxable-Senior Loans,1.09,1.60,1.65,4.04,0.04,4.09,0.0,0.0,-2.20,-6.05,-11.14,0.24,12.90%,$0.0430,Monthly,February 28
-WDI,XWDIX,Fixed Income - Taxable-Multi-Sector,-0.20,-0.59,-0.43,13.44,0.19,14.97,-0.13,-0.02,-11.61,-11.00,-15.06,-7.62,12.68%,$0.1430,Monthly,December 31
-WEA,XWEAX,Fixed Income - Taxable-Investment Grade,0.32,0.27,0.64,10.56,0.09,11.05,-0.09,-0.01,-5.33,-5.88,-10.61,-0.54,8.02%,$0.0700,Monthly,December 31
-WIA,XWIAX,Fixed Income - Taxable-Investment Grade,-0.52,-0.63,-0.91,8.0266,0.07,9.22,-0.54,-0.05,-14.02,-13.17,-15.29,-10.00,7.53%,$0.0500,Monthly,November 30
-WIW,XWIWX,Fixed Income - Taxable-Investment Grade,0.84,0.58,-0.12,8.59,0.08,9.92,-0.5,-0.05,-14.04,-13.92,-16.11,-10.89,8.47%,$0.0605,Monthly,November 30
-XFLT,XFLTX,Fixed Income - Taxable-Senior Loans,-0.19,0.02,0.38,6.9,0.02,6.61,0.3,0.02,4.08,3.21,-3.88,9.38,14.83%,$0.0850,Monthly,September 30
-ZTR,XZTRX,Hybrid-Global Allocation,0.79,-0.61,-1.17,5.44,0.06,6.26,0.48,0.03,-13.64,-10.42,-17.33,-5.81,11.21%,$0.0500,Monthly,November 30
-DMA,XDMAX,Hybrid-U.S. Allocation,-0.89,0.41,-0.02,6.11,0.05,10.79,0.0,0.0,-43.84,-43.73,-54.46,-35.68,0.87%,$0.0526,Annually,February 28
-CCIF,XCCIFX,Fixed Income - Taxable-Senior Loans,0.43,0.01,0.06,7.7,-0.02,8.42,-1.17,-0.1,-4.70,-5.00,-21.03,2.18,15.45%,$0.0994,Monthly,September 30
-FSCO,XFSCX,Fixed Income - Taxable-Multi-Sector,1.17,1.63,1.80,5.89,0.23,6.91,0.14,0.01,-18.09,-26.26,-34.64,-16.33,12.08%,$0.0570,Monthly,December 31
+NRK,XNRKX,Fixed Income - Municipal-Municipal - NY,-0.16,-0.15,-0.59,10.17,0.1,11.87,0.51,0.06,-14.32,-13.70,-16.43,-9.55,4.84%,$0.0410,Monthly,February 28
+NRO,XNROX,Equity-Real Estate,0.88,0.10,-0.54,3.04,0.1,3.44,2.08,0.07,-11.63,-9.92,-14.56,-2.17,12.32%,$0.0312,Monthly,October 31
+NTG,XNTGX,Equity-MLP,-2.75,-3.17,-2.14,34.84,0.62,43.14,1.22,0.52,-19.71,-16.78,-19.76,-13.32,8.84%,$0.7700,Quarterly,November 30
+NUV,XNUVX,Fixed Income - Municipal-Municipal,-0.79,-1.23,-1.50,8.5,0.04,9.28,0.32,0.03,-8.41,-6.21,-9.54,-2.72,4.09%,$0.0290,Monthly,October 31
+NUW,XNUWX,Fixed Income - Municipal-Municipal,-0.47,-1.01,-1.47,13.46,0.15,15.13,0.27,0.04,-11.04,-9.00,-11.96,-5.25,3.79%,$0.0425,Monthly,October 31
+NVG,XNVGX,Fixed Income - Municipal-Municipal,1.13,0.52,-0.37,11.46,0.17,13.36,0.38,0.05,-14.22,-13.44,-17.70,-6.06,5.29%,$0.0505,Monthly,October 31
+NXC,XNXCX,Fixed Income - Municipal-Municipal - CA,-1.99,-2.31,-1.74,12.41,0.09,13.79,0.29,0.04,-10.01,-3.65,-10.40,7.89,4.21%,$0.0435,Monthly,February 28
+NXJ,XNXJX,Fixed Income - Municipal-Municipal - Single-State,1.29,1.32,0.71,11.56,0.05,13.56,0.44,0.06,-14.75,-15.43,-17.23,-13.15,3.58%,$0.0345,Monthly,February 28
+NXN,XNXNX,Fixed Income - Municipal-Municipal - NY,-1.84,-2.26,-2.24,11.36,-0.01,12.58,0.32,0.04,-9.70,-5.72,-10.14,-1.67,4.33%,$0.0410,Monthly,February 28
+NXP,XNXPX,Fixed Income - Municipal-Municipal,-0.40,-1.04,-0.62,14.15,0.04,14.45,0.28,0.04,-2.08,-1.00,-6.30,2.17,4.11%,$0.0485,Monthly,March 31
+NZF,XNZFX,Fixed Income - Municipal-Municipal,1.49,1.18,0.10,11.64,0.19,13.45,0.37,0.05,-13.46,-13.64,-17.61,-7.32,5.31%,$0.0515,Monthly,October 31
+OCCI,OCCI,Fixed Income - Taxable-Senior Loans,0.03,-0.81,-0.99,6.54,-0.06,6.54,-0.91,-0.06,-13.38,-4.59,-23.97,17.10,33.64%,$0.5500,Quarterly,October 31
+OIA,XOIAX,Fixed Income - Municipal-Municipal,0.45,0.52,0.00,6.2,0.09,6.18,0.16,0.01,0.32,0.32,-11.15,9.89,5.13%,$0.0265,Monthly,February 28
+OPP,XOPPX,Fixed Income - Taxable-High Yield,0.38,-0.22,-0.25,8.1699,0.12,9.34,0.97,0.09,-12.97,-12.31,-17.59,-3.87,15.00%,$0.1021,Monthly,June 30
+OXLC,OXLCX,Fixed Income - Taxable-Senior Loans,0.14,-0.70,-0.89,4.94,0.06,4.81,0.42,0.02,6.48,12.44,-5.71,33.10,19.47%,$0.0800,Monthly,March 31
+PAI,XPAIX,Fixed Income - Taxable-Investment Grade,0.27,-0.22,-0.68,11.82,0.25,12.69,0.87,0.11,-8.03,-7.19,-10.50,-2.42,4.82%,$0.0485,Monthly,December 31
+PAXS,XPAAX,Fixed Income - Taxable-Multi-Sector,1.38,1.03,1.25,14.45,0.06,14.46,0.42,0.06,-0.07,-3.39,-9.89,1.70,12.41%,$0.1494,Monthly,June 30
+PCF,XPCFX,Fixed Income - Taxable-Convertibles,0.39,0.12,-0.35,6.39,0.05,7.38,0.82,0.06,-13.41,-12.45,-17.93,-5.45,11.34%,$0.0604,Monthly,August 31
+PCK,XPCKX,Fixed Income - Municipal-Municipal - CA,-0.23,-0.97,-1.02,5.67,0.12,6.55,0.61,0.04,-13.44,-8.57,-16.47,6.66,4.55%,$0.0215,Monthly,December 31
+PCM,XPCMX,Fixed Income - Taxable-Limited Duration,-0.99,-1.64,-1.19,7.85,0.13,6.42,0.47,0.03,20.81,32.25,11.38,50.82,12.23%,$0.0800,Monthly,June 30
+PCN,XPCNX,Fixed Income - Taxable-Investment Grade,-0.51,-1.04,-0.95,12.4,0.15,11.26,0.54,0.06,9.38,15.29,1.32,29.00,10.89%,$0.1125,Monthly,June 30
+PCQ,XPCQX,Fixed Income - Municipal-Municipal - CA,-0.18,-0.91,-0.60,9.35,0.18,10.28,0.49,0.05,-9.05,0.53,-11.97,58.06,4.62%,$0.0360,Monthly,December 31
+PDI,XPDIX,Fixed Income - Taxable-Multi-Sector,0.70,-0.09,-0.23,17.96,0.16,16.89,0.42,0.07,6.78,6.70,-4.08,14.91,14.73%,$0.2205,Monthly,June 30
+PDO,XPDOX,Fixed Income - Taxable-Global Income,0.66,0.12,0.30,12.33,0.19,12.06,0.58,0.07,2.84,0.32,-8.33,6.39,12.45%,$0.1279,Monthly,June 30
+PDT,XPDTX,Fixed Income - Taxable-Preferreds,2.04,0.60,-0.36,11.08,0.22,11.69,1.65,0.19,-5.22,-3.15,-13.92,6.13,8.94%,$0.0825,Monthly,October 31
+PEO,XPEOX,Equity-Sector Equity,-1.80,-1.73,-1.06,20.51,0.0,24.79,0.53,0.13,-17.27,-15.94,-18.62,-13.01,20.48%,$1.0500,Quarterly,December 31
+PFD,XPFDX,Fixed Income - Taxable-Preferreds,1.19,0.31,-0.68,9.94,0.13,11.04,0.73,0.08,-9.96,-6.10,-17.20,5.01,6.64%,$0.0550,Monthly,November 30
+PFL,XPFLX,Fixed Income - Taxable-Multi-Sector,0.39,-0.22,-0.28,8.18,0.13,7.88,0.64,0.05,2.81,3.50,-4.88,8.31,11.94%,$0.0814,Monthly,June 30
+PFN,XPFNX,Fixed Income - Taxable-Multi-Sector,0.43,-0.45,-0.77,7.07,0.18,6.93,0.73,0.05,0.15,2.46,-7.24,8.47,12.19%,$0.0718,Monthly,June 30
+PFO,XPFOX,Fixed Income - Taxable-Preferreds,1.67,0.12,-0.70,7.8594,0.14,9.01,0.78,0.07,-12.77,-9.93,-17.38,-1.68,6.87%,$0.0450,Monthly,November 30
+PGP,XPGPX,Hybrid-Global Allocation,-0.21,-0.60,-0.79,7.02,0.09,7.05,1.0,0.07,-0.72,1.48,-5.76,11.04,11.79%,$0.0690,Monthly,June 30
+PGZ,XPGZX,Equity-Real Estate,1.27,1.66,1.53,9.45,0.13,10.47,0.96,0.1,-9.74,-13.28,-17.68,-6.93,13.33%,$0.1050,Monthly,October 31
+PHD,XPHDX,Fixed Income - Taxable-Senior Loans,0.74,0.99,0.60,9.06,0.07,10.1,0.1,0.01,-10.90,-11.91,-15.72,-7.60,12.25%,$0.0925,Monthly,November 30
+PHK,XPHKX,Fixed Income - Taxable-Multi-Sector,0.25,-0.53,-0.58,4.79,0.12,4.52,0.44,0.02,3.78,6.08,-2.35,14.51,12.03%,$0.0480,Monthly,June 30
+PHT,XPHTX,Fixed Income - Taxable-High Yield,1.06,1.70,1.74,7.22,0.16,7.78,0.52,0.04,-6.72,-11.29,-14.80,-6.97,9.14%,$0.0550,Monthly,March 31
+PIM,XPIMX,Fixed Income - Taxable-Investment Grade,0.37,-0.47,-0.06,3.09,0.0,3.4,0.59,0.02,-8.58,-8.49,-11.14,-5.35,8.54%,$0.0220,Monthly,September 30
+PMF,XPMFX,Fixed Income - Municipal-Municipal,0.39,-0.56,-0.90,9.27,0.11,9.37,0.54,0.05,-1.07,2.31,-5.98,13.26,5.44%,$0.0420,Monthly,December 31
+PML,XPMLX,Fixed Income - Municipal-Municipal,-0.66,-1.30,-1.96,8.18,0.09,8.71,0.58,0.05,-6.08,0.56,-8.51,6.69,5.79%,$0.0395,Monthly,December 31
+PMM,XPMMX,Fixed Income - Municipal-Municipal,0.37,-0.15,-0.65,5.85,0.13,6.45,0.31,0.02,-9.30,-5.56,-13.26,12.66,4.88%,$0.0238,Monthly,October 31
+PMO,XPMOX,Fixed Income - Municipal-Municipal,0.13,-0.22,-0.68,10.01,0.14,11.07,0.45,0.05,-9.58,-5.62,-14.20,8.72,4.20%,$0.0350,Monthly,April 30
+PMX,XPMQX,Fixed Income - Municipal-Municipal,1.30,0.10,-0.59,7.51,0.15,8.0,0.5,0.04,-6.13,-2.92,-12.28,17.07,5.27%,$0.0330,Monthly,December 31
+PNF,XPNFX,Fixed Income - Municipal-Municipal - NY,0.31,-0.59,-1.16,7.79,0.13,8.68,0.58,0.05,-10.25,-3.40,-16.34,9.66,5.16%,$0.0335,Monthly,December 31
+PNI,XPNIX,Fixed Income - Municipal-Municipal - NY,1.76,0.59,-0.26,7.39,0.14,8.36,0.72,0.06,-11.60,-10.75,-17.06,-0.35,4.79%,$0.0295,Monthly,December 31
+PPT,XPPTX,Fixed Income - Taxable-Global Income,-0.24,-0.83,-0.73,3.48,0.04,3.78,0.53,0.02,-7.45,-7.27,-10.33,-1.90,8.97%,$0.0260,Monthly,July 31
+PSF,XPSFX,Fixed Income - Taxable-Preferreds,2.13,2.75,2.73,20.15,0.31,19.64,0.36,0.07,2.96,-5.59,-12.01,1.44,7.50%,$0.1260,Monthly,December 31
+PTA,XPTAX,Fixed Income - Taxable-Preferreds,2.73,2.69,2.46,18.6,0.23,19.42,0.47,0.09,-4.22,-8.67,-12.96,-4.22,8.65%,$0.1340,Monthly,October 31
+PTY,XPTYX,Fixed Income - Taxable-Investment Grade,0.19,-0.17,0.62,13.96,0.16,10.95,0.55,0.06,26.72,22.55,9.28,37.06,10.21%,$0.1188,Monthly,June 30
+PYN,XPYNX,Fixed Income - Municipal-Municipal - NY,0.46,-0.55,-0.85,5.838,0.09,6.63,0.61,0.04,-11.95,-7.29,-15.83,23.11,5.10%,$0.0248,Monthly,December 31
+PZC,XPZCX,Fixed Income - Municipal-Municipal - CA,-1.32,-1.70,-1.79,7.15,0.11,7.63,0.53,0.04,-6.29,0.14,-7.25,9.14,4.95%,$0.0295,Monthly,December 31
+QQQX,XQQQX,Equity-Covered-Call Funds,0.43,-0.62,-1.27,22.99,0.23,24.22,0.17,0.04,-5.04,1.55,-9.84,10.16,7.30%,$0.4200,Quarterly,December 31
+RA,XRAIX,Fixed Income - Taxable-High Yield,1.04,-0.88,-1.55,12.69,-0.08,14.64,0.41,0.06,-13.32,4.50,-17.10,16.61,11.16%,$0.1180,Monthly,December 31
+RCG,XXRENNX,Hybrid-U.S. Allocation,1.69,1.61,0.71,1.7,-0.04,2.02,1.51,0.03,-12.56,-15.08,-25.11,-3.30,N/A,$0.0035,Data Not Available,December 31
+RCS,XRCSX,Fixed Income - Taxable-Investment Grade,0.85,1.06,1.44,5.68,0.03,4.29,0.94,0.04,32.40,24.42,12.79,34.69,10.77%,$0.0510,Monthly,June 30
+RFI,XRFIX,Equity-Real Estate,0.35,0.36,-0.58,11.695,0.46,11.48,1.59,0.18,-0.62,1.67,-5.98,12.46,8.21%,$0.0800,Monthly,December 31
+RFM,XRFMX,Fixed Income - Municipal-Municipal,-0.79,-1.22,-1.12,15.05,0.24,16.8,0.48,0.08,-11.42,-9.08,-14.27,-3.93,7.85%,$0.0985,Monthly,June 30
+RFMZ,XRFZX,Fixed Income - Municipal-Municipal,-0.72,-1.33,-1.51,13.4,0.33,15.29,0.33,0.05,-12.07,-10.78,-17.63,-5.60,7.75%,$0.0865,Monthly,June 30
+RGT,XRGTX,Equity-Global Equity,1.46,0.33,-0.29,9.24,0.03,11.1,1.56,0.17,-16.76,-16.30,-19.44,-12.13,1.41%,$0.1300,Annually,December 31
+RIV,XRIVX,Hybrid-U.S. Allocation,-0.96,-1.59,-1.50,10.72,0.15,12.16,0.91,0.11,-12.28,-7.17,-13.43,4.40,14.31%,$0.1278,Monthly,July 31
+RLTY,XRLTX,Equity-Real Estate,0.49,0.68,0.60,13.76,0.56,15.47,1.38,0.21,-11.05,-12.08,-15.45,-7.96,9.59%,$0.1100,Monthly,December 31
+RMI,XRMIX,Fixed Income - Municipal-Municipal,-0.47,-1.00,-1.41,15.41,0.15,16.99,0.53,0.09,-9.73,-4.72,-13.39,4.34,7.58%,$0.0974,Monthly,June 30
+RMM,XRMMX,Fixed Income - Municipal-Municipal,-0.90,-1.43,-1.74,14.56,0.27,16.08,0.44,0.07,-9.06,-6.27,-13.15,-0.50,7.51%,$0.0911,Monthly,June 30
+RMMZ,XRMZX,Fixed Income - Municipal-Municipal,-1.43,-1.96,-1.62,14.82,0.13,17.09,0.47,0.08,-12.87,-9.82,-14.88,-4.76,7.86%,$0.0971,Monthly,June 30
+RMT,XOTCX,Equity-U.S. Equity,1.17,0.40,-0.33,8.65,0.12,9.85,2.18,0.21,-12.18,-11.78,-13.65,-8.81,7.86%,$0.1700,Quarterly,December 31
+RNP,XRNPX,Equity-Real Estate,0.56,0.05,-0.63,19.23,0.68,19.83,1.43,0.28,-5.12,-2.50,-9.76,9.98,8.49%,$0.1360,Monthly,December 31
+RQI,XRQIX,Equity-Real Estate,0.85,0.46,-0.34,11.74,0.44,12.34,2.07,0.25,-2.89,-5.77,-10.21,0.16,8.18%,$0.0800,Monthly,December 31
+RSF,XRSFX,Fixed Income - Taxable-High Yield,1.23,1.02,0.15,15.63,0.08,16.65,0.36,0.06,-6.24,-6.57,-9.64,2.34,10.93%,$0.1424,Monthly,June 30
+RVT,XRVTX,Equity-U.S. Equity,2.53,2.18,0.19,13.73,0.33,15.44,2.18,0.33,-11.08,-11.48,-14.46,-4.25,7.57%,$0.2600,Quarterly,December 31
+SBI,XSBIX,Fixed Income - Municipal-Municipal,-0.33,-0.85,-1.05,7.6,0.12,8.88,0.34,0.03,-15.48,-14.37,-16.24,-10.63,3.71%,$0.0310,Monthly,December 31
+SCD,XSCDX,Hybrid-Global Allocation,0.94,1.22,1.59,13.23,0.07,15.03,0.87,0.13,-11.68,-13.63,-15.91,-10.03,10.25%,$0.1130,Monthly,November 30
+SDHY,XSDHX,Fixed Income - Taxable-High Yield,0.66,0.03,-0.34,14.91,0.19,17.14,0.35,0.06,-12.70,-12.11,-15.05,-7.55,8.69%,$0.1080,Monthly,December 31
+SOR,XSORX,Hybrid-U.S. Allocation,1.76,1.98,1.29,40.3834,0.3,43.45,0.42,0.18,-7.06,-8.95,-12.86,-4.00,6.19%,$0.2083,Monthly,December 31
+SPE,XSPEX,Equity-U.S. Equity,-0.95,-1.40,-1.26,11.41,0.16,13.96,1.45,0.2,-18.24,-15.96,-19.97,-10.01,9.12%,$0.0867,Monthly,December 31
+SPXX,XSSPX,Equity-Covered-Call Funds,-0.80,-1.41,-1.23,14.78,0.07,16.17,0.37,0.06,-8.60,-1.73,-9.53,16.12,7.96%,$0.2940,Quarterly,December 31
+SRV,XSRVX,Equity-MLP,-1.24,-1.71,-0.30,36.8,1.76,39.32,1.31,0.51,-6.41,-4.11,-16.79,11.93,14.67%,$0.4500,Monthly,November 30
+STEW,XSTEX,Equity-U.S. Equity,-0.06,-0.73,-0.88,13.57,0.15,16.9,0.42,0.07,-19.70,-18.68,-20.89,-15.45,4.05%,$0.1375,Quarterly,November 30
+STK,XSTKX,Equity-Covered-Call Funds,1.76,1.48,2.06,31.29,0.15,27.68,0.73,0.2,13.04,6.65,0.56,13.38,5.91%,$0.4625,Quarterly,December 31
+SWZ,XSWZX,Equity-Single-Country Equity,0.61,0.09,-0.32,7.85,0.11,9.32,-0.11,-0.01,-15.77,-15.39,-17.85,-12.11,6.26%,$0.1229,Quarterly,December 31
+TBLD,XTBLX,Hybrid-Global Allocation,1.13,0.86,-0.06,15.27,0.04,17.58,0.4,0.07,-13.08,-13.00,-16.14,-9.88,8.18%,$0.1042,Monthly,September 30
+TDF,XTDFX,Equity-Asia Equity,2.04,2.33,2.07,8.58,-0.06,9.63,-1.13,-0.11,-10.90,-14.40,-18.72,-10.54,30.34%,$1.3014,Semi-Annually,December 31
+TEAF,XTEAX,Equity-Sector Equity,0.73,0.50,0.14,11.96,-0.05,14.9,0.4,0.06,-19.04,-19.25,-23.92,-15.61,9.03%,$0.0900,Monthly,November 30
+TEI,XTEIX,Fixed Income - Taxable-Emerging Market Income,1.21,0.40,-0.30,5.03,0.05,5.68,0.71,0.04,-11.44,-10.47,-17.23,-1.19,10.50%,$0.0440,Monthly,December 31
+THQ,XTHQX,Equity-Sector Equity,0.56,-0.54,-1.15,17.42,0.25,20.49,0.74,0.15,-14.98,-12.19,-19.22,-8.88,7.75%,$0.1125,Monthly,September 30
+THW,XTHWX,Equity-Sector Equity,0.00,-0.86,-1.53,11.45,0.21,11.62,0.69,0.08,-1.46,7.83,-9.56,16.46,12.23%,$0.1167,Monthly,September 30
+TPZ,XTPZX,Hybrid-U.S. Allocation,-1.67,-1.56,-1.25,13.73,0.16,16.38,0.8,0.13,-16.49,-14.93,-17.49,-11.21,9.18%,$0.1050,Monthly,November 30
+TSI,XXCVTXX,Fixed Income - Taxable-Multi-Sector,-1.11,-1.32,-0.81,4.7,0.02,5.13,0.59,0.03,-8.24,-6.46,-8.85,-0.60,5.11%,$0.0600,Quarterly,December 31
+TTP,XTTPX,Equity-MLP,-1.68,-2.08,-2.12,28.47,0.45,35.08,1.39,0.48,-19.02,-16.15,-19.51,-12.12,8.29%,$0.5900,Quarterly,November 30
+TWN,XXTWNXX,Equity-Asia Equity,0.94,-0.26,-0.69,33.28,0.36,41.37,-0.36,-0.15,-20.71,-19.16,-31.90,-13.97,1.44%,$0.4780,Annually,August 31
+TY,XTYCX,Hybrid-U.S. Allocation,1.28,1.41,0.51,28.06,0.23,31.7,0.92,0.29,-11.48,-11.82,-13.46,-10.34,3.94%,$0.2765,Quarterly,December 31
+TYG,XTYGX,Equity-MLP,-2.19,-1.82,-1.49,28.5,0.39,35.86,1.5,0.53,-20.44,-17.70,-20.81,-10.88,9.96%,$0.7100,Quarterly,November 30
+USA,XUSAX,Equity-U.S. Equity,-1.52,-1.62,-2.13,6.18,0.01,6.46,0.94,0.06,-4.33,-0.41,-5.70,5.26,9.71%,$0.1500,Quarterly,December 31
+UTF,XUTFX,Equity-Sector Equity,2.24,1.45,1.01,22.38,0.93,22.25,1.18,0.26,0.58,-1.89,-7.11,4.14,8.31%,$0.1550,Monthly,December 31
+UTG,XUTGX,Equity-Sector Equity,-0.40,-0.75,-0.56,26.77,0.35,26.83,1.86,0.49,-0.22,0.32,-3.00,2.85,8.52%,$0.1900,Monthly,October 31
+VBF,XVBFX,Fixed Income - Taxable-Investment Grade,1.30,1.94,0.50,15.46,0.25,15.97,0.88,0.14,-3.19,-4.36,-8.32,0.81,5.27%,$0.0679,Monthly,February 28
+VCV,XVCVX,Fixed Income - Municipal-Municipal - CA,1.13,-0.11,-0.72,9.49,0.12,11.11,0.45,0.05,-14.58,-13.22,-17.07,-8.59,4.05%,$0.0320,Monthly,February 28
+VFL,XVFLX,Fixed Income - Municipal-Municipal,0.87,-0.08,-0.84,9.71,0.2,11.52,0.52,0.06,-15.71,-13.03,-18.65,-2.41,4.02%,$0.0325,Monthly,March 31
+VGI,XVGIX,Fixed Income - Taxable-Multi-Sector,-0.12,-0.36,-0.58,7.44,0.09,8.5,0.59,0.05,-11.95,-12.13,-16.69,-7.83,12.90%,$0.0800,Monthly,November 30
+VGM,XVGMX,Fixed Income - Municipal-Municipal,1.40,0.85,-0.17,9.62,0.16,11.08,0.36,0.04,-13.18,-12.86,-17.07,-7.80,4.27%,$0.0342,Monthly,February 28
+VKI,XVKIX,Fixed Income - Municipal-Municipal,1.30,0.19,-0.65,8.28,0.13,9.6,0.42,0.04,-13.75,-12.42,-16.89,-8.33,4.48%,$0.0309,Monthly,February 28
+VKQ,XVKQX,Fixed Income - Municipal-Municipal,1.20,0.36,-0.46,9.33,0.11,10.78,0.37,0.04,-13.45,-12.52,-17.27,-6.60,4.45%,$0.0346,Monthly,February 28
+VLT,XVLTX,Fixed Income - Taxable-High Yield,0.60,-0.33,-0.42,10.16,0.1,11.31,0.62,0.07,-10.17,-9.46,-13.35,-4.63,11.39%,$0.0964,Monthly,February 28
+VMO,XVMOX,Fixed Income - Municipal-Municipal,1.61,0.55,-0.30,9.31,0.15,10.73,0.37,0.04,-13.23,-12.64,-17.05,-6.16,4.38%,$0.0340,Monthly,February 28
+VPV,XVPVX,Fixed Income - Municipal-Municipal - Single-State,2.15,2.16,0.81,9.82,0.14,11.44,0.44,0.05,-14.16,-14.94,-16.88,-11.93,3.40%,$0.0278,Monthly,February 28
+VTN,XVTNX,Fixed Income - Municipal-Municipal - NY,1.36,1.08,0.13,10.13,0.16,11.82,0.42,0.05,-14.30,-14.49,-18.09,-9.91,3.79%,$0.0320,Monthly,February 28
+VVR,XVVRX,Fixed Income - Taxable-Senior Loans,1.74,2.20,2.15,4.04,0.04,4.08,-0.24,-0.01,-0.98,-6.02,-11.14,0.24,12.77%,$0.0430,Monthly,February 28
+WDI,XWDIX,Fixed Income - Taxable-Multi-Sector,-0.06,-0.47,-0.31,13.44,0.19,15.06,0.6,0.09,-11.49,-11.00,-15.06,-7.62,12.50%,$0.1430,Monthly,December 31
+WEA,XWEAX,Fixed Income - Taxable-Investment Grade,-0.08,-0.18,0.25,10.56,0.09,11.11,0.54,0.06,-5.25,-5.88,-10.61,-0.54,7.95%,$0.0700,Monthly,December 31
+WIA,XWIAX,Fixed Income - Taxable-Investment Grade,-0.06,-0.15,-0.53,8.0266,0.07,9.29,0.76,0.07,-13.67,-13.16,-15.29,-10.00,7.48%,$0.0500,Monthly,November 30
+WIW,XWIWX,Fixed Income - Taxable-Investment Grade,0.62,0.34,-0.28,8.59,0.08,10.0,0.81,0.08,-14.21,-13.92,-16.11,-10.89,8.45%,$0.0605,Monthly,November 30
+XFLT,XFLTX,Fixed Income - Taxable-Senior Loans,-0.20,0.02,0.38,6.9,0.02,6.63,0.3,0.02,4.07,3.21,-3.88,9.38,14.78%,$0.0850,Monthly,September 30
+ZTR,XZTRX,Hybrid-Global Allocation,1.25,-0.58,-1.14,5.44,0.06,6.34,1.28,0.08,-14.06,-10.42,-17.33,-5.81,11.03%,$0.0500,Monthly,November 30
+DMA,XDMAX,Hybrid-U.S. Allocation,-0.79,0.45,0.03,6.11,0.05,10.83,0.37,0.04,-43.58,-43.75,-54.46,-35.68,0.86%,$0.0526,Annually,February 28
+CCIF,XCCIFX,Fixed Income - Taxable-Senior Loans,0.43,0.01,0.06,7.7,-0.02,8.42,-1.17,-0.1,-4.95,-5.00,-21.03,2.18,15.49%,$0.0994,Monthly,September 30
+FSCO,XFSCX,Fixed Income - Taxable-Multi-Sector,1.81,2.15,2.21,5.89,0.23,7.02,1.59,0.11,-16.10,-26.23,-34.64,-16.10,11.61%,$0.0570,Monthly,December 31
